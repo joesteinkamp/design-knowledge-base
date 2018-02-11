@@ -10,7 +10,7 @@
 ## Psychology, Sociology & HCI References
 
 ## Data & Research
-- Design Metrics Repository
+- [Design Metrics Repository](https://joesteinkamp.github.io/design-knowledge-base/Data%2BResearch/Design-Metrics.html)
 
 ## Business
 
