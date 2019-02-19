@@ -2,25 +2,7 @@
 
 ## Incentives
 150%-200% of current hourly rate
-30 minutes session is 
-* Teachers: $50 for hour; $35 for 30 minutes
-    * Principals: $70 
-* $30 per hour; $20 for 30 minutes for hospitality workers
-* Nurses
-* Admins: no incentives
-* Clients: 
-    * Supervisors: $50 for hour; $35 for minutes
-    * Accounting / Managers: 
-
-
-
-## Tiers
-1. Unskilled: $30 an hour; $20 for 30 minutes
-2. Experienced Professionals / Onsite Manager: $50 an hour; $35 for 30 minutes
-3. Administrators / Mid-Level Manager: $70 an hour; $50 for 30 minutes
-4. Corporate Manager: Custom
-5. Internal Staff: Zero
-
+30 minutes session is 1/3 off of an hour rate rounding up
 
 Amazon Gift Codes to Email
 
