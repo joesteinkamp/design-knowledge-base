@@ -4,6 +4,20 @@
 @import "{{ site.theme }}";
 
 
+// ***** VARIABLES *****
+$defaultColor: #000000;
+
+
+
+
+// ***** OVERRIDES *****
+
+.wrapper {
+    width: 100%;
+    margin: 0;
+}
+
+
 header { 
     display: block;
     float: none;
@@ -14,4 +28,6 @@ header {
 section {
     width: 100%;
     float: none;
+    max-width: 1024px;
+    margin: 0 auto;
 }
