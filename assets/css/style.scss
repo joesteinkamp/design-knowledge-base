@@ -2,15 +2,25 @@
 ---
 
 @import "{{ site.theme }}";
+@import url('https://fonts.googleapis.com/css?family=Poppins|Roboto&display=swap');
 
 
 // ***** VARIABLES *****
-$defaultColor: #000000;
+$primaryColor: #247BA0;
+$secondaryColor: #70C1B3;
+$darkAccentColor: #FFE066;
+$lightAccentColor: #F5EFE4;
+$redColor: #F05D5E;
+$darkGrayColor: #50514F;
+$lightGrayColor: #E5E5E5;
+$whiteColor: #FFFEFC;
 
 
 
 
-// ***** OVERRIDES *****
+
+
+// ***** THEME OVERRIDES *****
 
 .wrapper {
     width: 100%;
@@ -31,3 +41,16 @@ section {
     max-width: 1024px;
     margin: 0 auto;
 }
+
+
+
+
+
+// ***** NEW STYLES *****
+body {
+    font-family: Roboto, sans-serif;
+    color: $darkGrayColor;
+}
+
+
+
