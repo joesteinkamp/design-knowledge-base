@@ -2,3 +2,16 @@
 ---
 
 @import "{{ site.theme }}";
+
+
+header { 
+    display: block;
+    float: none;
+    width: 100%;
+    position: relative;
+}
+
+section {
+    width: 100%;
+    float: none;
+}
