@@ -19,3 +19,8 @@
 ## Management
 
 ## Operations
+
+
+
+#[Markdown Cheatsheet](https://github.com/tchapi/markdown-cheatsheet)
+https://www.webfx.com/tools/emoji-cheat-sheet/
