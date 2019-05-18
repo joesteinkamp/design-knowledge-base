@@ -1,28 +1,54 @@
 # Design Knowledge Base
 
-## Design Defintion & Field
+## Framework
 
-## Design Vision
-- Design Principles
+The framework is the how to do the work.
 
-## Design Process & Methodology Repository
+- Process, Methods and Techniques
+- Principles and best practices
+- Toolkits
 
-## Psychology, Sociology & HCI References
+###### [Learn More](../1_Framework/)
 
-## Data & Research
-- [Design Metrics Repository](https://joesteinkamp.github.io/design-knowledge-base/1_Framework/Data%2BResearch/Design-Metrics.html)
+## Craft
 
-## Business
 
-## Technology
+- Domain Knowledge
+- Technology
+- Usability, Psychology, Behavior Science, Sociology, Color Theory
 
-## Management
+###### [Learn More](../2_Craft/)
+
+## Mindset
+
+- Soft Skills
+- Prioritization
+- Time Management
+
+###### [Learn More](../3_Mindset/)
+
 
 ## Operations
 
+- Team Rituals
+- Tools
 
 
-###### [Markdown Cheatsheet](https://github.com/tchapi/markdown-cheatsheet)
+###### [Learn More](../4_Operations/)
+
+## Leadership
+
+- Management
+- Prove Value Strategies
+- Roles
+
+###### [Learn More](../5_Leadsership/)
 
 
-https://www.webfx.com/tools/emoji-cheat-sheet/
+###### [Markdown Cheatsheet]()
+
+
+## Documentation Reference
+
+- https://github.com/tchapi/markdown-cheatsheet
+- https://www.webfx.com/tools/emoji-cheat-sheet/
