@@ -1,6 +1,6 @@
 theme: jekyll-theme-minimal
 title: Design Knowledge Base
 description: An open source design documentation repository.
-logo: /assets/img/logo.png
+logo: /_assets/img/logo.png
 
 google_analytics: UA-8657893-7
