@@ -55,8 +55,13 @@ body {
 
 
 
+// ***** HACKS ******
 
+// Button
 h1 a {
-    padding: 30px;
+    padding: 18px 40px;
     background: $primaryColor;
+    color: $whiteColor;
+    font-size: 24px;
+    line-height: 32px;
 }
