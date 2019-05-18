@@ -64,6 +64,8 @@ header {
             height: auto;
             border-radius: 8px;
         }
+        a:hover { color: $lightGrayColor; }
+        a:active { color: $primaryColor; background: $lightGrayColor; }
     }
     li, ul li+li+li {
         width: auto;
