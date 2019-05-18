@@ -25,7 +25,8 @@ $whiteColor: #FFFEFC;
 body {
     padding: 0;
     margin: 0;
-    font-size: 18px/28px;
+    font-size: 18px;
+    line-height: 28px;
     font-family: 'Roboto', Arial, Helvetica, sans-serif;
     color: $darkGrayColor;
     -webkit-font-smoothing: antialiased;
