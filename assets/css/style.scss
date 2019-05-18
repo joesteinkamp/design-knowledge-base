@@ -39,6 +39,16 @@ header {
     float: none;
     width: 100%;
     position: relative;
+    
+    ul {
+        list-style: none;
+        height: auto;
+        padding: 0;
+        background: none;
+        border-radius: 0;
+        border: 0;
+        width: auto;
+    }
 }
 
 section {
@@ -56,12 +66,13 @@ section {
 header{
     background: $primaryColor;
 
-    .menu {
+    ul {
         list-style: none;
+        margin: 0;
         
         li {
             display: inline-block;
-            
+
             a {
                 font-weight: 700;
                 color: #fff;
