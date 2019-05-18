@@ -43,7 +43,7 @@ header {
     float: none;
     width: 100%;
     position: relative;
-    
+
     ul {
         list-style: none;
         height: auto;
@@ -88,9 +88,14 @@ header{
 
     a { color: $lightGrayColor; }
 
+    img { display: inline-block; }
+    
+    h1 { display: inline-block; }
+
     ul {
         list-style: none;
-        margin: 0;
+        margin: 0 40px 0 0;
+        display: inline-block;
         
         li {
             display: inline-block;
