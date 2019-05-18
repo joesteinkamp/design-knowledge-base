@@ -53,7 +53,7 @@ header {
         border: 0;
         width: auto;
     }
-    li, li+li+li {
+    li, ul li+li+li {
         width: auto;
         float: none;
         border-right: 0;
