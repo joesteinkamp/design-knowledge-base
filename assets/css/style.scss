@@ -6,9 +6,9 @@
 
 
 // ***** VARIABLES *****
-$primaryColor: #247BA0;
-$secondaryColor: #70C1B3;
-$darkAccentColor: #FFE066;
+$primaryColor: #4B6881;
+$secondaryColor: #76A84D;
+$darkAccentColor: #F5EFDE;
 $lightAccentColor: #F5EFE4;
 $redColor: #F05D5E;
 $darkGrayColor: #50514F;
@@ -58,10 +58,11 @@ body {
 // ***** HACKS ******
 
 // Button
-h1 a {
+h6 a {
     padding: 18px 40px;
     background: $primaryColor;
     color: $whiteColor;
     font-size: 24px;
     line-height: 32px;
+    border-radius: 16px;
 }
