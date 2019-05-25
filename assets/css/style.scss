@@ -123,8 +123,7 @@ header{
     margin-bottom: 40px;
     padding: 24px;
     display: grid;
-    // grid-template-columns: auto auto;
-    grid-column: span 2;
+    grid-template-columns: auto auto;
     grid-gap: 10px;
     box-sizing: border-box;
 
@@ -177,7 +176,7 @@ footer {
 // ***** MEDIA QUERIES *****
 @media screen and (max-width: 480px) {
     header {
-        grid-column: 1;
+        grid-template-columns: auto;
     }
 }
 
