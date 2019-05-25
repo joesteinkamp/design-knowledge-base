@@ -94,6 +94,11 @@ footer {
 
 
 @media print, screen and (max-width: 960px) {
+    header ul {
+        position: inherit;
+        right: inherit;
+        top: inherit;
+    }
     section {
         border: inherit;
         border-width: inherit;
@@ -102,7 +107,17 @@ footer {
     }
 }
 
+@media print, screen and (max-width: 720px) {
+    header ul, header p.view {
+        position: inherit;
+    }
+}
 
+@media print, screen and (max-width: 480px) {
+    header ul {
+        width: inherit;
+    }
+}
 
 // ***** NEW STYLES *****
 a {
