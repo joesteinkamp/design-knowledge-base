@@ -167,7 +167,13 @@ header{
 
     img { display: inline-block; }
     
-    h1 { display: inline-block; margin-bottom: 0; }
+    h1 { 
+        display: inline-block; 
+        margin-bottom: 0; 
+        font-size: 24px; 
+        font-family: 'Roboto', sans-serif; 
+        font-weight: 500;
+    }
 
     > div:last-child {
         text-align: right;
@@ -178,7 +184,10 @@ header{
         margin: 0 0 0 40px;
         display: inline-block;
 
-        a { text-decoration: none; }
+        a { 
+            text-decoration: none; 
+            font-weight: 500; 
+        }
         
         li {
             display: inline-block;
