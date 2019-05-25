@@ -1,1 +1,0 @@
-# Adaptive UX Process
