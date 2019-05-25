@@ -121,6 +121,7 @@ header{
     display: grid;
     grid-template-columns: auto auto;
     grid-gap: 10px;
+    box-sizing: border-box;
 
     a { color: $lightGrayColor; }
 
