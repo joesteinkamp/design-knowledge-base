@@ -32,7 +32,7 @@ In the deliver phase, details are added to the solution to establish clear speci
 
 In the listen phase, the final product is monitored to verify if the solution solves the problem, to find opportunity for quick iterations, and to find opportunity for the future. **Verify that the solution actually solves the problem.**
 
-![Design Process Diagram](./_assets/Design-Process-Diagram.png)
+![Design Process Diagram](./assets/Design-Process-Diagram.png)
 
 ## Baseline Process
 
