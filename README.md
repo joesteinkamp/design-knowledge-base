@@ -17,7 +17,7 @@ The framework is the how to do the work.
 - Technology
 - Usability, Psychology, Behavior Science, Sociology, Color Theory
 
-###### [Learn More](../2_Craft/)
+###### [Learn More](./2_Craft/)
 
 ## Mindset
 
@@ -25,7 +25,7 @@ The framework is the how to do the work.
 - Prioritization
 - Time Management
 
-###### [Learn More](../3_Mindset/)
+###### [Learn More](./3_Mindset/)
 
 
 ## Operations
@@ -42,7 +42,7 @@ The framework is the how to do the work.
 - Prove Value Strategies
 - Roles
 
-###### [Learn More](../5_Leadsership/)
+###### [Learn More](./5_Leadsership/)
 
 
 ###### [Markdown Cheatsheet]()

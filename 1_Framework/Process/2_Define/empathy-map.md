@@ -24,7 +24,7 @@ A simple diagram that provides a high level but detailed look at a specific user
 
 ### Templates \(if applicable\)
 
-1. [Printout](/assets/empathy_map.pdf)
+1. [Printout](_/assets/empathy_map.pdf)
 
 
 

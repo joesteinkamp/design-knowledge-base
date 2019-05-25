@@ -8,27 +8,27 @@
 
 ## Phases
 
-#### [Understand](../1_Framework/1_Understand/)
+#### [Understand](./1_Understand/)
 
 In the understand phase, the main goal is to gather as much information as possible about the problem space and to leverage all previous knowledge to uncover new insights. **Uncover and understand the problem.**
 
-#### Define
+#### [Define](./2_Define/)
 
 In the define phase, the primary task is to synthesize all the knowledge gained from the previous phase to shape the strategic approaches necessary to solve the problem by sharing that knowledge. **Describe the problem and what is needed to solve it.**
 
-#### Explore
+#### [Explore](./3_Explore)
 
 In the explore phase, the goal is to generate divergent solutions through collaboration and conceptual design. **Create multiple potential solutions to the problem.**
 
-#### Decide
+#### [Decide](./4_Decide)
 
 In the decide phase, the divergent approaches are evaluated with users, data, and internally to validate the solutions. **Focus on the best solution.**
 
-#### Deliver
+#### [Deliver](./5_Deliver)
 
 In the deliver phase, details are added to the solution to establish clear specifications on what is required to create a successful solution. **Specify the solution details.**
 
-#### Listen
+#### [Listen](./6_Listen)
 
 In the listen phase, the final product is monitored to verify if the solution solves the problem, to find opportunity for quick iterations, and to find opportunity for the future. **Verify that the solution actually solves the problem.**
 

@@ -1,28 +1,16 @@
-# Design Knowledge Base
+# Framework
 
-## Design Defintion & Field
+## Summary
+The framework is the how to do the work.
 
-## Design Vision
-- Design Principles
-
-## Design Process & Methodology Repository
-
-## Psychology, Sociology & HCI References
-
-## Data & Research
-- [Design Metrics Repository](https://joesteinkamp.github.io/design-knowledge-base/1_Framework/Data%2BResearch/Design-Metrics.html)
-
-## Business
-
-## Technology
-
-## Management
-
-## Operations
+- Strategy
+- Process, Methods and Techniques
+- Toolkit and Tool expertise
 
 
+## [Process](./Process/)
+A database of methodologies and playbooks that are used to as a part of a design process.
 
-###### [Markdown Cheatsheet](https://github.com/tchapi/markdown-cheatsheet)
 
-
-https://www.webfx.com/tools/emoji-cheat-sheet/
+## [Toolkits](./Toolkits/)
+A complete package of methodologies and outlined agendas to run a specific process from beginning to end.

@@ -49,8 +49,8 @@ Is a framework developed by Clayton Christensen based on Outcome-Driven Innovati
 
 ### Templates \(if applicable\)
 
-1. [Jobs to be Done Worksheet](/assets/Jobs to be Done Framework - JS.pdf)
-2. [Jobs to be Done Sketch File](/assets/Jobs to be Done Framework.sketch)
+1. [Jobs to be Done Worksheet](./_assets/Jobs to be Done Framework - JS.pdf)
+2. [Jobs to be Done Sketch File](./_assets/Jobs to be Done Framework.sketch)
 
 
 
