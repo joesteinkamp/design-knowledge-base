@@ -175,13 +175,11 @@ footer {
 
 // ***** MEDIA QUERIES *****
 @media screen and (max-width: 1024px) {
-    section, footer {
-        padding: 24px;
-    }
-}
-@media screen and (max-width: 768px) {
     header {
         grid-template-columns: auto;
+    }
+    section, footer {
+        padding: 24px;
     }
 }
 
