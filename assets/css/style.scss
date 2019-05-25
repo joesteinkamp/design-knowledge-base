@@ -118,6 +118,9 @@ header{
     top: 0;
     margin-bottom: 40px;
     padding: 24px;
+    display: grid;
+    grid-template-columns: auto auto;
+    grid-gap: 10px;
 
     a { color: $lightGrayColor; }
 
