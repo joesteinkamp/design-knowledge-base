@@ -32,13 +32,6 @@ body {
     -webkit-font-smoothing: antialiased;
 }
 
-a {
-    color: $primaryColor;
-}
-a:hover {
-    text-decoration: underline;
-}
-
 .wrapper {
     width: 100%;
     margin: 0;
@@ -112,17 +105,25 @@ footer {
 
 
 // ***** NEW STYLES *****
+a {
+    color: $primaryColor;
+}
+a:hover {
+    text-decoration: underline;
+}
+
 header{
     background: $primaryColor;
     position: sticky;
     top: 0;
     margin-bottom: 40px;
+    padding: 24px;
 
     a { color: $lightGrayColor; }
 
     img { display: inline-block; }
     
-    h1 { display: inline-block; }
+    h1 { display: inline-block; margin-bottom: 0; }
 
     ul {
         list-style: none;
@@ -141,6 +142,7 @@ header{
                 color: $lightGrayColor;
             }
         }
+        li:last-child { padding-right: 0; }
     }
 } 
 
