@@ -93,6 +93,16 @@ footer {
 }
 
 
+@media print, screen and (max-width: 960px) {
+    section {
+        border: inherit;
+        border-width: inherit;
+        padding: inherit;
+        margin: inherit;
+    }
+}
+
+
 
 // ***** NEW STYLES *****
 header{
@@ -111,6 +121,7 @@ header{
         list-style: none;
         margin: 0 0 0 40px;
         display: inline-block;
+        float: right;
 
         a { text-decoration: none; }
         
@@ -129,6 +140,20 @@ header{
 h1, h2, h3, h4, h5, h6 {
     font-family: 'Poppins', sans-serif;
 }
+
+footer {
+    border-top: 1px solid $lightGrayColor;
+    margin: 0 auto;
+    padding-top: 24px;
+}
+
+
+
+
+
+
+// ***** MEDIA QUERIES *****
+
 
 
 

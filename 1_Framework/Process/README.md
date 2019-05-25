@@ -36,40 +36,40 @@ In the listen phase, the final product is monitored to verify if the solution so
 
 ## Baseline Process
 
-#### **Kickoff the project and get all the required information to create the work plan.**
+#### Kickoff the project and get all the required information to create the work plan.
 
 1. Collaborate on writing the opportunity statement, the high-level problems, and hypotheses that make up the opportunity space.
 2. Fill out the project intake form, including goal, audience, success criteria, and desired completion date. Create a recommended project plan based on the timeline.
 
-#### ** Understand the problem on a deeper level.**
+#### Understand the problem on a deeper level.
 
 1. Learn about your user
 2. Learn about the context of the problem
 3. Learn about the business and uncover what are the product requirements
 
-#### **Define the user's story and how we might approach solving it.**
+#### Define the user's story and how we might approach solving it.
 
 1. Synthesize and transfer the findings from Understand by visualizing them  into easily understood documents and artifacts
 2. Start thinking about how we might solve this problem by framing the problem from the user's perspective
 3. Define what success will look like to the user and business, leverage BIs within this step 
 
-#### **Explore the problem space through creative solutioning.**
+#### Explore the problem space through creative solutioning.
 
 1. Gather inspiration and begin to think broadly about the problem space
 2. Explore many high ideas across the spectrum of design through low fidelity design output
 3. Begin to shape the best ideas into the more tangible versions, such as prototypes.
 
-#### **Decide on the best approach to move forward with now.**
+#### Decide on the best approach to move forward with now.
 
 1. Review the few design approaches internally
 2. Validate the approaches through user research 
 
-#### **Deliver and handoff the detailed design.**
+#### Deliver and handoff the detailed design.
 
 1. Create specifications for the other team members to understand
 2. Continue to collaborate with the design builders to make sure the design is realized
 
-#### **Listen to the user response and find more opportunities for improvement.**
+#### Listen to the user response and find more opportunities for improvement.
 
 1. Benchmark the final product and set expectations of performance
 2. Continue to track and monitor the performance to uncover new problems
