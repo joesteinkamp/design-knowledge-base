@@ -112,6 +112,10 @@ a:hover {
     text-decoration: underline;
 }
 
+h1, h2, h3, h4, h5, h6 {
+    font-family: 'Poppins', sans-serif;
+}
+
 header{
     background: $primaryColor;
     position: sticky;
@@ -128,6 +132,10 @@ header{
     img { display: inline-block; }
     
     h1 { display: inline-block; margin-bottom: 0; }
+
+    > div:last-child {
+        text-align: right;
+    }
 
     ul {
         list-style: none;
@@ -149,14 +157,15 @@ header{
     }
 } 
 
-h1, h2, h3, h4, h5, h6 {
-    font-family: 'Poppins', sans-serif;
+section {
+    box-sizing: border-box;
 }
 
 footer {
     border-top: 1px solid $lightGrayColor;
     margin: 0 auto;
     padding-top: 24px;
+    box-sizing: border-box;
 }
 
 
