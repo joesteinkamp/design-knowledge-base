@@ -2,18 +2,16 @@
 ---
 
 @import "{{ site.theme }}";
-@import url('https://fonts.googleapis.com/css?family=Poppins|Roboto&display=swap');
+@import url('https://fonts.googleapis.com/css?family=Poppins:400,500,600,700|Roboto&display=swap');
 
 
 // ***** VARIABLES *****
-$primaryColor: #4B6881;
-$secondaryColor: #76A84D;
-$darkAccentColor: #F5EFDE;
-$lightAccentColor: #F5EFE4;
-$redColor: #F05D5E;
-$darkGrayColor: #50514F;
-$lightGrayColor: #E5E5E5;
-$whiteColor: #FFFEFC;
+$primaryColor: #2C5D9C;
+$lightAccentColor: #D5DFEB;
+$darkGrayColor: #6C7B8B;
+$lightGrayColor: #F0F1F3;
+$whiteColor: #FFFFFF;
+$blackColor: #000000;
 
 
 
@@ -28,7 +26,7 @@ body {
     font-size: 18px;
     line-height: 28px;
     font-family: 'Roboto', Arial, Helvetica, sans-serif;
-    color: $darkGrayColor;
+    color: $blackColor;
     -webkit-font-smoothing: antialiased;
 }
 
@@ -130,6 +128,29 @@ a:hover {
 h1, h2, h3, h4, h5, h6 {
     font-family: 'Poppins', sans-serif;
 }
+
+h1 {
+    font-weight: 700;
+    font-size: 40px;
+}
+h2 {
+    font-weight: 600;
+    font-size: 36px;
+}
+h3 {
+    font-weight: 600;
+    font-size: 32px;
+    color: $darkGrayColor;
+}
+h4 {
+    font-weight: 700;
+    font-size: 24px;
+}
+h5 {
+    font-weight: 600;
+    font-size: 20px;
+}
+
 
 header{
     background: $primaryColor;

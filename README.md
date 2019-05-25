@@ -45,10 +45,8 @@ The framework is the how to do the work.
 ###### [Learn More](./5_Leadsership/)
 
 
-###### [Markdown Cheatsheet]()
-
-
 ## Documentation Reference
 
 - https://github.com/tchapi/markdown-cheatsheet
 - https://www.webfx.com/tools/emoji-cheat-sheet/
+- https://stackedit.io/
