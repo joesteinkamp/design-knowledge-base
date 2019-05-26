@@ -90,6 +90,9 @@ footer {
     -webkit-font-smoothing: antialiased;
 }
 
+p, ul, ol, table, pre, dl {
+    margin: 0 0 24px;
+}
 
 @media print, screen and (max-width: 960px) {
     header ul {
@@ -116,6 +119,25 @@ footer {
         width: inherit;
     }
 }
+
+
+
+// ***** HACKS ******
+
+// Button
+h6 a, .button {
+    padding: 16px 32px;
+    background: $primaryColor;
+    color: $whiteColor;
+    font-size: 20px;
+    font-weight: 600;
+    line-height: 24px;
+    border-radius: 16px;
+    margin: 0 0 56px;
+}
+
+
+
 
 // ***** NEW STYLES *****
 a {
@@ -236,6 +258,9 @@ footer {
         max-width: 1024px;
         margin: 0 auto;
     }
+    .button {
+        margin: 0;
+    }
 }
 
 
@@ -251,20 +276,4 @@ footer {
     section, footer {
         padding: 24px;
     }
-}
-
-
-
-
-// ***** HACKS ******
-
-// Button
-h6 a, .button {
-    padding: 16px 32px;
-    background: $primaryColor;
-    color: $whiteColor;
-    font-size: 20px;
-    font-weight: 600;
-    line-height: 24px;
-    border-radius: 16px;
 }
