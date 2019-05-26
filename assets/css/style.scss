@@ -225,9 +225,12 @@ footer {
     padding: 0 80px;
     box-sizing: border-box;
     background: $lightGrayColor;
-    display: grid;
-    grid-template-columns: auto auto;
-    grid-gap: 10px;
+    
+    .container {
+        display: grid;
+        grid-template-columns: auto auto;
+        grid-gap: 10px;
+    }
 }
 
 
@@ -256,6 +259,7 @@ h6 a, .button {
     background: $primaryColor;
     color: $whiteColor;
     font-size: 20px;
+    font-weight: 500;
     line-height: 24px;
     border-radius: 16px;
 }
