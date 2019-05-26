@@ -39,19 +39,32 @@
 
       </section>
       <footer>
-        <p>{{ site.description | default: site.github.project_tagline }}</p>
-
-        {% if site.github.is_project_page %}
-        <p>Created and maintained by <a href="{{ site.github.owner_url }}">{{ site.github.owner_name }}</a>.</p>
-        {% endif %}
-
-        {% if site.github.is_project_page %}
-        <p class="view"><a class="button" href="{{ site.github.repository_url }}">View Project on GitHub</a></p>
-        {% endif %}
-
-        {% if site.github.is_user_page %}
-        <p class="view"><a href="{{ site.github.owner_url }}">View My GitHub Profile</a></p>
-        {% endif %}
+        <div class="container">
+            <div class="col">
+                <h4>About</h4>
+                <p>{{ site.description | default: site.github.project_tagline }}</p>
+    
+                {% if site.github.is_project_page %}
+                <p>Created and maintained by <a href="{{ site.github.owner_url }}">{{ site.github.owner_name }}</a>.</p>
+                {% endif %}
+        
+                {% if site.github.is_project_page %}
+                <p class="view"><a class="button" href="{{ site.github.repository_url }}">View Project on GitHub</a></p>
+                {% endif %}
+        
+                {% if site.github.is_user_page %}
+                <p class="view"><a href="{{ site.github.owner_url }}">View My GitHub Profile</a></p>
+                {% endif %}
+            </div>
+            <div class="col">
+              <h4>Become a contributor</h4>
+              <ul>
+                <li><a href="https://github.com/tchapi/markdown-cheatsheet">Learn Markdown Syntax</a></li>
+                <li><a href="https://stackedit.io/">Use Markdown WYSWIG Editor</a></li>
+                <li><a href="https://www.youtube.com/watch?v=yr6IzOGoMsQ">Edit the Repo</a></li>
+              </ul>
+            </div>
+        </div>
       </footer>
     </div>
     <script src="{{ "/assets/js/scale.fix.js" | relative_url }}"></script>
