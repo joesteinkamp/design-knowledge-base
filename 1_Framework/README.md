@@ -1,6 +1,5 @@
 # Framework
 
-## Summary
 The framework is the how to do the work.
 
 - Strategy

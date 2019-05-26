@@ -1,28 +1,14 @@
-# Design Knowledge Base
+# Mindset
 
-## Design Defintion & Field
+The mindset is your ability to visualize the outcome you’d like to bring forth. It’s the way you think, how you approach problems, and the ability to be creative.
 
-## Design Vision
-- Design Principles
-
-## Design Process & Methodology Repository
-
-## Psychology, Sociology & HCI References
-
-## Data & Research
-- [Design Metrics Repository](https://joesteinkamp.github.io/design-knowledge-base/Data%2BResearch/Design-Metrics.html)
-
-## Business
-
-## Technology
-
-## Management
-
-## Operations
+- Abductive Thinking & Pattern Identification
+- Critical Thinking, Approach
+- Perception, Detail Oriented Balanced with Vision
 
 
+## [Inspiration](./Inspiration/)
 
-###### [Markdown Cheatsheet](https://github.com/tchapi/markdown-cheatsheet)
+## [Soft Skills](./Soft_Skills/)
 
-
-https://www.webfx.com/tools/emoji-cheat-sheet/
+## [Time Management](./Time_Management/)

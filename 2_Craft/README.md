@@ -1,28 +1,15 @@
-# Design Knowledge Base
+# Craft
 
-## Design Defintion & Field
+The craft is the expertise needed in order to consistently make and understand quality work. The skills to execute the tools and steps with high quality. *Craft is often confused with high ability but you cannot perform well without understanding the why.*
 
-## Design Vision
-- Design Principles
+- Core Skills
+- Domain Knowledge
+- Tactics
 
-## Design Process & Methodology Repository
+## [Business](./Business/)
 
-## Psychology, Sociology & HCI References
+## [Data & Research](./Data+Research/)
 
-## Data & Research
-- [Design Metrics Repository](https://joesteinkamp.github.io/design-knowledge-base/1_Framework/Data%2BResearch/Design-Metrics.html)
+## [HCI & Social Sciences](./HCI+Social_Sciences/)
 
-## Business
-
-## Technology
-
-## Management
-
-## Operations
-
-
-
-###### [Markdown Cheatsheet](https://github.com/tchapi/markdown-cheatsheet)
-
-
-https://www.webfx.com/tools/emoji-cheat-sheet/
+## [Technology Capability Reports](./Technology_Capability_Reports/)
