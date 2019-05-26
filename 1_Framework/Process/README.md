@@ -1,5 +1,7 @@
 # Design Process
 
+| [Understand Methods](./1_Understand/) | [Define Methods](./2_Define/) | [Explore Methods](./3_Explore/) | [Decide Methods](./4_Decide/) | [Deliver Methods](./5_Deliver/) | [Listen Methods](./6_Listen/) |
+
 ## Objectives
 
 1. Establish a user-centered process that starts with user data, creates design artifacts that address real and not imaginary user needs, and then tests those artifacts with real users to make sure we're solving the right problems with the best solution.
