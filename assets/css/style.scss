@@ -30,7 +30,7 @@ body {
     -webkit-font-smoothing: antialiased;
 }
 
-h2 { color: $blackColor; }
+h1, h2, h3, h4, h5, h6 { color: $blackColor; }
 
 a:hover, a:focus {
     color: $primaryColor;
@@ -196,7 +196,7 @@ p {
 }
 
 img {
-    margin: 32px 0 56px;
+    margin: 32px 0;
 }
 
 
