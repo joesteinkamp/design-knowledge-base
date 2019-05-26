@@ -30,6 +30,13 @@ body {
     -webkit-font-smoothing: antialiased;
 }
 
+h2 { color: $blackColor; }
+
+a:hover, a:focus {
+    color: $primaryColor;
+    font-weight: inherit;
+}
+
 .wrapper {
     width: 100%;
     margin: 0;
@@ -144,7 +151,7 @@ h6 a, .button {
 a {
     color: $primaryColor;
 }
-a:hover {
+a:hover, a:focus {
     text-decoration: underline;
 }
 
