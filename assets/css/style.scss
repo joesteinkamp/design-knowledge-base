@@ -281,8 +281,11 @@ footer {
     header, footer .container {
         grid-template-columns: auto;
     }
-    section, footer {
-        padding: 0 16px;
+    section {
+        padding: 0 16px 56px;
+    }
+    footer {
+        padding: 80px 16px;
     }
 }
 @media print, screen and (max-width: 720px) {
