@@ -83,10 +83,9 @@ section {
 
 footer {
     width: 100%;
-    max-width: 1024px;
     float: none;
     position: relative;
-    bottom: 0;
+    bottom: inherit;
     -webkit-font-smoothing: antialiased;
 }
 
@@ -221,7 +220,6 @@ section {
 }
 
 footer {
-    margin: 0 auto;
     padding: 0 80px;
     box-sizing: border-box;
     background: $lightGrayColor;
@@ -230,6 +228,8 @@ footer {
         display: grid;
         grid-template-columns: auto auto;
         grid-gap: 10px;
+        max-width: 1024px;
+        margin: 0 auto;
     }
 }
 
@@ -240,7 +240,7 @@ footer {
 
 // ***** MEDIA QUERIES *****
 @media screen and (max-width: 1024px) {
-    header, footer {
+    header, footer .container {
         grid-template-columns: auto;
     }
     section, footer {
