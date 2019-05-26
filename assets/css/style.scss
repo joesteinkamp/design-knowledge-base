@@ -229,7 +229,7 @@ header{
 
     ul {
         list-style: none;
-        margin: 0 0 0 40px;
+        margin: 0;
         display: inline-block;
 
         a { 
@@ -281,6 +281,13 @@ footer {
     header, footer .container {
         grid-template-columns: auto;
     }
+    header {
+        position: relative;
+
+        > div:last-child {
+            text-align: left;   
+        }
+    }
     section {
         padding: 0 16px 56px;
     }
@@ -291,5 +298,8 @@ footer {
 @media print, screen and (max-width: 720px) {
     th, td {
         display: block;
+    }
+    header div, header > div:last-child {
+        text-align: center;
     }
 }
