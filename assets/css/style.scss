@@ -142,13 +142,11 @@ h6 a, .button {
     border-radius: 16px;
     margin: 0 0 56px;
     display: inline-block;
-
-    :hover {
-        color: $whiteColor;
-        background: lighten( $primaryColor, 20% );
-    }
 }
-
+h6 a:hover, .button:hover {
+    color: $whiteColor;
+    background: lighten( $primaryColor, 20% );
+}
 
 
 
