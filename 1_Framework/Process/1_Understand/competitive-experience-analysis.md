@@ -24,6 +24,25 @@ An analysis of competitor's products by looking at their experiences. Focus on t
 5. Screenshots of product/feature that is being compared
 6. Other Matrixes - identify different design approaches your competitors take to solve similar problems.
 
+
+## Potential Attributes
+- See Heuristics from [Heuristic Evaluation](heuristic-evaluation.md)
+- See [Product Experience Attributes](https://productcoalition.com/product-experience-attributes-89d6d8fcfd4d)
+- Others:
+  - Market Perception Subjective Rating: Product (App) Ratings, Reviews (Customer Voice Statements)
+  - Visual appeal: warm –to- sterile; lively –to- dull; colorful –to- bland
+  - Tone of Voice [Scale: friendly, playful,  business-like]
+  - Audience Targeting
+  - Navigational models: pogo versus linear
+  - Interaction Matrix: gestures (ex. Tap-and-hold), navigation patterns (ex. Tabs)
+  - Personalization [Scale: one size fits all - to - highly personalized]
+	
+## Next Steps
+- Can use a Heuristic Evaluation or Expert Review to rate competitors.
+- Can lead into competitive research 
+- Can feed into empathy map (or replaces) that feeds into journey map.
+
+
 ## References
 1. [http://www.uxmatters.com/mt/archives/2009/04/differentiating-your-design-a-visual-approach-to-competitive-reviews.php](http://www.uxmatters.com/mt/archives/2009/04/differentiating-your-design-a-visual-approach-to-competitive-reviews.php)
 2. [http://www.axure.com/c/blog/177-five-ways-ux-firm-digital-telepathy-designs-through-conversation.html](http://www.axure.com/c/blog/177-five-ways-ux-firm-digital-telepathy-designs-through-conversation.html)
@@ -37,23 +56,3 @@ An analysis of competitor's products by looking at their experiences. Focus on t
 
 
 
-Potential Attributes
-	• See Heuristics
-	• See Product Attributes
-	• Others:
-		○ Market Perception Subjective Rating: Product (App) Ratings, Reviews (Customer Voice Statements
-		○ Visual appeal: warm –to- sterile; lively –to- dull; colorful –to- bland
-		○ Tone of Voice [Scale: friendly, playful,  business-like]
-		○ Audience Targeting
-		○ Navigational models: pogo versus linear
-		○ Interaction Matrix: gestures (ex. Tap-and-hold), navigation patterns (ex. Tabs)
-		○ Personalization [Scale: one size fits all - to - highly personalized]
-	
-Next Steps
-	• Can use a Heuristic Evaluation or Expert Review to rate competitors.
-	• Can lead into competitive research 
-	• Can feed into empathy map (or replaces) that feeds into journey map.
-
-References
-	1. http://www.uxmatters.com/mt/archives/2009/04/differentiating-your-design-a-visual-approach-to-competitive-reviews.php
-	2. http://www.axure.com/c/blog/177-five-ways-ux-firm-digital-telepathy-designs-through-conversation.html 

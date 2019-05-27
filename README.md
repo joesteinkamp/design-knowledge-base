@@ -43,3 +43,9 @@ The framework is the how to do the work.
 - Roles
 
 ###### [Learn More](./5_Leadsership/)
+
+
+## Articles on our Medium Publication
+The knowledge base repo is often focused on very practical bite sized pieces of information. We use Medium to expand our content into a broader range of styles, such as case studies, opinion pieces, and more complete e
+
+###### [More on Medium](https://medium.com/design-knowledge-base)
