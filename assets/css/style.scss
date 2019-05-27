@@ -145,7 +145,8 @@ h6 a, .button {
 }
 h6 a:hover, .button:hover {
     color: $whiteColor;
-    background: lighten( $primaryColor, 20% );
+    background: lighten( $primaryColor, 5% );
+    text-decoration: none;
 }
 
 
