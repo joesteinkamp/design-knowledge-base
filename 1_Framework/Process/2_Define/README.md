@@ -1,6 +1,6 @@
 # 2 - Define
 
-Name | Type
+Method | Type
 -----|-----
 [Affinity Diagram](affinity-diagram.md) | Synthesis
 [Design Principles](design-principles.md) | Strategy Definition
@@ -13,7 +13,6 @@ Name | Type
 [Strategy Design Workshop](strategy-design-workshop.md) | Workshop
 [Understand Research Debrief](understand-research-debrief.md) | Synthesis
 [User Journey Map](user-journey-map.md) | Experience Mapping
-[User Storyboard](user-storyboard.md) | Experience Mapping
 
 
 
