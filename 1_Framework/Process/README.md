@@ -1,7 +1,5 @@
 # Design Process
 
-| [Understand Methods](./1_Understand/) | [Define Methods](./2_Define/) | [Explore Methods](./3_Explore/) | [Decide Methods](./4_Decide/) | [Deliver Methods](./5_Deliver/) | [Listen Methods](./6_Listen/) |
-
 <table class="table-menu">
   <tbody>
     <tr>

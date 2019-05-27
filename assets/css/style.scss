@@ -301,7 +301,7 @@ footer {
     }
 }
 @media print, screen and (max-width: 720px) {
-    th, td {
+    .table-menu th, .table-menu td {
         display: block;
     }
     header div, header > div:last-child {
