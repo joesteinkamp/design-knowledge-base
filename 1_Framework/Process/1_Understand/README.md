@@ -2,14 +2,18 @@
 
 Method | Type
 ------------- | -------------
-[Project Kickoff](project-kickoff.md) | Opportunity Analysis
+[Analytics Analysis](analytics-analysis.md) | Uncover Problems by What They Do
+[Competitive Experience Analysis](competitive-experience-analysis.md) | Uncover Problems by Experts
 [Contextual Inquiry](contextual-inquiry.md) | Uncover Problems by What They Do
 [Diary Study](diary-study.md) | Uncover Problems By What They Say
-[Expert Interview](expert-interview.md) | Understand the Context
+[Expert Interview](expert-interview.md) | Uncover Problems by Experts
+[Expert Review](expert-review.md) | Uncover Problems by Experts
 [Generative Survey](generative-survey.md) | Uncover Problems By What They Say
+[Heuristic Evaluation](heuristic-evaluation.md) | Uncover Problems by Experts
+[Kano Analysis](kano-analysis.md) | Uncover Problems by Experts
+[Project Kickoff](project-kickoff.md) | Opportunity Analysis
 [User Interview](user-interview.md) | Uncover Problems By What They Say
 [User Data Report](user-data-report.md) | Summary
-[Analytics Analysis](analytics-analysis.md) | Uncover Problems by What They Do
 [User Feedback Analysis](user-feedback-analysis.md) | Uncover Problems By What They Say
 
 
