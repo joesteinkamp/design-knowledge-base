@@ -47,7 +47,7 @@ Have each notetaker document their top 5 learnings.
 
 ### Templates \(if applicable\)
 
-1. [Google Slides Template](https://docs.google.com/a/shiftgig.com/presentation/d/1HgFi3F_-_AAg4vcRclYJ0R2kMAI8xa-GNP3bs24ACvI/edit?usp=sharing)
+1. [Google Slides Template](https://docs.google.com/presentation/d/1hF6y-XbLkGIjhfYOr3NYP7RMFMHUfQpusduAUabokiQ/edit?usp=sharing)
 
 
 

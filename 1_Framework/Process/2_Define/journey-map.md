@@ -22,6 +22,10 @@ Journey maps are visualization of how users live their lives and how your produc
 2. [https://uxmastery.com/how-to-create-a-customer-journey-map/](https://uxmastery.com/how-to-create-a-customer-journey-map/)
 3. [https://medium.com/@wnialloconnor/how-to-build-an-experience-map-5e55b7ee4f32](https://medium.com/@wnialloconnor/how-to-build-an-experience-map-5e55b7ee4f32)
 4. [https://blogs.adobe.com/creativecloud/why-all-ux-designers-should-be-creating-user-journeys-and-heres-how-to-make-one/](https://blogs.adobe.com/creativecloud/why-all-ux-designers-should-be-creating-user-journeys-and-heres-how-to-make-one/)
+5. [https://www.cooper.com/journal/2015/5/journey-map-or-service-blueprint](https://www.cooper.com/journal/2015/5/journey-map-or-service-blueprint)
+6. [https://experiencinginformation.wordpress.com/2016/03/12/sorting-things-out-customer-journey-maps-experience-maps-and-service-blueprints/](https://experiencinginformation.wordpress.com/2016/03/12/sorting-things-out-customer-journey-maps-experience-maps-and-service-blueprints/)
+7. [Adaptive Path's Guide to Experience Mapping](./assets/Adaptive_Paths_Guide_to_Experience_Mapping.pdf)
+
 
 ### Templates \(if applicable\)
 
