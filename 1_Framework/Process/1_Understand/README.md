@@ -2,7 +2,7 @@
 
 Method | Type
 ------------- | -------------
-[Project Kickoff](project-kickoff.md) | Opportunity Analyis
+[Project Kickoff](project-kickoff.md) | Opportunity Analysis
 [Contextual Inquiry](contextual-inquiry.md) | Uncover Problems by What They Do
 [Diary Study](diary-study.md) | Uncover Problems By What They Say
 [Expert Interview](expert-interview.md) | Understand the Context
