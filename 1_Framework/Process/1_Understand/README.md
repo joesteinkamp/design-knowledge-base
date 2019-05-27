@@ -72,6 +72,6 @@ Method | Type
 
 
 ## References
-1. https://alistapart.com/article/usable-yet-useless-why-every-business-needs-product-discovery
-2. https://wildbit.com/blog/2016/05/11/how-we-built-a-product-vision-and-roadmap
-3. https://www.amazon.com/Validating-Product-Ideas-Through-Research/dp/1933820292/ 
+1. [https://alistapart.com/article/usable-yet-useless-why-every-business-needs-product-discovery]
+2. [https://wildbit.com/blog/2016/05/11/how-we-built-a-product-vision-and-roadmap]
+3. [https://www.amazon.com/Validating-Product-Ideas-Through-Research/dp/1933820292/] 
