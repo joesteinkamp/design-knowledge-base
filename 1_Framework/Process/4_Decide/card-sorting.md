@@ -65,7 +65,7 @@ _Once your groups are established, we’d like to have you give each group a nam
 
 _Oh, and one last thing. Feel free to ask questions during the exercise if you feel the need. I can’t guarantee that I can answer them during the exercise, but I’ll do my best to answer them when you’re finished._
 
-1. [Research Plan](https://www.gitbook.com/book/sggitbook/sg_brand_guide/edit#)
+1. [Research Plan](https://docs.google.com/document/d/1TywGTy_TSPHyq1-8bX5Ackz1cEGPdM1HbO2CM72CxO0/edit?usp=sharing)
 
 
 

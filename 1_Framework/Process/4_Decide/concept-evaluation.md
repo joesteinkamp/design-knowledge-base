@@ -42,8 +42,8 @@ Not to be confused with traditional Concept Testing methods.
 
 ### Templates
 
-1. [Research Plan](https://www.gitbook.com/book/sggitbook/sg_brand_guide/edit#)
-2. [Script Template](https://docs.google.com/a/shiftgig.com/document/d/1hkLkGxMMie-Sy9Et-NsP9E_zH9Bhl1lp1Ik1btl5hm8/edit?usp=sharing)
+1. [Research Plan](https://docs.google.com/document/d/1TywGTy_TSPHyq1-8bX5Ackz1cEGPdM1HbO2CM72CxO0/edit?usp=sharing)
+2. [Script Template](https://docs.google.com/document/d/1v0GFjDR4YB7VzqDmdrSd5x6u8_pdB5LStoCYvo1cLyU/edit?usp=sharing)
 
 
 

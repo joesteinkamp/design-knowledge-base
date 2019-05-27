@@ -79,16 +79,10 @@ Usability is defined by **5 quality components**:
 2. [Task Scenarios for Usability Testing](https://www.nngroup.com/articles/task-scenarios-usability-testing/)
 3. [Recruiting Usability Testing Participants ](https://www.usability.gov/how-to-and-tools/methods/recruiting-usability-test-participants.html)
 4. [Running Usability Tests](https://www.usability.gov/how-to-and-tools/methods/running-usability-tests.html)
+5. [Quantitative vs. Qualitative Usability Testing](https://www.nngroup.com/articles/quant-vs-qual/)
 
-### Templates \(if applicable\)
+### Templates
 
-1. [Research Plan](https://www.gitbook.com/book/sggitbook/sg_brand_guide/edit#)
-
-2. [Usability Test Observations Spreadsheet](https://drive.google.com/open?id=1nSs4iC1t4Vi5tLm9ImXXxDqrlpGxcve0dopR8AnadLA)
-
-3. [Usability Issues Assessment Template](https://drive.google.com/open?id=1l4BQVFi3ORBKloob1YxMLD_eFh5VUVJpbicBADzWD7s)
-
-4. [Usability Test Report Presentation Deck](https://drive.google.com/open?id=1A_JB6E4NbkZNTxdhL6UFx5K2hQSxbZ9jPXj7wE-V5iU)
-
-
-
+1. [Research Plan](https://docs.google.com/document/d/1TywGTy_TSPHyq1-8bX5Ackz1cEGPdM1HbO2CM72CxO0/edit?usp=sharing)
+2. [Usability Test Observations Spreadsheet](https://docs.google.com/spreadsheets/d/1KJ8NsB_aiRRPN-mVASieUfGWognAJvA31ATlq7xoj3o/edit?usp=sharing)
+3. [Usability Issues Assessment Template](https://docs.google.com/spreadsheets/d/1Oxqe4Bpx-cCCK01zhKi8vJJLXmrp-wtj7E92tLYC3TM/edit?usp=sharing)

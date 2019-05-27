@@ -46,7 +46,7 @@ A review of a proposed design or multiple designs with the design team. The goal
 1. Laptops stay closed \(except for presenter and facilitator\). Audience should focus on listening and asking questions.
 2. Designers should always try to bring multiple approaches, especially during early work, so you can critique yourself by discussing the advantages and disadvantages of each approach
 3. Not everyone needs to say something. **We need to figure out how to agree with someone without reiterating.**
-4. **Do not provide suggestions on how to fix issues**. Put the power into the designers hands. If the designer feels like they have no idea where to begin ask "What do you suggest?". If the designer leaves the critique and becomes stuck, the should pull together the team to get collaboratively try to solve the problem. 
+4. **Do not provide suggestions on how to fix issues**. Put the power into the designers hands. If the designer feels like they have no idea where to begin ask "What do you suggest?". If the designer leaves the critique and becomes stuck, the should pull together the team to get collaboratively try to solve the problem. Alternatively, start by proposing process suggestions rather than solution suggestions.
 
 > **The Difference between Critique and Criticism**  
 > Taken from _Writing Alone, Writing Together; A Guide for Writers and Writing Groups_ by Judy Reeves
@@ -83,7 +83,7 @@ A review of a proposed design or multiple designs with the design team. The goal
 
 ### Templates
 
-1. [Design Critique Template](https://docs.google.com/document/d/1BTKEJ6vzw1pSrv_GQIMmPUbJUWLnw7Oo8wNgfwAmsR8/edit)
+1. [Design Critique Template](https://docs.google.com/document/d/1eQe3fJQU0N5-QVcQfd7pH3xG9ygtoVyI93vl_YeliZg/edit?usp=sharing)
 
 ### References
 
