@@ -2,6 +2,19 @@
 
 | [Understand Methods](./1_Understand/) | [Define Methods](./2_Define/) | [Explore Methods](./3_Explore/) | [Decide Methods](./4_Decide/) | [Deliver Methods](./5_Deliver/) | [Listen Methods](./6_Listen/) |
 
+<table class="table-menu">
+  <tbody>
+    <tr>
+      <td><a href="./1_Understand/">Understand Methods</a></td>
+      <td><a href="./2_Define/">Define Methods</a></td>
+      <td><a href="./3_Explore/">Explore Methods</a></td>
+      <td><a href="./4_Decide/">Decide Methods</a></td>
+      <td><a href="./5_Deliver/">Deliver Methods</a></td>
+      <td><a href="./6_Listen/">Listen Methods</a></td>
+    </tr>
+  </tbody>
+</table>
+
 ## Objectives
 
 1. Establish a user-centered process that starts with user data, creates design artifacts that address real and not imaginary user needs, and then tests those artifacts with real users to make sure we're solving the right problems with the best solution.
