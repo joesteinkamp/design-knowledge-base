@@ -9,4 +9,4 @@ Method | Type
 [Technical Feasibility Analysis](technical-feasibility-analysis.md) | Evaluation Technique
 [Usability Testing](usability-testing.md) | User Research
 
-*Also see [Operations: Design Critique](../../../design-team-critique.md)*
+*Also see [Operations: Design Critique](../../../4_Operations/design-team-critique.md)*
