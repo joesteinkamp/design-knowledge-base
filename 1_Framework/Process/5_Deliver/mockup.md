@@ -1,10 +1,8 @@
 # Mockups
 
-A mockup, also known as a comp, is a high fidelity, static, design representation to be used by the development team. A well created mockup:
-
-–  represents the structure of information, visualises the content and demonstrates the basic functionalities in a static way
-
-–  ensures all specifications of the design \(sizing, spacing, colors, etc\) are accurate for development
+A mockup, also known as a comp (comprehensive layout), is a high fidelity, static, design representation to be used by the development team. A well created mockup:
+-  represents the structure of information, visualises the content and demonstrates the basic functionalities in a static way
+-  ensures all specifications of the design \(sizing, spacing, colors, etc\) are accurate for development
 
 ### When to Use
 
