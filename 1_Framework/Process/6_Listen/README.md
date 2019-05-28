@@ -1,6 +1,8 @@
 # 6 - Listen
 
-- [A/B Testing](ab-testing.md)
-- [Customer Voice Report](customer-voice-report.md)
-- [Summative Survey](summative-survey.md)
-- [Usability Benchmarking](usability-benchmarking.md)
+Method | Type
+---- | ----
+[A/B Testing](ab-testing.md) | Summative Research
+[Customer Voice Report](customer-voice-report.md) | Customer Feedback
+[Summative Survey](summative-survey.md) | Summative Research
+[Usability Benchmarking](usability-benchmarking.md) | Summative Research

@@ -50,7 +50,7 @@ A tightly scripted usability studies are performed with several participants, us
 
 ### Templates \(if applicable\)
 
-1. [Usability Benchmark Observation & Analysis Template](https://docs.google.com/spreadsheets/d/1nSs4iC1t4Vi5tLm9ImXXxDqrlpGxcve0dopR8AnadLA/edit#gid=0)
+1. [Usability Benchmark Observation & Analysis Template](https://docs.google.com/spreadsheets/d/1KJ8NsB_aiRRPN-mVASieUfGWognAJvA31ATlq7xoj3o/edit?usp=sharing)
 
 
 
