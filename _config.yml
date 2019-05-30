@@ -3,3 +3,5 @@ title: Design Knowledge Base
 description: An open source design documentation repository with the purpose of providing a central location for design education.
 
 google_analytics: UA-8657893-7
+plugins:
+  - jekyll-feed
