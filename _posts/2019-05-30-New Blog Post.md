@@ -1,7 +1,6 @@
 ---
 title: "New Blog Post"
+author: "Joe Steinkamp"
 ---
-
-# New Blog Post
 
 This is a test of the feed plugin.
