@@ -6,4 +6,6 @@
 
 ## Toolkits
 
-## Vision & Strategy
+## Vision
+
+## Strategies to Prove Value
