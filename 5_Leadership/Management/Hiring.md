@@ -15,24 +15,28 @@
 - Currently in school or boot camp
 
 **Rating Scale**
-1 = Bad 
+⭐️ = Bad 
   1. No experience, no education
-2 = Okay
+
+⭐️⭐️ = Okay
   1. Does the candidate have a formal education in a relevant field?  Common and acceptable backgrounds include graphic design, human-computer interaction, cognitive psychology, information architecture, and computer science.  
   2. Multiple years of experience
-3 = Good
+
+⭐️⭐️⭐️ = Good
   1. States or implies human-centered design
   2. Research mentioned
   3. Facilitation mentioned
   4. Multiple companies
   5. Clear career progression. Is there career growth?
-4 = Great. Above, plus
+
+⭐️⭐️⭐️⭐️ = Great. Above, plus
   1. Beautiful and easily scannable
      1. Does it have a scannable layout?
      2. Does it look like there was effort put in to make the resume look appealing?
      3. Does it stand out?
   2. Skills, achievements, or testimonials section
-5 = Excellent. Above, plus:
+
+⭐️⭐️⭐️⭐️⭐️ = Excellent. Above, plus:
     a. At company known for quality design
     b. At company known for mature design organization
 
@@ -49,15 +53,19 @@
 ⭐️ = Bad 
   1. No Process - Not case study format
   2. Poor Output
+
 ⭐️⭐️ = Generic Process
    1. Boilerplate processes learned from bootcamps or articles (Competitive Analysis -> Interview -> Personas -> Wireframes -> Final Mockups)
+
 ⭐️⭐️⭐️ = Good Process, Weaker Research or Visual Design Output
    1. Facilitated Design Sessions
+
 ⭐️⭐️⭐️⭐️ = Great Variable Process & Output
    1. Projects have different processes based on
    2. Design principles
    3. Sketches of early work
    4. Storyboards or other visual storytelling output
+
 ⭐️⭐️⭐️⭐️⭐️ = Above, plus great holistic output
   1. High quality research artifacts
   2. High quality mockups
