@@ -42,7 +42,7 @@ The framework is the how to do the work.
 - Prove Value Strategies
 - Roles
 
-###### [View Leadership Docs](./5_Leadsership/)
+###### [View Leadership Docs](./5_Leadership/)
 
 
 ## Articles on our Medium Publication
