@@ -15,6 +15,7 @@
 - Currently in school or boot camp
 
 **Rating Scale**
+
 ⭐️ = Bad 
   1. No experience, no education
 
@@ -50,6 +51,7 @@
 ## Portfolio Review
 
 ### Product Designer
+
 ⭐️ = Bad 
   1. No Process - Not case study format
   2. Poor Output
