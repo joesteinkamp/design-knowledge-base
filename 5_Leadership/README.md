@@ -1,6 +1,6 @@
 # Leadership
 
-## Management
+## [Management](./Management/)
 
 ## Org Design
 
