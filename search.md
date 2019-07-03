@@ -7,7 +7,7 @@
 </div>
 
 <!-- Script pointing to search-script.js -->
-<script src="./assets/js/search-script.js" type="text/javascript"></script>
+<script src="./assets/js/simple-jekyll-search.min.js" type="text/javascript"></script>
 
 <!-- Configuration -->
 <script>
