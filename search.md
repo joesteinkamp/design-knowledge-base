@@ -14,7 +14,7 @@
 SimpleJekyllSearch({
   searchInput: document.getElementById('search-input'),
   resultsContainer: document.getElementById('results-container'),
-  json: '{{ "/search.json" | relative_url }}'
+  json: 'https://designknowledgebase.com/search.json'
 })
 </script>
 
