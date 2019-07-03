@@ -1,3 +1,9 @@
+---
+title: "Analtyics Analysis"
+author: "Joe Steinkamp"
+base-cat: "Framework"
+---
+
 # Analytics Analysis
 
 A review of existing analytics gathered from the Listen Phase of the UX process. By looking at UX metrics that best represent key moments that drive user behavior, problems and opportunities can be uncovered and assessed.
