@@ -1,7 +1,7 @@
 theme: jekyll-theme-minimal
 title: Design Knowledge Base
 description: An open source design documentation repository with the purpose of providing a central location for design education.
-baseurl: "https://designknowledgebase.com"
+baseurl: ""
 
 
 google_analytics: UA-8657893-7
