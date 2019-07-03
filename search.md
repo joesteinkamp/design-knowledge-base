@@ -11,10 +11,10 @@
 
 <!-- Configuration -->
 <script>
-SimpleJekyllSearch({
+setTimeout(SimpleJekyllSearch({
   searchInput: document.getElementById('search-input'),
   resultsContainer: document.getElementById('results-container'),
-  json: 'https://designknowledgebase.com/search.json'
-})
+  json: '/search.json'
+}), 1000);
 </script>
 
