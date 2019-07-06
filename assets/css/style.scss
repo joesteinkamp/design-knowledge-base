@@ -72,7 +72,7 @@ header {
         a:hover { color: $lightGrayColor; }
         a:active { color: $primaryColor; background: $lightGrayColor; }
 
-        a.search { vertical-align: middle; }
+        a.search { vertical-align: middle; height: 24px; }
         img {
             padding: 0;
             margin: 0;
