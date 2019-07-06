@@ -1,3 +1,8 @@
+---
+author: "Joe Steinkamp"
+last-updated-by: "Joe Steinkamp"
+---
+
 # Mid-Fidelity Prototype
 
 A prototype is a draft version of a product that allows you to explore your ideas and show the intention behind a feature or the overall design concept to users before investing time and money into development. A mid-fidelity prototype allows click-through of a few primary pieces of content and actions of a app/site. They are mid-fidelity because they lack complete visual fidelity, focus only on the happy path, and leverage placeholder copy.

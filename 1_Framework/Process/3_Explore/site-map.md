@@ -1,3 +1,8 @@
+---
+author: "Joe Steinkamp"
+last-updated-by: "Joe Steinkamp"
+---
+
 # Site Map
 A visual representation of all the pages available within an app or site, the hierarchy of content, and the relationships the pages have to each other.
 

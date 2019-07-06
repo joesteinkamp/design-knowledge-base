@@ -1,3 +1,8 @@
+---
+author: "Joe Steinkamp"
+last-updated-by: "Joe Steinkamp"
+---
+
 # Wireframes
 
 Wireframes are a barebones representation of a product’s visual interface. They focus on functionality, space allocation, content prioritization, and behaviors and therefore typically lack color, graphics or text styling. The primary purpose of a wireframe is to communicate information architecture and expected user interactions to stakeholders, designers, and developers and to encourage ideation.

@@ -1,3 +1,8 @@
+---
+author: "Joe Steinkamp"
+last-updated-by: "Joe Steinkamp"
+---
+
 # Divergent Design Workshop
 
 Divergent Design Workshop is a method to generate a broad range of ideas to solve a problem by including all disciplines. Instead of typical brainstorming, each individual team member are given time and space to generate solutions on there own - preventing the [HiPPO](http://whatis.techtarget.com/definition/HiPPOs-highest-paid-persons-opinions).

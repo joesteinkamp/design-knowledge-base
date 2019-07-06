@@ -37,6 +37,10 @@
 
       {{ content }}
 
+      {% if page.author != null %}
+      <p>Author {{ page.author }}</p>
+      {% endif %}
+
       </section>
       <footer>
         <div class="container">

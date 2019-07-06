@@ -1,3 +1,8 @@
+---
+author: "Joe Steinkamp"
+last-updated-by: "Joe Steinkamp"
+---
+
 # Content Inventory
 
 An exhaustive listing of an existing site’s content which can then be reorganized. It is useful for sites that have grown organically over time, because initial information architecture is often not designed to accommodate future content. Once your content has been inventoried, you can create a content strategy that increases ease of navigation and minimizes work for content creation teams.

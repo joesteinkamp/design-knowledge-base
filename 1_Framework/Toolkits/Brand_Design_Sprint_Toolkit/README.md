@@ -1,4 +1,4 @@
-# Brand Design Sprint
+# Brand Deswign Sprint
 
 *Highly adapted from GV's Brand Design Sprint*
 
@@ -75,9 +75,10 @@
 ## Personality Sliders [30 min]
 1. Draw a diagram on the whiteboard with four ranges:
 - “Friend” to “Authority”
-- “Young & Innovative” to “Mature & Classic”
 - “Playful” to “Serious”
 - “Mass Appeal” to “Elite”
+- “Youthful" to "Mature"
+- "Innovative” to "Classic"
 2. Everyone write on a Post-It there name for each range and place it where they believe it lands on the range
 3. Discuss any diagram where people disagree about where the company should be. For example, if Andy put a dot right by “Mass Appeal” and Beatrice put a dot right by “Elite”, they should explain their positions. Time this discussion—it needn’t take longer than five to ten minutes.
 4. At the end of the discussion, the Decider makes the call. She should be given a few minutes to quietly plot her final choices on the whiteboard.

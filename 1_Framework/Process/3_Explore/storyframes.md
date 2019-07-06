@@ -1,3 +1,8 @@
+---
+author: "Joe Steinkamp"
+last-updated-by: "Joe Steinkamp"
+---
+
 # Storyframes   
 Storyframes
 Write what the three conversation would be like between the business and the user to complete the desired task you're designing for. How would the business start the conversation? How would the user expect to communicate their needs and get the task completed / problem solved?

@@ -1,3 +1,8 @@
+---
+author: "Joe Steinkamp"
+last-updated-by: "Joe Steinkamp"
+---
+
 # See|Do UI Map
 A deliverable to focuses on the content a user needs to see to then interact with, do.  It maps out how a user would navigate through content to complete their task. Essentially, a paired down Site Map deliverable that focuses on the specific content versus the screens/pages.
 

@@ -1,3 +1,8 @@
+---
+author: "Joe Steinkamp"
+last-updated-by: "Joe Steinkamp"
+---
+
 # Design Vision & Workshops
 
 A vision focused on creating a proposal for the ideal future customer experience, often visualized in an easy to share deliverable.
