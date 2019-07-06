@@ -38,8 +38,12 @@
       {{ content }}
 
       {% if page.author != null %}
-      <p>Author {{ page.author }}</p>
+        <p class="subtext">
+          Created by: {{ page.author }} {% if page.last-updated-by != null %} | Last updated by: {{ page.last-updated-by }}{% endif %}
+        </p>
       {% endif %}
+
+      
 
       </section>
       <footer>

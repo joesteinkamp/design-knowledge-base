@@ -257,6 +257,12 @@ header{
 
 section {
     box-sizing: border-box;
+
+    .subtext {
+        color: $lightGrayColor;
+        font-size: .9em;
+        font-style: italic;
+    }
 }
 
 footer {
