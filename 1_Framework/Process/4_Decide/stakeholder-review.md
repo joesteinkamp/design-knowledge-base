@@ -1,3 +1,8 @@
+---
+author: "Joe Steinkamp"
+last-updated-by: "Joe Steinkamp"
+---
+
 # Stakeholder Review
 
 Include stakeholders in the planning process prior to the Sprint, validating the Sprint Challenge and the goals as early as possible, and then building in stakeholder check-ins throughout the process. You can schedule a check in at the end of the Sketch phase or as part of the Decide phase in order to get input early.

@@ -1,3 +1,8 @@
+---
+author: "Joe Steinkamp"
+last-updated-by: "Joe Steinkamp"
+---
+
 # Strategy Design Workshop
 
 The strategy workshop purpose is to have the team together to start the conversation on how the team could fulfill the opportunity by tackling the most critical problem with the most promising hypotheses. The exercise is about prioritization and focus rather than solutioning.

@@ -1,3 +1,8 @@
+---
+author: "Joe Steinkamp"
+last-updated-by: "Joe Steinkamp"
+---
+
 # Proto-Persona
 A simplified persona to quickly ground a project without creating an exhaustive persona.
 - Name and sketch—Pick a name that is memorable and include a sketch of what the person might look like or find an image representing them.

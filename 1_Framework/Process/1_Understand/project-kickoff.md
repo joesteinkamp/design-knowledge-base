@@ -1,3 +1,8 @@
+---
+author: "Joe Steinkamp"
+last-updated-by: "Joe Steinkamp"
+---
+
 # Design Project Kickoff
 
 Each problem desires its own design approach. A design project kickoff allows the team to get together and discuss how to best handle a project plan.

@@ -1,3 +1,8 @@
+---
+author: "Joe Steinkamp"
+last-updated-by: "Joe Steinkamp"
+---
+
 # Card Sorting
 
 Card sorting is a user-centered design method for increasing a system’s findability. The process involves sorting a series of cards, each labeled with a piece of content or functionality, into groups that make sense to users or participants.

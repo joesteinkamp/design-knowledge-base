@@ -1,3 +1,8 @@
+---
+author: "Joe Steinkamp"
+last-updated-by: "Joe Steinkamp"
+---
+
 # Mockups
 
 A mockup, also known as a comp (comprehensive layout), is a high fidelity, static, design representation to be used by the development team. A well created mockup:

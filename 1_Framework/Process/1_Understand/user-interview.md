@@ -1,3 +1,8 @@
+---
+author: "Joe Steinkamp"
+last-updated-by: "Joe Steinkamp"
+---
+
 # User Interview
 
 A user-centered design research method that is conducted within the user's normal environment. It includes a one-on-one interview with a user and then an observation session of how they complete tasks to solve their problems.

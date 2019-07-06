@@ -259,9 +259,13 @@ section {
     box-sizing: border-box;
 
     .subtext {
-        color: $lightGrayColor;
+        color: $darkGrayColor;
         font-size: .9em;
         font-style: italic;
+
+        strong {
+            color: $darkGrayColor;
+        }
     }
 }
 

@@ -1,3 +1,8 @@
+---
+author: "Joe Steinkamp"
+last-updated-by: "Joe Steinkamp"
+---
+
 # Technical Feasibility Analysis
 
 Need to know when backend changes will be necessary, likely level of effort on frontend, what APIs are available.

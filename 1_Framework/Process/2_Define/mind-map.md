@@ -1,3 +1,8 @@
+---
+author: "Joe Steinkamp"
+last-updated-by: "Joe Steinkamp"
+---
+
 # Mind Map
 An abductive technique that is a loose and unstructured diagram that is used to connect related and unrelated information, opinions, problems, solutions, ideas together through open-ended thought. *Essentially a loosely organized affinity diagram with the purpose of filling in the gaps and making new connections.*
 

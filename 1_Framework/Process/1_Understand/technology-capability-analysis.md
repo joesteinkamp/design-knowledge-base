@@ -1,3 +1,8 @@
+---
+author: "Joe Steinkamp"
+last-updated-by: "Joe Steinkamp"
+---
+
 # Technology Capability Analysis
 A detailed document that contains information about the technological capabilities a device can offer for an user experience. Capabilities will include both hardware and software and how they interact.
 

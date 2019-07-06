@@ -1,3 +1,8 @@
+---
+author: "Joe Steinkamp"
+last-updated-by: "Joe Steinkamp"
+---
+
 # Usability Testing
 
 Usability \(or summative\) testing is the practice of testing how easy a design is to use on a group of representative users. It involves observing users as they attempt to complete tasks.

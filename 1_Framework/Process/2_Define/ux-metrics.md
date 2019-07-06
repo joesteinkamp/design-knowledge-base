@@ -1,3 +1,8 @@
+---
+author: "Joe Steinkamp"
+last-updated-by: "Joe Steinkamp"
+---
+
 # UX Metrics
 Metrics that capture the value, meaning, and impact of a user's experience, often through indirect quantitative measurements. The metrics add a layer of accountability for designs and the business, which provides perspective to better shape the scope of a solution. If used effectively, it legitimizes good design by demonstrating how different designs can lead to different outcomes (better outcomes).
 

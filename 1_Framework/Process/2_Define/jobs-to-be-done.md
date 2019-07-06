@@ -1,3 +1,8 @@
+---
+author: "Joe Steinkamp"
+last-updated-by: "Joe Steinkamp"
+---
+
 # Job Story
 
 The key component to the Jobs to be Done Framework that captures the user's primary desired outcome framed as if the user has hired the product to perform a job. Jobs stories are an effective method that documents practical user goals from your product. Similar to user stories but with more structure, which increased their effectiveness and limits misuse.

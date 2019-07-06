@@ -1,3 +1,8 @@
+---
+author: "Joe Steinkamp"
+last-updated-by: "Joe Steinkamp"
+---
+
 # Insights Definition Workshop
 
 The insights definition workshop purpose is to document user-focused artifacts to ground future strategy and solutioning efforts in the user's perspective.

@@ -1,3 +1,8 @@
+---
+author: "Joe Steinkamp"
+last-updated-by: "Joe Steinkamp"
+---
+
 # Diary Study
 
 A research method that relies on participants to self-report their activities and routines that are relevant to the use of your product. The participant is asked to log all appropriate information that pertains the research goals.

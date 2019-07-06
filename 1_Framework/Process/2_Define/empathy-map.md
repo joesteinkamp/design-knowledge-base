@@ -1,3 +1,8 @@
+---
+author: "Joe Steinkamp"
+last-updated-by: "Joe Steinkamp"
+---
+
 # Empathy Map
 
 A simple diagram that provides a high level but detailed look at a specific user within a specific context. Often includes: thoughts, feelings, doing, context, pain points, and goals. Also sometimes includes: what they're hearing and saying.

@@ -1,3 +1,8 @@
+---
+author: "Joe Steinkamp"
+last-updated-by: "Joe Steinkamp"
+---
+
 # Design Principles
 
 Written statements, generally in the form of imperatives like “Earn people’s trust,” that serve as guiding lights during decision-making. Good design principles are specific to the project, not general truths, and should help teams say “no” to otherwise interesting proposals or generate ideas when they’re stuck.

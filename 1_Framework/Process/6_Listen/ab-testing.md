@@ -1,3 +1,8 @@
+---
+author: "Joe Steinkamp"
+last-updated-by: "Joe Steinkamp"
+---
+
 # A/B Testing
 
 The idea of A/B testing is to present different content to different user groups, gather their reactions and use the results to build strategies in the future.

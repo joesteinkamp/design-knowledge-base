@@ -1,3 +1,8 @@
+---
+author: "Joe Steinkamp"
+last-updated-by: "Joe Steinkamp"
+---
+
 # Kano Analysis
 A Kano Analysis is a way of evaluating a product for user satisfaction based on its feature set. A business can realize the biggest gains from its product investment by focusing on the development of user requirements that will differentiate it from competitors. Rather than emphasizing user needs and goals, improving the overall quality of a product, a Kano Analysis focuses on user satisfaction and dissatisfaction as the main success metric.
 

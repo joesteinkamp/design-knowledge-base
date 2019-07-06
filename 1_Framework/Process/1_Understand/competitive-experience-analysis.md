@@ -1,3 +1,8 @@
+---
+author: "Joe Steinkamp"
+last-updated-by: "Joe Steinkamp"
+---
+
 # Competitive Experience Analysis
 An analysis of competitor's products by looking at their experiences. Focus on the quality of the experience through measuring appropriate attributes that help quantifiably rate the competitors against your own product. _This is not a feature or functionality comparison._ It is important to look at attributes such as usability, efficiency, desirability and other UX heuristics.
 

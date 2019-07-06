@@ -1,3 +1,8 @@
+---
+author: "Joe Steinkamp"
+last-updated-by: "Joe Steinkamp"
+---
+
 # Affinity Diagram
 
 An affinity diagram is an inductive technique that shows the relationships between information, opinions, problems, solutions, and issues by placing them in related groups. It allows a broad range of ideas to be organized so they can be more effectively analyzed.

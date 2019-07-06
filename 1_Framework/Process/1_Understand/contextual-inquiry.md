@@ -1,3 +1,8 @@
+---
+author: "Joe Steinkamp"
+last-updated-by: "Joe Steinkamp"
+---
+
 # Contextual Inquiry
 
 A user-centered design research method that is conducted within the user's normal environment. It is a one-on-one observation session of how they complete tasks to solve their problems.

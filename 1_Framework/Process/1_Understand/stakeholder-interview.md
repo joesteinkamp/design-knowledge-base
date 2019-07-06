@@ -1,3 +1,8 @@
+---
+author: "Joe Steinkamp"
+last-updated-by: "Joe Steinkamp"
+---
+
 # Stakeholder Interview
 A conversation with the primary stakeholders of the product to better understand their vision and objectives. The primary purpose is to build consensus about the problem statements and project objectives. 
 

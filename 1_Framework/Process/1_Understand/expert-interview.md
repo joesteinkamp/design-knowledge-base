@@ -1,3 +1,8 @@
+---
+author: "Joe Steinkamp"
+last-updated-by: "Joe Steinkamp"
+---
+
 # Expert Interview
 Subject matter experts are always a valuable resource of information. Experts help uncover the true complexities of the systems that help support the product or service you're working on. 
 

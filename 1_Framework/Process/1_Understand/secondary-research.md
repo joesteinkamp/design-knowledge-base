@@ -1,3 +1,8 @@
+---
+author: "Joe Steinkamp"
+last-updated-by: "Joe Steinkamp"
+---
+
 # Secondary Research
 Human-centered design is all about talking with people about their challenges, ambitions, and constraints. But as you move through the Inspiration Phase there will be moments where you’ll need more context, history, or data than a man-on-the-street style Interview can afford. Social sector challenges can be really thorny, which is why Secondary Research, whether done online, by reading books, or by crunching numbers, can help you ask the right questions.
 

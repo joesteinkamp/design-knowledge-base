@@ -1,3 +1,8 @@
+---
+author: "Joe Steinkamp"
+last-updated-by: "Joe Steinkamp"
+---
+
 # Decision Trees
 
 A basic flowchart to describe how system logic should be approached through visualizing a series of outcomes from a series of decisions.

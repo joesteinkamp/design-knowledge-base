@@ -1,3 +1,8 @@
+---
+author: "Joe Steinkamp"
+last-updated-by: "Joe Steinkamp"
+---
+
 # Convergent Design Workshop
 
 Convergent Design Workshop is a method to narrow the possible design solutions by facilitating input from the team. Each potential solution is presented and a vote is held. Ideally this will result in a clear winner, but more often than not there will be some hiccups. For example, there may not be a clear consensus or people may feel pressured to vote how the team leader is voting. Using the Dot Voting method can help mitigate this issue.

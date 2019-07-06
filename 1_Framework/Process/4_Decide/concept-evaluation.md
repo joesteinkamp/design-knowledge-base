@@ -1,3 +1,8 @@
+---
+author: "Joe Steinkamp"
+last-updated-by: "Joe Steinkamp"
+---
+
 # Concept Evaluation
 
 A type of usability test that tests multiple concepts in a single session with a participant. The goal is to obtain qualitative reactions to the concepts and analyze behaviors and performance while completing tasks on the concepts

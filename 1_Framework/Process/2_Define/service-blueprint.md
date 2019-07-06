@@ -1,3 +1,8 @@
+---
+author: "Joe Steinkamp"
+last-updated-by: "Joe Steinkamp"
+---
+
 # Service Blueprint
 
 A detailed diagram capturing the end-to-end delivery process of a service that not only captures the experience but also exposes the "back stage", the behind-the-scenes work showing how the service is delivered. The diagram provides a holistic viewpoint of the experience by combining many details, including touchpoints, actors, metrics, and more.

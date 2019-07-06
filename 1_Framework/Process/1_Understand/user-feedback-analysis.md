@@ -1,3 +1,8 @@
+---
+author: "Joe Steinkamp"
+last-updated-by: "Joe Steinkamp"
+---
+
 # User Feedback Analysis
 A review and compiling of feedback received from users through existing feedback channels. The objective is to find recurring comments to uncover major pain points or areas to look into more.
 

@@ -1,3 +1,8 @@
+---
+author: "Joe Steinkamp"
+last-updated-by: "Joe Steinkamp"
+---
+
 # Persona
 
 A defined group of people that exhibit certain behaviors and goals developed from patterns discovered in user research. Personas are humanized tools to guide design and help identify with your audience. They allow us to talk in human terms about a large cross-section of your user population by creating a hypothetical person. Each persona identifies with a specific user base of a product. Expect to have multiple personas per product.

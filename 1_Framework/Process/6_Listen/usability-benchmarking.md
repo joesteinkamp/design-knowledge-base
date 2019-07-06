@@ -1,3 +1,8 @@
+---
+author: "Joe Steinkamp"
+last-updated-by: "Joe Steinkamp"
+---
+
 # Usability Benchmark
 
 A tightly scripted usability studies are performed with several participants, using precise and predetermined measures of performance - an assessment of the usability of the product. Focused on understanding the current state of the usability.

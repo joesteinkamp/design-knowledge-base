@@ -1,3 +1,8 @@
+---
+author: "Joe Steinkamp"
+last-updated-by: "Joe Steinkamp"
+---
+
 # Motion Design Videos
 
 A video representation of an animation to expectations and requirements of the UI. The videos are high-fidelity prototypes to adequately demonstrate the animation. The most useful things about motion comps is how they allow designers and developers to share the work of creating animations.

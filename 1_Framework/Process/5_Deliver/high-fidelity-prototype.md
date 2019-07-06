@@ -1,3 +1,8 @@
+---
+author: "Joe Steinkamp"
+last-updated-by: "Joe Steinkamp"
+---
+
 # High-Fidelity Prototype
 
 A high-fidelity prototype is an interactive representation of the product in its closest resemblance to the final design in terms of details and functionality.** **

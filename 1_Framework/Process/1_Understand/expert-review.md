@@ -1,3 +1,8 @@
+---
+author: "Joe Steinkamp"
+last-updated-by: "Joe Steinkamp"
+---
+
 # Expert Review
 A usability inspection method for identifying usability conducted by an experience expert. Commonly confused with a Heuristic Evaluation. 
 

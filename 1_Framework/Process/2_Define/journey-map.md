@@ -1,3 +1,8 @@
+---
+author: "Joe Steinkamp"
+last-updated-by: "Joe Steinkamp"
+---
+
 # Journey Map
 
 Journey maps are visualization of how users live their lives and how your product fits into it. They are composites of real experiences of users based on information discovered during qualitative research and task analysis. Journeys are not simply maps of how users use your product, but look at the more holistic and comprehensive experience.

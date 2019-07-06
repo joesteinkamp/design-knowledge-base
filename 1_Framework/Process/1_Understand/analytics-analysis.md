@@ -1,7 +1,6 @@
 ---
-title: "Analtyics Analysis"
 author: "Joe Steinkamp"
-base-cat: "Framework"
+last-updated-by: "Joe Steinkamp"
 ---
 
 # Analytics Analysis

@@ -1,3 +1,8 @@
+---
+author: "Joe Steinkamp"
+last-updated-by: "Joe Steinkamp"
+---
+
 # Heuristic Evaluation
 A usability inspection method for identifying usability issues within an existing product or user interface design. It differs from an Expert Review because it uses specific heuristics to evaluate the interface.
 

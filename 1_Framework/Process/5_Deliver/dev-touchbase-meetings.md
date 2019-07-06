@@ -1,3 +1,8 @@
+---
+author: "Joe Steinkamp"
+last-updated-by: "Joe Steinkamp"
+---
+
 # Eng Touchbases
 
 Collaboration is key for a success product team. Dev touch-bases are basic template for designers and engineers to stay in contact during implementation of design work.

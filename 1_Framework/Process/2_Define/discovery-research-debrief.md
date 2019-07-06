@@ -1,3 +1,8 @@
+---
+author: "Joe Steinkamp"
+last-updated-by: "Joe Steinkamp"
+---
+
 # Discovery Research Deck
 
 A report summarizing the findings uncovered from discovery research and analysis. The report should include insights, the implication of those insights, hypotheses, and recommendations. The report can also be an opportunity to show first drafts of some definition artifacts.

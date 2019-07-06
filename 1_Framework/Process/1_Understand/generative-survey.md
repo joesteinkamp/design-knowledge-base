@@ -1,3 +1,8 @@
+---
+author: "Joe Steinkamp"
+last-updated-by: "Joe Steinkamp"
+---
+
 # Generative Survey
 
 A structured questionnaire that your users complete unmoderated online. A discovery survey focuses on understanding how the user interacts with your product and how they feel about it. Surveys are an effective tool that is cheap and fast in comparison of other discovery research.

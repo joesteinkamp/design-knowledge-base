@@ -1,3 +1,8 @@
+---
+author: "Joe Steinkamp"
+last-updated-by: "Joe Steinkamp"
+---
+
 # Field Study
 
 Researchers meet with and study participants in their natural environment, where they would most likely encounter the product or service in question. Objectively watch the user perform the interested tasks.
