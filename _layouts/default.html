@@ -39,7 +39,7 @@
 
       {% if page.author != null %}
         <p class="subtext">
-          Created by: {{ page.author }} {% if page.last-updated-by != null %} | Last updated by: {{ page.last-updated-by }}{% endif %}
+          Created by: <strong>{{ page.author }}</strong> {% if page.last-updated-by != null %} | Last updated by: <strong>{{ page.last-updated-by }}</strong>{% endif %}
         </p>
       {% endif %}
 
