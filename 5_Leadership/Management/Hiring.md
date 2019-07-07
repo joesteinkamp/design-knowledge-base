@@ -1,17 +1,30 @@
 # Hiring
 
 ## Table of Contents
-1. Hiring Principles
-2. Write Job Description
-3. Source Candidates
-4. Resume Review
-5. Portfolio Review
-6. Phone Screen
-7. Remote Portfolio Walkthrough
-8. In-Person Interview
-9. Debrief
-10. Offer
-11. Onboarding
+- [Hiring](#Hiring)
+  - [Table of Contents](#Table-of-Contents)
+  - [Hiring Principles](#Hiring-Principles)
+    - [Small Teams](#Small-Teams)
+  - [Write Job Description](#Write-Job-Description)
+  - [Source Candidates](#Source-Candidates)
+  - [Resume Review](#Resume-Review)
+    - [Product Designer](#Product-Designer)
+    - [Communication Designer](#Communication-Designer)
+    - [UX Researcher](#UX-Researcher)
+  - [Portfolio Review](#Portfolio-Review)
+    - [Product Designer](#Product-Designer-1)
+  - [Phone Screen](#Phone-Screen)
+    - [Schedule Time for Screener](#Schedule-Time-for-Screener)
+    - [Foundational Questions](#Foundational-Questions)
+    - [General Questions](#General-Questions)
+    - [Basic Scoring](#Basic-Scoring)
+    - [Scorecards](#Scorecards)
+  - [Remote Portfolio Walkthrough](#Remote-Portfolio-Walkthrough)
+  - [In-Person Interview](#In-Person-Interview)
+  - [Debrief](#Debrief)
+  - [Offer](#Offer)
+  - [Onboarding](#Onboarding)
+  - [References](#References)
 
 
 ## Hiring Principles
@@ -26,7 +39,7 @@
 3. How does the organization engage with the new team
 4. High-level of ambiguity - self-govern and pro-active problem solvers
 
-## Write a Job Description
+## Write Job Description
 
 1. Leverage a template
 2. Write a thank you letter to the new employee as if a year has gone by and you list off what they've accomplished.
@@ -120,7 +133,8 @@
 
 
 
-## Phone Screen [30 minutes]
+## Phone Screen
+*30 minutes*
 The goal of the phone screen to find out if the candidate is the right fit for the company and the team based on salary expectations, role and responsibilities, skills required, potential interest, and communication skills. It's also important to understand what they're passionate about and if it aligns with our goals.
 
 ### Schedule Time for Screener
@@ -185,6 +199,17 @@ Where do you look for inspiration? *Look for someone up-to-date on current desi
 ![Product Designer - Phone Screen Scorecard](./assets/Product-Designer-Phone-Screener-Scorecard.pdf)
 
 
+## Remote Portfolio Walkthrough
+
+
+
+## In-Person Interview
+
+## Debrief
+
+## Offer
+
+## Onboarding
 
 
 
