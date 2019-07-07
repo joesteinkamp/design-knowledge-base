@@ -1,6 +1,47 @@
+# Hiring
+
+## Table of Contents
+1. Hiring Principles
+2. Write Job Description
+3. Source Candidates
+4. Resume Review
+5. Portfolio Review
+6. Phone Screen
+7. Remote Portfolio Walkthrough
+8. In-Person Interview
+9. Debrief
+10. Offer
+11. Onboarding
 
 
+## Hiring Principles
+1. Hire people closer to your users
+2. Move quickly - no more than a few days between contact. We're in an aggressive market where the top talent is highly sought after.
+3. Focus on long term impact of role and not the generalized day-to-day responsibilities that are similar with every job posting out there.
+4. Look for passionate advocates rather than collective okays.
 
+### Small Teams
+1. Small team need generalist - can do at least 2 things well
+2. Need to build ritual for team (process)
+3. How does the organization engage with the new team
+4. High-level of ambiguity - self-govern and pro-active problem solvers
+
+## Write a Job Description
+
+1. Leverage a template
+2. Write a thank you letter to the new employee as if a year has gone by and you list off what they've accomplished.
+3. Write those accomplishments within the job description as role expectations
+4. 
+
+
+## Source Candidates
+1. Reach out to your existing network
+2. Recruit on LinkedIn, especially look for designers at company's with quality design practices. Reference: [Design Mature Companies](https://airtable.com/shr5V0MYvD2piGcI3/tbl5NSdslsyFRfE8v?blocks=hide)
+3. Find candidates within design communities (Dribbble, Behance, )
+4. Finding products that you like and find who designed them. Focus on casual conversation and networking before asking them to work for you.
+5. Google Form on your company's Medium publication
+6. Use an online job recruitment platform, like [Vettery](https://www.vettery.com/).
+7. Use a recruiter
 
 
 ## Resume Review
@@ -45,6 +86,11 @@
 - (-1) Boot camps can be warning signs and require more investigation on capability? How long was the boot camp? Less than 6 months and less than 2 years of experience is a deduction.
 - (-0.5) Has the candidate hopped around at a lot of companies (usually a warning sign)?
 
+
+### Communication Designer
+
+
+### UX Researcher
 
 
 
@@ -137,3 +183,9 @@ Where do you look for inspiration? *Look for someone up-to-date on current desi
 
 ### Scorecards
 ![Product Designer - Phone Screen Scorecard](./assets/Product-Designer-Phone-Screener-Scorecard.pdf)
+
+
+
+
+
+## References

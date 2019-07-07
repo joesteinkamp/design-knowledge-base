@@ -1,21 +1,14 @@
-# Design Knowledge Base
+# Management
 
-## Design Defintion & Field
+## [Hiring](./Hiring)
 
-## Design Vision
-- Design Principles
 
-## Design Process & Methodology Repository
+## Team Structure
 
-## Psychology, Sociology & HCI References
+## Time Management
 
-## Data & Research
-- Design Metrics Repository
+## Values
 
-## Business
+## Goals
 
-## Technology
-
-## Management
-
-## Operations
+## Operating Model
