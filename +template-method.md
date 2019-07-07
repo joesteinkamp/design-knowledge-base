@@ -22,15 +22,15 @@ Short description of the method. What is it and how it is used.
 
 ### Research Details \(Optional - only for a research method\)
 
-| Research Type | Sample Size | Suggested Time |
-| :--- | :--- | :--- |
-| Qualitative, Hybrid, Generative | Small \(3 - 5 participants\) | 1 to 2 hours |
+| Research Type                   | Sample Size                  | Suggested Time |
+| :------------------------------ | :--------------------------- | :------------- |
+| Qualitative, Hybrid, Generative | Small \(3 - 5 participants\) | 1 to 2 hours   |
 
 ### Workshop Details \(Optional - only for a workshop method\)
 
-| Attendees | Ideal Size | Suggested Time |
-| :--- | :--- | :--- |
-| 1 representative per squad discipline, 1 representative from Support, Marketing, Sales, and BI. | 5 to 8 people | 2 to 3 hours |
+| Attendees              | Ideal Size    | Suggested Time |
+| :--------------------- | :------------ | :------------- |
+| Listed of participants | 5 to 8 people | 2 to 3 hours   |
 
 
 ### Steps
