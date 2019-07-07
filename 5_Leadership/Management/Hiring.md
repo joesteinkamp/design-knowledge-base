@@ -1,31 +1,19 @@
 # Hiring
 
 ## Table of Contents
-- [Hiring](#Hiring)
-  - [Table of Contents](#Table-of-Contents)
-  - [Hiring Principles](#Hiring-Principles)
-    - [Small Teams](#Small-Teams)
-  - [Write Job Description](#Write-Job-Description)
-  - [Source Candidates](#Source-Candidates)
-  - [Resume Review](#Resume-Review)
-    - [Product Designer](#Product-Designer)
-    - [Communication Designer](#Communication-Designer)
-    - [UX Researcher](#UX-Researcher)
-  - [Portfolio Review](#Portfolio-Review)
-    - [Product Designer](#Product-Designer-1)
-  - [Phone Screen](#Phone-Screen)
-    - [Schedule Time for Screener](#Schedule-Time-for-Screener)
-    - [Foundational Questions](#Foundational-Questions)
-    - [General Questions](#General-Questions)
-    - [Basic Scoring](#Basic-Scoring)
-    - [Scorecards](#Scorecards)
-  - [Remote Portfolio Walkthrough](#Remote-Portfolio-Walkthrough)
-    - [Send Portfolio Preparation Info to Candidate](#Send-Portfolio-Preparation-Info-to-Candidate)
-  - [In-Person Interview](#In-Person-Interview)
-  - [Debrief](#Debrief)
-  - [Offer](#Offer)
-  - [Onboarding](#Onboarding)
-  - [References](#References)
+1. [Table of Contents](#Table-of-Contents)
+2. [Hiring Principles](#Hiring-Principles)
+3. [Write Job Description](#Write-Job-Description)
+4. [Source Candidates](#Source-Candidates)
+5. [Resume Review](#Resume-Review)
+6. [Portfolio Review](#Portfolio-Review)
+7. [Phone Screen](#Phone-Screen)
+8. [Remote Portfolio Walkthrough](#Remote-Portfolio-Walkthrough)
+9. [In-Person Interview](#In-Person-Interview)
+10. [Debrief](#Debrief)
+11. [Offer](#Offer)
+12. [Onboarding](#Onboarding)
+13. [References](#References)
 
 
 ## Hiring Principles
@@ -106,6 +94,7 @@
 
 ### UX Researcher
 
+### Content Strategist
 
 
 ## Portfolio Review
