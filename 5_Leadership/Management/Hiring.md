@@ -214,6 +214,181 @@ The goal of this type of interview is to get greater depth of the candidates tho
 
 
 ## In-Person Interview
+The goal of an in-person interview is get a detailed understanding of how the candidate works (their process, decision making ability), the quality of that work, and how they work with other team members of the product development lifecycle. It's also a great opportunity for them to learn our team and process.
+
+### Send Interview Portfolio Preparation Info to Candidate
+While scheduling the in-person interview, provide the candidate with a detailed breakdown of what is expected of the on-site interview. *Often 3-4 hours.*
+
+>	The portfolio presentation is a chance for us to get to know your process and your design accomplishments.  You will have one hour to talk about one or two specific projects you have worked on.  An ideal project is one that best illustrates your design capabilities.  Ideally we'd like to see how your experience is relevant to the challenges you would face at our company. 
+>	 
+>The presentation can be as informal or as formal as you would like. Some logistical details for the presentation:
+- There will be about 5-6 people present.  The group will be comprised of the Director of Design, engineers and product managers.
+- You will have 45 minutes for your presentation followed by 15 minutes of Q&A.
+- You will have access to a projector.  We expect you to bring your own laptop.
+>	
+>**DO**
+>- Assume that everyone present will already be familiar with your resume.
+>- Focus on one to two projects to show us your work along with your process. Use specific examples to walk us through your design journey from the beginning to the end of your involvement. 
+>- If you were working as part of a team, clearly identify your contributions to the process and the final product.
+>- Include examples that best illustrate your unique skills, interests, and abilities, and best exemplify your approach as a designer.
+>- If you have a particular passion or interest outside of your professional work, feel free to spend the last 5 minutes talking about it.
+>	 
+>**DON’T**
+>- Please don't show any work that is confidential.  Usually, projects you have worked on in the past that have launched are acceptable to show.
+>- Don’t go over your work history in this presentation, since people will already be familiar with your resume.
+>- Don’t speak in vague, general terms.  The more specific you can be, the better we can understand what you potentially bring to the table.
+
+### Organize Interview Panel
+- Hiring Manager
+- 1 Designer
+- Product Manager
+- 2 Engineers (if discipline specific: 1 backend, 1 frontend)
+- + another designer or PM
+
+### Day of Agenda
+1. Portfolio Review (Hard Skills) [60m] - Entire Interview Panel
+2. Team Values and Soft Skills [30m] - PM & engineer
+3. About Company's Design Practice [15m] - Hiring Manager
+4. Design Exercise & Critique [60m] - Joe and Dan
+
+#### Portfolio Review
+*45 minute presentation, 15 minute Q&A*
+The goal is to understand how they have worked, their hard skills, and their ability to present.
+
+**Product Designer: What to Look for**
+1. User First: Do they describe who the user is first and ground you in the problem? Do they speak about how the user has guided specific decision throughout the process (design principles, etc…)? 
+2. Craftsmanship: Did the designer sweat over all the details, both big and small, of the end-to-end product? Is there a sense that the final product is well-made? We’re not looking for something that’s just functional. We want products that leave people feeling like the folks who built this cared about them and their individual experiences. 
+3. Interaction design: Can you design intuitive end-to-end user flows? Do you consider edge cases appropriately? How easy is it to get from point A to point B in an app you designed? Is the design thoughtful and clear for how this product works? Does the designer have a good grasp of common patterns and interactions?
+4. Product thinking: What problems are you trying to solve? Who are you designing for? What features should be included in your product, and why? Did they speak to and understand the business outcomes?
+5. Collaborative Process: Did they demonstrate involving others in their design process? Workshops? Reviews? Stakeholder Interviews?
+6. Storytelling: Did they break down the problem so that it was easy to understand?
+
+**Product Designer: Questions to Ask**
+1. What were the problems you were trying to solve?
+2. Who did you partner with?
+3. What kind of research did you perform, if any?
+4. Why did you choose that design solution over this one?
+5. What were the tradeoffs?
+6. What challenges did you face in designing X?
+7. If you had more time to work on it, what would you change?
+8. If you got stuck on a certain design problem, how did you overcome it?
+9. Visual design: How polished are your designs? Do they feel well-crafted and refined? Are they aesthetically pleasing?
+10. Interaction design: Can you design intuitive end-to-end user flows? Do you consider edge cases appropriately? How easy is it to get from point A to point B in an app you designed?
+11. Product thinking: What problems are you trying to solve? Who are you designing for? What features should be included in your product, and why?
+12. Usability: “Is it easy to use? Is the design thoughtful and clear for how this product works? Does the designer have a good grasp of common patterns and interactions?”
+13. Craftsmanship: “Did the designer sweat over all the details, both big and small, of the end-to-end product? Is there a sense that the final product is well-made? We’re not looking for something that’s just functional. We want products that leave people feeling like the folks who built this cared about them and their individual experiences. That aspect of high quality and craft is extremely important to us.
+14. Think of a long-term project in your portfolio. “If you had two more months to work on it, what would you have done differently? What would have you added or continued to refine?” Thoughtful candidates are the ones who have been so attached to a project that they’ve thought many many times about how they could have made it better. “Occasionally you’ll get people who’ll say what they ended up with was perfect and they’d change nothing, or who suggest very minor cosmetic changes, which doesn’t come across as super thoughtful.”
+15. What was the timing for the project?
+16. What was their responsibilities? What did they actually produce that they're showing?
+17. How do they go about convincing stakeholders of their design decisions, especially when being challenged?
+18. Process within a project or the ideal process?
+19. What was the assignment or ask? How did they interpret it? 
+20. Why did they choose the approach they went with versus other options? What alternatives did they consider? 
+21. What problems or challenges did they encounter along the way? How did they overcome them? 
+22. Who did they ask questions to when they had them? What kind of questions did they have? What lessons did they learn from it?
+
+#### Team Values and Soft Skills
+Time to understand their values and if it aligns with your team's values. 
+
+**Communication Skills**
+1. How important is communicating with your team as a designer?
+2. How would deal with a team member that is overly critical or dismissive?
+3. Describe your communication style.
+4. Is the conversation relaxing?
+5. How do you resolve problems?
+6. How do you work in a team?
+
+*Look for: ability to tell compelling stories to add the necessary depth to their work and that they have the ability to work through communication challenges.*
+
+**Intentionality**
+1. Does every decision have a well reasoned argument?
+2. What went wrong? What went right? How did this step influence the outcome, and what was the next step? 
+3. Why?
+4. “Is there a solid rationale behind why they worked on what they worked on? Does it identify a real problem and attempt to solve it?”
+
+*Look for: every design decision has an explanation.*
+
+**Proactive (Self-starter) & Passionate**
+1. Do they look for opportunities in their life to improve upon? Side projects?
+2. How do you deal with ambiguity?
+3. Do you think designers should “fall in love” with their designs?
+4. When do you stand up for your design vs changing it to realistic pressures?
+
+*Look for: always uncovering problems that they're wonder why they haven't been solved yet and then they attempt to solve them.*
+
+**Humble & Collaboration**
+1. How do they approach getting early feedback on their work?
+2. How have you worked with development in the past?
+3. Have you facilitated workshops? If so, what value do you see in them?
+	
+*Look for: extreme desire to be inclusive and acknowledgement that they don't have all the best ideas.*
+
+**Creative Spark**
+1. What original creative designs have you completed? 
+2. What inspires you?
+3. What was a complex design problem you solved you are most proud of?
+4. How have you designed your life?
+
+*Look for: high motivation and passion to leverage design thinking throughout their life*
+
+
+#### About Company's Design Practice
+Goal: Get them to want to work with us.
+
+- Case studies of recent projects and outcomes driven
+- How we facilitation and collaboration with others
+- How the team is organized (centralized, decentralized, or hybrid)
+
+#### Design Exercise & Critique
+Goal: Capture high-level thinking
+
+##### Exercise
+**Problems for Exercise**
+- Airport - waste of time getting early before flight because of security
+- Car Rental - line queue
+- Hotel / Airbnb - how to get in the apartment
+- Deli Counter
+- Ridesharing
+- Food Delivery - getting them to where they need to be (multiple destinations)
+- Museum Tour
+- Cable Internet Installation
+- Concert Venue
+
+**Activities**
+1. Frame up problem space to tackle all the smaller problem [5 minutes]
+2. Discuss [5 minutes]
+3. Crazy 8s [8 minutes]
+4. Discuss 2 ideas [5 minutes]
+5. Storyboard [10 minutes]
+6. Discuss 
+
+**Alternative Remote Exercise**
+Only 30% of scheduled Internet installation appointments start on time with afternoon times getting as much as 2 hours delayed leading to frustrated personnel (longer work days) and customers (time expectations not met). Variance in installation times is impacted by many factors but the number one is house type - small family home versus low rise versus high rise.
+
+How would you better schedule appointments for installers so they’re more likely to stay on schedule?
+Keep your ideas constrained to current technology abilities, preferably on mobile.
+
+Please be prepared to explain your recommendation and how you came to it when we do our video interview. We will spend 30-60 minutes discussing it at the end of the interview. 
+	
+Lastly, please time-box your work to no longer than 3 hours and make any assumptions you need to.
+
+
+##### Critique
+Goal: Understand their attention to detail
+Give your candidate the chance to assess what your team has done so far — and to articulate what they’d keep, what they’d change, and why.
+
+- What would they be excited about changing? 
+- How do they think it could be improved? 
+- How would they work with you to figure out the best design and solution? 
+
+#### More General Questions
+
+- What are your career goals? *Looking for someone's career goals that would align with the opportunity available but also that they're ambitious. *
+- What are your expectations of work? *Looking for expectations that general align with what the opportunity will offer them. *
+- Who in the industry do you follow or read? *Looking for passion and desire to learn in our industry.*
+- Form or function?
+- What are your favorite apps to use on your phone? 
+- Walk us through why you think this product is well-designed? Or how do you think this product could be improved?
 
 ## Debrief
 
