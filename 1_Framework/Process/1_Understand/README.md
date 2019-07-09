@@ -36,6 +36,8 @@ Method | Type
 
 
 ## Questions to Answer
+- **What people problem are we trying to solve?**
+- **How do we know this is a real problem?**
 - What is the product vision?
 - How does the product fit into the organization’s overall business strategy?
 - What are the business goals for the product?
@@ -66,6 +68,12 @@ Method | Type
 - Are there corporate and/or product branding guidelines that will dictate some aspects of the product’s look?
 - What technical constraints must you consider when designing the product?
 - What are the time and budgetary constraints on your design project?
+- Who are we solving for?
+- What are the user’s goals? Why? What triggers it?
+- Why does the user need this product?
+- How did we get here? What does the experience look like now?
+- What do we know about our users? What insights have we gained?
+- What constraints are we working with?
 
 
 

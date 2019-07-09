@@ -36,5 +36,19 @@ Method | Type
 
 
 ## Questions to Answer
-1. Who are the users? Are they a subset of our normal user base? If so, can we target them?
-2. What are attributes that differ between users?
+- **What is the customer / user trying to achieve?**
+- **How will we know if we've solved the problem?**
+- **What is our hypothesis?**
+- How does fixing this problem contribute to our strategic goals?
+- Who are the users? Are they a subset of our normal user base? If so, can we target them?
+- What is the context the user is in when they interact the problem?
+- What are attributes that differ between users?
+- What is the user’s current situation? Journey?
+  - What doing thing is missing?
+  - What gets in the user’s way now?
+  - What was good? Bad?
+- When is it intended to be over?
+- What does success look like? How would we describe it? How do we measure it?
+  - How we can test & validate possible solutions?
+- Is this the biggest problem we're facing?
+- What are important experience principles that will guide our design decisions?

@@ -87,3 +87,10 @@ In the listen phase, the final product is monitored to verify if the solution so
 1. Benchmark the final product and set expectations of performance
 2. Continue to track and monitor the performance to uncover new problems
 3. Begin to think about how improvements can be made and how to appropriately iterate
+
+
+
+## References: Process Questions
+1. [https://uxdesign.cc/questions-ux-designers-should-be-asking-bc9a6ba87a34](Questions UX Designers Should Be Asking)
+2. [https://uxplanet.org/questions-constitute-a-good-design-process-2d49810712c2](Questions Constitute A Good Design Process)
+3. [https://medium.com/tradecraft-traction/the-beginners-guide-to-the-whiteboard-challenge-538289536a72](The Beginners Guide to the Whiteboard Challenge)
