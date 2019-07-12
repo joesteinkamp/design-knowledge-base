@@ -36,6 +36,8 @@ Method | Type
 
 
 ## Questions to Answer
+- **Why are we doing this?**
+- **Who are we doing this for?**
 - **What people problem are we trying to solve?**
 - **How do we know this is a real problem?**
 - What is the product vision?
