@@ -7,4 +7,4 @@ This phase is more aligned with "Aha!" like creativity that top innovators have 
 
 
 ## Questions to Answer
-- How can we capitalize on all the advantages our multiple approaches?
+- How can we capitalize on all the advantages of our multiple approaches?

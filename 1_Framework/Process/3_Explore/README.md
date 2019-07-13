@@ -32,5 +32,9 @@ Method | Type
 - What are the spectrum ends that the user would find as a acceptable solution?
 
 
+## Emergent Phase: Extension of Explore
+While under the explore phase, there is a distinct set of methodologies to push you to new creative heights.
+
+###### [Emergent Design Methods](../3b_Emerge)
 
 ## References
