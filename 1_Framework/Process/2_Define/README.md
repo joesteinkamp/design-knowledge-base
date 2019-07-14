@@ -14,10 +14,6 @@ Method | Type
 [Understand Research Debrief](understand-research-debrief.md) | Synthesis
 [User Journey Map](user-journey-map.md) | Experience Mapping
 
-
-
-
-
 ## Goals of this Phase
 1. Define what the problem is
 2. Define when and where does the problem take place (situation)
@@ -30,7 +26,7 @@ Method | Type
 
 
 ## Summarized Activities
-1. Synthesize and transfer the findings from Understand by visualizing them  into easily understood documents and artifacts
+1. Synthesize and transfer the findings from Understand by visualizing them into easily understood documents and artifacts
 2. Define what success will look like to the user and business, leverage BIs within this step
 3. Rethink how we might solve this problem by reframing the problem for a new perspective
 

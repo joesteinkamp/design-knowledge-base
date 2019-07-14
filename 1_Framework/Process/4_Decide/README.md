@@ -12,7 +12,15 @@ Method | Type
 *Also see [Operations: Design Critique](../../../4_Operations/design-team-critique.md)*
 
 
+## Goals of Phase
+1. Validate which is the best solution for the user
+2. Determine the feasibility and viability of our solutions
+3. Evaluate the best solution for the business
+
 ## Questions to Answer
+- **Which solution does the user perform best with?**
+- Which solution does the user prefer?
+- Does this solve the user's problem?
 - What part of the design are we looking for feedback on?
 - What are our biggest unknowns and assumptions?
 - Are we aligned?
@@ -32,3 +40,4 @@ Method | Type
 - How does our solution effectively solve the user’s needs?
 - What can we iterate on?
 - What will we do in the future? Do we have a clear vision of what this will be in 6 months?
+- Are we able to build the solution?

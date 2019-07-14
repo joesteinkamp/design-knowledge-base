@@ -12,5 +12,7 @@ Method | Type
 - Did we reach our goal? How do our metrics look?
 - Was the hypothesis true?
 - What is missing?
-- What more can we do?
+- What more can we do? What can we improve?
 - What do we do now?
+- What are our users saying?
+- What are our users doing?

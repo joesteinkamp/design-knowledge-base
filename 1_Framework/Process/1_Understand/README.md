@@ -76,7 +76,7 @@ Method | Type
 - How did we get here? What does the experience look like now?
 - What do we know about our users? What insights have we gained?
 - What constraints are we working with?
-
+- What problem have they have been trying to solve? Have they shown intent to solve it?
 
 
 

@@ -4,7 +4,5 @@ A part of the Explore Phase but very much a distinct step. Emerge Phase is focus
 
 This phase is more aligned with "Aha!" like creativity that top innovators have been described with but the truth is you've created a context in which you're completely immersed within a problem/solution space that it allows new connections to be made.
 
-
-
 ## Questions to Answer
 - How can we capitalize on all the advantages of our multiple approaches?
