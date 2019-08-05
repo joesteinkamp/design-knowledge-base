@@ -86,12 +86,12 @@ A **2 Week Design Process** with a structured agenda that represents the 5 key m
 
 ---
 
-### Refinement Mini Cycle
+#### Refinement Mini Cycle
 - It's not uncommon that the design work in previously defined cycles is incomplete or not effectively accomplishing goals *(Remember we're moving at high speed - things can fall off the rails)*
 - Iterate based off extension feedback that was received from previous cycle 
 - 1 Mini Design Cycle
 
-### New Product
+#### New Product
 - 3+ Design Cycles with one or more Discovery Cycles
 - Big effort with many unknowns
 - Pushing the boundaries of the Design Cycle Toolkit
