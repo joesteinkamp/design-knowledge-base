@@ -37,6 +37,8 @@ This is a framework used to define the design process within a fast paced enviro
   9.  Stakeholder & Engineering Review
   10. Refine deliverables
 
+### Typical Schedule
+[!Design Cycle Schedule](./assets/Design-Cycle-Schedule.png)
 
 ## How to Use Cycles for Projects
 
