@@ -18,7 +18,7 @@ A **2 Week Design Process** with a structured agenda that represents the 5 key m
 ### Typical Agenda
 ```
 1. Day 1: Project Kickoff Meeting & Understand 
-   1. Review existing research and definition artifacts (journey maps, empathy maps, jobs to be done, competitive analysis, UX research observation log, design debt backlog, existing IA diagrams)
+   1. Review existing research and definition artifacts (Journey Maps, UX Observation Database, etc...)
    2. Review existing Analytics and other quantitative data
 2. Day 2: (Re)Define Problem and Update Definition Artifacts
    1. What we know. What we think we know. What we don’t know. 
