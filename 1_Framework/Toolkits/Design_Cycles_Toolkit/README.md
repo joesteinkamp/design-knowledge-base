@@ -16,6 +16,7 @@ This is a framework used to define the design process within a fast paced enviro
 A **2 Week Design Process** with a structured agenda that represents the 5 key moments of the Design Process.
 
 ### Typical Agenda
+```
 1. Day 1: Project Kickoff Meeting & Understand 
    1. Review existing research and definition artifacts (journey maps, empathy maps, jobs to be done, competitive analysis, UX research observation log, design debt backlog, existing IA diagrams)
    2. Review existing Analytics and other quantitative data
@@ -34,27 +35,20 @@ A **2 Week Design Process** with a structured agenda that represents the 5 key m
 5. Days 8-10: Refine & Deliver Output
    1. Design Team Critique and Stakeholder Review
    2. Refine deliverables
+```
 
 ### Typical Schedule
 ![Design Cycle Schedule](./assets/Design-Cycle-Schedule.png)
 
 ## How to Use Cycles for Projects
 
-### Small Project
-- 1 cycle (2 weeks)
-- Immediately into detailed design
-- Leverage only pre-existing data and research findings
+| Small Project                                         | Medium Project                  | Large Project                             |
+| :---------------------------------------------------- | :------------------------------ | :---------------------------------------- |
+| 1 cycle (2 weeks)                                     | 2 cycles (4 weeks)              | 3 cycles (6 weeks)                        |
+| Immediately into detailed design                      | 1st cycle - architecture & flow | 1st cycle - broad conceptual evaluation   |
+| Leverage only pre-existing data and research findings | 2nd cycle = detailed design     | 2nd cycle = architecture & flow           |
+|                                                       |                                 | 3rd cycle = detailed design & refinements |
 
-### Medium Project
-- 2 cycles (4 weeks)
-- 1st cycle - architecture & flow
-- 2nd cycle = detailed design
-
-### Large Project 
-- 3 cycles (6 weeks)
-- 1st cycle - broad conceptual evaluation
-- 2nd cycle = architecture & flow
-- 3rd cycle = detailed design & refinements 
 
 ## Other Cycle Types
 
@@ -76,7 +70,7 @@ A **2 Week Design Process** with a structured agenda that represents the 5 key m
 ### Maximization
 - Improve a known process (aka, New Feature)
 - 2 or 3 Design Cycles
-- Potentially with a Discovery Cycle
+- Often starting first with a Discovery Cycle
 
 ### Optimization
 - Improve a specific part of a known solution
