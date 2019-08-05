@@ -58,36 +58,7 @@ This is a framework used to define the design process within a fast paced enviro
 - 2nd cycle = architecture & flow
 - 3rd cycle = detailed design & refinements 
 
-
-
-## Typical Usages
-
-### New Product
-
-### New Feature
-
-### Quick Turnaround
-
-### Post Release: Rethink
-
-### Post Release: Optimization
-
-### Functional Setup (Design Blessing) / Known Solution
-- When creating anything is dramatically a better user experience. 
-- Limited scope
-- Design effort would be best utilized in the future when trying to maximize
-
-### Optimization
-- Improve Known Solution
-- Optimize the user experience to create better outcomes
-- Smaller scope
-- 1 Cycle or Mini Cycle
-
-### Maximization
-- Dramatically improve known process (existing solution with desire to improve the user experience)
-- 2-3 Cycles, potentially with Discovery Cycle
-
-## Other Cycles
+## Other Cycle Types
 
 ### Discovery Cycle
 - 1 Week
@@ -100,3 +71,37 @@ This is a framework used to define the design process within a fast paced enviro
 ### Extra Mini Cycle
 - 1 day
 - Facilitate group ideation
+
+
+## Typical Project Uses
+
+### Maximization
+- Improve a known process (aka, New Feature)
+- 2 or 3 Cycles
+- Potentially with a Discovery Cycle
+
+### Optimization
+- Improve a specific part of a known solution
+- Optimize the user experience to create better outcomes
+- Smaller scope
+- 1 Cycle or Mini Cycle
+
+### Minimization
+- Improve a specific part of known solution
+- When creating *anything* is a dramatically better user experience than it's current state (aka, Design Blessing)
+- Limited Design scope - Design effort would be best utilized in the future when trying to maximize or optimize
+- Extra Mini Cycle
+
+---
+
+### Refinement Mini Cycle
+- It's not uncommon that the design work in previously defined cycles is incomplete or not effectively accomplishing goals *(Remember we're moving at high speed - things can fall off the rails)*
+- Iterate based off extension feedback that was received from previous cycle 
+- 1 Mini Cycle
+
+### New Product
+- 3+ Cycles with one or more Discovery Cycles
+- Big effort with many unknowns
+- Pushing the boundaries of Cycle Toolkit
+- Please consider a deep design process that still leverages the advantageous of transparency and quick iterations with feedback.
+
