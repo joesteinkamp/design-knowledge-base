@@ -2,7 +2,7 @@
 
 This is a framework used to define the design process within a fast paced environment. Use as a decision framework for time spent on a project while setting clear expectations of what you hope to achieve with stakeholders. Can be used as a negotiating tactic on what the goals are for design.
 
-## Cycle Rules
+#### Cycle Rules
 1. Focus on one user group per cycle.
 2. Tackle one hypothesis per cycle.
 3. Hypotheses should be written before cycle kickoff.
@@ -12,33 +12,31 @@ This is a framework used to define the design process within a fast paced enviro
 7. Use only for known industries and as an existing continuous in-house design process. *(If you're starting a whole new business, setting up a new design practice, or consulting, this process is not sufficient.)*
 
 
-## Normal Cycle
-- 2 Weeks
-- 
+## The Design Cycle
+A **2 Week Design Process** with a structured agenda that represents the 5 key moments of the Design Process.
 
 ### Typical Agenda
 1. Day 1: Project Kickoff Meeting & Understand 
-  1. Review existing research and definition artifacts (journey maps, empathy maps, jobs to be done, competitive analysis, UX research observation log, design debt backlog, existing IA diagrams)
-  2. Review existing Analytics and other quantitative data
+   1. Review existing research and definition artifacts (journey maps, empathy maps, jobs to be done, competitive analysis, UX research observation log, design debt backlog, existing IA diagrams)
+   2. Review existing Analytics and other quantitative data
 2. Day 2: (Re)Define Problem and Update Definition Artifacts
-  3. What we know. What we think we know. What we don’t know. 
-  4. Reframe Problem & Refine Hypotheses
-  5. Prep for divergent design workshop
-  6. Recruit research participants
+   1. What we know. What we think we know. What we don’t know. 
+   2. Reframe Problem & Refine Hypotheses
+   3. Prep for divergent design workshop
+   4. Recruit research participants
 3. Days 3-5: Explore Divergent Approaches
    1. Divergent Design Workshop & Individual Sketching
    2. Document 3 broad approaches (Ex. User Flows & Architectures)
    3. Prototype
-4. Day 6: User Validation
-5. Day 7: Synthesize
-  7. Document insights
-6. Days 8-10: Decide on direction and refine based on use feedback
-  8. Design Team Critique
-  9.  Stakeholder & Engineering Review
-  10. Refine deliverables
+4. Day 6-7: User Validation & Decide Direction
+   1. Document insights
+   2. Provide direction recommendations based on user feedback
+5. Days 8-10: Refine & Deliver Output
+   1. Design Team Critique and Stakeholder Review
+   2. Refine deliverables
 
 ### Typical Schedule
-[!Design Cycle Schedule](./assets/Design-Cycle-Schedule.png)
+![Design Cycle Schedule](./assets/Design-Cycle-Schedule.png)
 
 ## How to Use Cycles for Projects
 
@@ -65,10 +63,10 @@ This is a framework used to define the design process within a fast paced enviro
 - Focused on learning and completing research
 - Key Output: Hypothesis and Design Cycle plan
 
-### Mini Cycle (Sprint)
+### Mini Design Cycle (Design Sprint)
 - 1 Week
 
-### Extra Mini Cycle
+### Extra Mini Design Cycle
 - 1 day
 - Facilitate group ideation
 
@@ -77,14 +75,14 @@ This is a framework used to define the design process within a fast paced enviro
 
 ### Maximization
 - Improve a known process (aka, New Feature)
-- 2 or 3 Cycles
+- 2 or 3 Design Cycles
 - Potentially with a Discovery Cycle
 
 ### Optimization
 - Improve a specific part of a known solution
 - Optimize the user experience to create better outcomes
 - Smaller scope
-- 1 Cycle or Mini Cycle
+- 1 Design Cycle or 1 Mini Design Cycle
 
 ### Minimization
 - Improve a specific part of known solution
@@ -97,11 +95,10 @@ This is a framework used to define the design process within a fast paced enviro
 ### Refinement Mini Cycle
 - It's not uncommon that the design work in previously defined cycles is incomplete or not effectively accomplishing goals *(Remember we're moving at high speed - things can fall off the rails)*
 - Iterate based off extension feedback that was received from previous cycle 
-- 1 Mini Cycle
+- 1 Mini Design Cycle
 
 ### New Product
-- 3+ Cycles with one or more Discovery Cycles
+- 3+ Design Cycles with one or more Discovery Cycles
 - Big effort with many unknowns
-- Pushing the boundaries of Cycle Toolkit
+- Pushing the boundaries of the Design Cycle Toolkit
 - Please consider a deep design process that still leverages the advantageous of transparency and quick iterations with feedback.
-
