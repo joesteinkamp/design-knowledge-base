@@ -1,3 +1,8 @@
+---
+author: "Joe Steinkamp"
+last-updated-by: "Joe Steinkamp"
+---
+
 # Cognitive Psychology References
 Cognitive psychology is the study of mental processes such as "attention, language use, memory, perception, problem solving, creativity, and thinking. 
 

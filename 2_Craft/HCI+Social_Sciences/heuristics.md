@@ -1,3 +1,8 @@
+---
+author: "Joe Steinkamp"
+last-updated-by: "Joe Steinkamp"
+---
+
 # Heuristics
 A mental shortcut used to solve a particular problem; it is a quick, informal, and intuitive algorithm your brain uses to generate an approximate answer to a reasoning question. Imperfect heuristics can lead to cognitive biases.
 

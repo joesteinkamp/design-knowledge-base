@@ -1,3 +1,8 @@
+---
+author: "Joe Steinkamp"
+last-updated-by: "Joe Steinkamp"
+---
+
 # Color Theory
 
 Warm Colors - strong and comforting

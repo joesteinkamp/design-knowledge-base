@@ -1,3 +1,8 @@
+---
+author: "Joe Steinkamp"
+last-updated-by: "Joe Steinkamp"
+---
+
 # Other HCI & Social Sciences References 
 
 **Occam's Razor**

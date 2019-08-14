@@ -1,3 +1,8 @@
+---
+author: "Joe Steinkamp"
+last-updated-by: "Joe Steinkamp"
+---
+
 # Human Computer Interaction References
 
 ## Fitt's Law
