@@ -10,6 +10,8 @@ This is a framework used to define the design process within a fast paced enviro
 5. Sprints are intense and have a lot of activities required to be effective. Preserving working time is of the utmost importance.
 6. Completely transparent from estimation, expectations, and outputs.
 7. Use only for known industries and as an existing continuous in-house design process. *(If you're starting a whole new business, setting up a new design practice, or consulting, this process is not sufficient.)*
+8. Exposure to your users is required to proceed.
+9. Radically transparent with early and often reviews and sharing moments.
 
 
 ## The Design Cycle

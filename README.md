@@ -46,6 +46,6 @@ The framework is the how to do the work.
 
 
 ## Articles on our Medium Publication
-The knowledge base repo is often focused on very practical bite sized pieces of information. We use Medium to expand our content into a broader range of styles, such as case studies, opinion pieces, and more complete e
+The knowledge base repo is often focused on very practical and deep instructional content. We use Medium to expand our content into a broader range of styles, such as case studies, commentary and opinion pieces, summarization of knowledge captured here.
 
 ###### [More on Medium](https://medium.com/design-knowledge-base)
