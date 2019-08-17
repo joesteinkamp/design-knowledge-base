@@ -12,3 +12,9 @@ Product development model that visualizes customer satisfaction. It categorizes 
 
 
 ## Lean
+
+## Agile
+
+## SAFe Agile
+
+## Extreme Programming (XP)

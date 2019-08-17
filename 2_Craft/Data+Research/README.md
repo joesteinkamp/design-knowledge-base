@@ -1,20 +1,3 @@
-# Design Knowledge Base
+# Data & Research References
 
-## Design Defintion & Field
-
-## Design Vision
-- Design Principles
-
-## Design Process & Methodology Repository
-
-## Psychology, Sociology & HCI References
-
-## Data & Research
-
-## Business
-
-## Technology
-
-## Management
-
-## Operations
+- [Design Metrics](design-metrics.md)
