@@ -1,0 +1,8 @@
+- Mindset: The New Psychology of Success
+- Creative Confidence: Unleashing the Creative Potential Within Us All
+- Drawing on the Right Side of the Brain
+- The Art of Innovation: Lessons in Creativity from IDEO, America's Leading Design Firm
+- Make Time: How to Focus on What Matters Every Day
+- Deep Work: Rules for Focused Success in a Distracted World
+- Grit: The Power of Passion and Perseverance
+- Flow: The Psychology of Optimal Experience
