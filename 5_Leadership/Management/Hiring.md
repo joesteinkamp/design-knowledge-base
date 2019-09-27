@@ -1,19 +1,19 @@
 # Hiring
 
 ## Table of Contents
-1. [Table of Contents](#Table-of-Contents)
-2. [Hiring Principles](#Hiring-Principles)
-3. [Write Job Description](#Write-Job-Description)
-4. [Source Candidates](#Source-Candidates)
-5. [Resume Review](#Resume-Review)
-6. [Portfolio Review](#Portfolio-Review)
-7. [Phone Screen](#Phone-Screen)
-8. [Remote Portfolio Walkthrough](#Remote-Portfolio-Walkthrough)
-9. [In-Person Interview](#In-Person-Interview)
-10. [Debrief](#Debrief)
-11. [Offer](#Offer)
-12. [Onboarding](#Onboarding)
-13. [References](#References)
+1. [Table of Contents](#table-of-contents)
+2. [Hiring Principles](#hiring-principles)
+3. [Write Job Description](#write-job-description)
+4. [Source Candidates](#source-candidates)
+5. [Resume Review](#resume-review)
+6. [Portfolio Review](#portfolio-review)
+7. [Phone Screen](#phone-screen)
+8. [Remote Portfolio Walkthrough](#remote-portfolio-walkthrough)
+9. [In-Person Interview](#in-person-interview)
+10. [Debrief](#debrief)
+11. [Offer](#offer)
+12. [Onboarding](#onboarding)
+13. [References](#references)
 
 
 ## Hiring Principles
@@ -134,56 +134,20 @@ The goal of the phone screen to find out if the candidate is the right fit for t
 ### Foundational Questions
 - Expected compensation
 
-### General Questions
-How did you get into design?Look for desire to make things better and able to see opportunities for the better all around them.
-Why are you interested in working here? What motivates you?Look for answers that align with our mission, interested in and the understanding of the complexity around our products, and potentially desire to be on ambitious small team.
-What was your favorite past project, and why? Look to see if they're passionate about the problem, passionate about the process, their role within the process, and the outcomes of the project.
-What do you consider are your strengths?Look for communication skills, uncovering and understanding problems, and willingness to explore.
-How do you feel about being on a design team that's still early in its development? If so, why?Look for the opportunity to learn by doing many things, desire to prove the value of design to others, and to help the team gain respect through collaboration.
-Where do you want your career to go?Look for the mission alignment and determine what their career path would be like and alignment with company's mission.
-What are you working on these days?
-What kinds of projects and problems do you enjoy working on?
-What skills and applications do you use daily?
-How have you collaborated with other members of your team?
-What do you not enjoy doing?
-Is there anything about your current job or previous jobs that you don’t want to do again?
-What’s your passion outside of work? (Looking for well-rounded individual.)
-How do you partner with teams across the org?
-What’s your favorite book or magazine that has nothing to do with design?
-How do you learn, how did you grow up, what was your life was like?
-Draw a journey map of your past education and experience. Where do you imagine yourself growing?
-Where would you rank yourself on this team? What’s keeping you from being #1? (also a good question to ask references)
-Great advice you’ve gotten that’s changed your life?
-How often do you travel? Why?
-What’s your ideal adventure?
-Why are you working in this industry? 
-Why do you want this company? Why do you want to work on this product? This team?
-What would you have changed about your most recent project if you had more time?
-How do you know when your designs are done?
 
-
-**Product Designer Questions**
-How would you describe your design process? *It's important that they include understanding the problem more than the solution through research and/or data, documenting the problem space, exploring many possible solutions, and validating those solutions through user research. Also look for a company that has a good practice is constantly educating their designers.*
-What user artifacts have you created to guide your design decisions? Why do you think it was effective at leading you to a better outcome? *Look for journey maps, empathy maps, service blueprints then explanation of truly understanding the user's problem and trying to create a framework for how they're going to solve the problem - it's all about understanding the problem more.*
-How have you collaborated with other members of your team? *Are there other designers on your team?Important to see the willingness to collaborate early and often, receive feedback from others and make changes from it, and take direction. Also look for developer collaboration.*
-What are some of your favorite places to get the latest design news? *Look for ability to quickly answer = they're passionate about design. Hopefully they describe there reasons why without being prompt. Reasons should explain lean towards filling weaknesses, trying new things, and hopefully avoid solely mentioning inspiration.*
-
-**Communication Designer Questions**
-How would you describe your design process? *It's important that they include understanding the problem more than the solution, focus on craft and telling a compelling story, look for inspiration, attempt to see project through completion.*
-How do you get feedback? *Look for someone that wants to collaborate with other designers, stakeholders, and other peers early and often.*
-How comfortable are you creating your own illustrations? Brand guidelines? Videos? *Look for someone that's confident in their craft but also honest with what they are strong in.*
-What motivates you? *Look for someone striving for excellence and caring about every little detail because of the difference it can make to people.*
-Where do you look for inspiration? *Look for someone up-to-date on current design trends and is comparing their work to the inspiration.*
+### Questions
+[Phone Screen Questions](https://airtable.com/shrvBFqHchiECVWve)
 
 
 ### Basic Scoring
-| Skills: 			  | Yes \| No \| Uncertain |
-| Good Questions:	| Yes \| No |
-| Design Passion:	| Yes \| No \| Uncertain |
-| Salary:    			| Yes \| No |
-| Role Fit: 		  | Yes \| No \| Uncertain |
-| Culture Fit: 		| Yes \| No |
-| Decision:			  | Yes \| No |
+
+| Skills: 			  | Yes | No | Uncertain |
+| Good Questions:	| Yes | No | |
+| Design Passion:	| Yes | No | Uncertain |
+| Salary:    			| Yes | No | |
+| Role Fit: 		  | Yes | No | Uncertain |
+| Culture Fit: 		| Yes | No | |
+| Decision:	    	| Yes | No | |
 
 ### Scorecards
 [Product Designer - Phone Screen Scorecard](./assets/Product-Designer-Phone-Screener-Scorecard.pdf)
@@ -242,14 +206,14 @@ While scheduling the in-person interview, provide the candidate with a detailed 
 - Hiring Manager
 - 1 Designer
 - Product Manager
-- 2 Engineers (if discipline specific: 1 backend, 1 frontend)
-- + another designer or PM
+- 1-2 Engineers
+- Another Designer or PM
 
 ### Day of Agenda
 1. Portfolio Review (Hard Skills) [60m] - Entire Interview Panel
-2. Team Values and Soft Skills [30m] - PM & engineer
+2. Team Values and Soft Skills [30m] - PM & Engineer
 3. About Company's Design Practice [15m] - Hiring Manager
-4. Design Exercise & Critique [60m] - Joe and Dan
+4. Design Exercise & Critique [60m] - Hiring Manager & Another Designer
 
 #### Portfolio Review
 *45 minute presentation, 15 minute Q&A*
@@ -264,71 +228,27 @@ The goal is to understand how they have worked, their hard skills, and their abi
 6. Storytelling: Did they break down the problem so that it was easy to understand?
 
 **Product Designer: Questions to Ask**
-1. What were the problems you were trying to solve?
-2. Who did you partner with?
-3. What kind of research did you perform, if any?
-4. Why did you choose that design solution over this one?
-5. What were the tradeoffs?
-6. What challenges did you face in designing X?
-7. If you had more time to work on it, what would you change?
-8. If you got stuck on a certain design problem, how did you overcome it?
-9. Visual design: How polished are your designs? Do they feel well-crafted and refined? Are they aesthetically pleasing?
-10. Interaction design: Can you design intuitive end-to-end user flows? Do you consider edge cases appropriately? How easy is it to get from point A to point B in an app you designed?
-11. Product thinking: What problems are you trying to solve? Who are you designing for? What features should be included in your product, and why?
-12. Usability: “Is it easy to use? Is the design thoughtful and clear for how this product works? Does the designer have a good grasp of common patterns and interactions?”
-13. Craftsmanship: “Did the designer sweat over all the details, both big and small, of the end-to-end product? Is there a sense that the final product is well-made? We’re not looking for something that’s just functional. We want products that leave people feeling like the folks who built this cared about them and their individual experiences. That aspect of high quality and craft is extremely important to us.
-14. Think of a long-term project in your portfolio. “If you had two more months to work on it, what would you have done differently? What would have you added or continued to refine?” Thoughtful candidates are the ones who have been so attached to a project that they’ve thought many many times about how they could have made it better. “Occasionally you’ll get people who’ll say what they ended up with was perfect and they’d change nothing, or who suggest very minor cosmetic changes, which doesn’t come across as super thoughtful.”
-15. What was the timing for the project?
-16. What was their responsibilities? What did they actually produce that they're showing?
-17. How do they go about convincing stakeholders of their design decisions, especially when being challenged?
-18. Process within a project or the ideal process?
-19. What was the assignment or ask? How did they interpret it? 
-20. Why did they choose the approach they went with versus other options? What alternatives did they consider? 
-21. What problems or challenges did they encounter along the way? How did they overcome them? 
-22. Who did they ask questions to when they had them? What kind of questions did they have? What lessons did they learn from it?
+[Portfolio Review Questions](https://airtable.com/shrQPAdL8UnFzf7CC)
 
 #### Team Values and Soft Skills
 Time to understand their values and if it aligns with your team's values. 
 
-**Communication Skills**
-1. How important is communicating with your team as a designer?
-2. How would deal with a team member that is overly critical or dismissive?
-3. Describe your communication style.
-4. Is the conversation relaxing?
-5. How do you resolve problems?
-6. How do you work in a team?
+**Questions to Ask**
+[Onsite Interview Questions](https://airtable.com/shreo1aazfzJekjxp)
 
+**Communication Skills**
 *Look for: ability to tell compelling stories to add the necessary depth to their work and that they have the ability to work through communication challenges.*
 
 **Intentionality**
-1. Does every decision have a well reasoned argument?
-2. What went wrong? What went right? How did this step influence the outcome, and what was the next step? 
-3. Why?
-4. “Is there a solid rationale behind why they worked on what they worked on? Does it identify a real problem and attempt to solve it?”
-
 *Look for: every design decision has an explanation.*
 
 **Proactive (Self-starter) & Passionate**
-1. Do they look for opportunities in their life to improve upon? Side projects?
-2. How do you deal with ambiguity?
-3. Do you think designers should “fall in love” with their designs?
-4. When do you stand up for your design vs changing it to realistic pressures?
-
 *Look for: always uncovering problems that they're wonder why they haven't been solved yet and then they attempt to solve them.*
 
-**Humble & Collaboration**
-1. How do they approach getting early feedback on their work?
-2. How have you worked with development in the past?
-3. Have you facilitated workshops? If so, what value do you see in them?
-	
+**Humble & Collaborative**
 *Look for: extreme desire to be inclusive and acknowledgement that they don't have all the best ideas.*
 
 **Creative Spark**
-1. What original creative designs have you completed? 
-2. What inspires you?
-3. What was a complex design problem you solved you are most proud of?
-4. How have you designed your life?
-
 *Look for: high motivation and passion to leverage design thinking throughout their life*
 
 
@@ -381,14 +301,8 @@ Give your candidate the chance to assess what your team has done so far — and 
 - How do they think it could be improved? 
 - How would they work with you to figure out the best design and solution? 
 
-#### More General Questions
 
-- What are your career goals? *Looking for someone's career goals that would align with the opportunity available but also that they're ambitious. *
-- What are your expectations of work? *Looking for expectations that general align with what the opportunity will offer them. *
-- Who in the industry do you follow or read? *Looking for passion and desire to learn in our industry.*
-- Form or function?
-- What are your favorite apps to use on your phone? 
-- Walk us through why you think this product is well-designed? Or how do you think this product could be improved?
+- 
 
 ## Debrief
 
