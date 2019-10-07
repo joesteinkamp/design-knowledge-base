@@ -215,6 +215,22 @@ While scheduling the in-person interview, provide the candidate with a detailed 
 3. About Company's Design Practice [15m] - Hiring Manager
 4. Design Exercise & Critique [60m] - Hiring Manager & Another Designer
 
+#### Background Deep-Dive
+The goal is to go through past experience to determine ability and alignment of our position (scorecard).
+
+It’s a chronological walk-through of a person’s career. You begin by asking about the highs and lows of a person’s educational experience to gain insight into his or her background. Then you ask five simple questions, for each job in the past fifteen years, beginning with the earliest and working your way forward to the present day.
+
+1. What were you hired to do? How was your success measured? 
+*Look for: What were their mission and key outcomes? What competencies might have mattered?*
+2. What accomplishments are you most proud of?
+*Look for: Outcomes that match mission above.*
+3. What were some low points during the job? What went really wrong? What was your biggest mistake? What would you have done differently? What part of the job did you not like? In what ways were your peers stronger than you?
+*Look for: Look for understanding of areas for growth, identify environments not meant for them.*
+4. What would your boss say were your strengths and areas for improvement?
+*Use to compare against during reference checks.*
+5. Why did you leave? How did your boss react?
+*Look for: Stories of progressing career (hitting ceilings, trying new domains), philosophical differences between bosses, getting fired, their boss was disappointed about the news*
+
 #### Portfolio Review
 *45 minute presentation, 15 minute Q&A*
 The goal is to understand how they have worked, their hard skills, and their ability to present.
@@ -260,7 +276,7 @@ Goal: Get them to want to work with us.
 - How the team is organized (centralized, decentralized, or hybrid)
 
 #### Design Exercise & Critique
-Goal: Capture high-level thinking
+Goal: Capture deep thinking and decision making, knowledge of patterns, velocity of ability.
 
 ##### Exercise
 **Problems for Exercise**
@@ -282,7 +298,7 @@ Goal: Capture high-level thinking
 5. Storyboard [10 minutes]
 6. Discuss 
 
-**Alternative Remote Exercise**
+**Alternative Take Home Design Assignment**
 Only 30% of scheduled Internet installation appointments start on time with afternoon times getting as much as 2 hours delayed leading to frustrated personnel (longer work days) and customers (time expectations not met). Variance in installation times is impacted by many factors but the number one is house type - small family home versus low rise versus high rise.
 
 How would you better schedule appointments for installers so they’re more likely to stay on schedule?
@@ -291,6 +307,9 @@ Keep your ideas constrained to current technology abilities, preferably on mobil
 Please be prepared to explain your recommendation and how you came to it when we do our video interview. We will spend 30-60 minutes discussing it at the end of the interview. 
 	
 Lastly, please time-box your work to no longer than 3 hours and make any assumptions you need to.
+
+  **Alternative**
+  Reimagine and redesign an existing digital product of your choice that showcases your skills and abilities to solve a complex problem as a designer.
 
 
 ##### Critique
