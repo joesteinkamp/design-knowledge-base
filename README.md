@@ -15,7 +15,8 @@ The framework is the how to do the work.
 
 - Domain Knowledge
 - Technology
-- Usability, Psychology, Behavior Science, Sociology, Color Theory
+- Human Sciences (Usability, Psychology, Behavior Science, Sociology, Color Theory)
+- Tool Expertise
 
 ###### [View Craft Docs](./2_Craft/)
 

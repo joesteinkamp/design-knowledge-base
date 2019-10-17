@@ -13,3 +13,5 @@ The craft is the expertise needed in order to consistently make and understand q
 ## [HCI & Social Sciences](./HCI+Social_Sciences/)
 
 ## [Technical Capability Reports](./Technical_Capability_Reports/)
+
+## [Tool Expertise](./Tool_Expertise/)
