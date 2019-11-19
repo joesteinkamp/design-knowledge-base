@@ -22,7 +22,6 @@ While scheduling the in-person interview, provide the candidate with a detailed 
 >- You will have 45 minutes to talk about one specific project, which includes questions throughout so aim for 20-30 minutes you individually presenting.
 >- An ideal project is one that best illustrates your design capabilities. Ideally we'd like to see how your experience is relevant to the challenges you would face at our company. 
 >- There will be about 3-5 people present.  The group will be comprised of the Director of Design, designers, engineers, and product managers.
->- You will have access to a projector.  We expect you to bring your own laptop.
 >	
 >**DO**
 >- Assume that everyone present will already be familiar with your resume.
