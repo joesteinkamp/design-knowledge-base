@@ -16,24 +16,21 @@ Method: Multiple steps with different participants
 **Send Interview Portfolio Preparation Info to Candidate**
 While scheduling the in-person interview, provide the candidate with a detailed breakdown of what is expected of the on-site interview. *Often 3-4 hours.*
 
->	The portfolio presentation is a chance for us to get to know your process and your design accomplishments.  You will have 45 minutes to talk about one specific project you have worked on.  An ideal project is one that best illustrates your design capabilities.  Ideally we'd like to see how your experience is relevant to the challenges you would face at our company. 
+>	The portfolio presentation is a chance for us to get to know your process and your design accomplishments.
 >	 
->The presentation can be as informal or as formal as you would like. Some logistical details for the presentation:
-- There will be about 5-6 people present.  The group will be comprised of the Director of Design, engineers and product managers.
-- You will have 45 minutes for your presentation followed by 15 minutes of Q&A.
-- You will have access to a projector.  We expect you to bring your own laptop.
+>The presentation can be as informal or as formal as you would like.
+>- You will have 45 minutes to talk about one specific project, which includes questions throughout so aim for 20-30 minutes you individually presenting.
+>- An ideal project is one that best illustrates your design capabilities. Ideally we'd like to see how your experience is relevant to the challenges you would face at our company. 
+>- There will be about 3-5 people present.  The group will be comprised of the Director of Design, designers, engineers, and product managers.
+>- You will have access to a projector.  We expect you to bring your own laptop.
 >	
 >**DO**
 >- Assume that everyone present will already be familiar with your resume.
->- Focus on one project to show us your work along with your process. Use specific examples to walk us through your design journey from the beginning to the end of your involvement. 
 >- If you were working as part of a team, clearly identify your contributions to the process and the final product.
->- Include examples that best illustrate your unique skills, interests, and abilities, and best exemplify your approach as a designer.
->- If you have a particular passion or interest outside of your professional work, feel free to spend the last 5 minutes talking about it.
->	 
+> 
 >**DON’T**
->- Please don't show any work that is confidential.  Usually, projects you have worked on in the past that have launched are acceptable to show.
 >- Don’t go over your work history in this presentation, since people will already be familiar with your resume.
->- Don’t speak in vague, general terms.  The more specific you can be, the better we can understand what you potentially bring to the table.
+>- Don’t speak in vague, general terms. Use specific examples to walk us through your design journey from the beginning to the end.
 
 
 
