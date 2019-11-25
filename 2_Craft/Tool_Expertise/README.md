@@ -8,9 +8,11 @@
 - Invision Studio
 - Sketch
 
+
 ## Prototype Tools
 - Invision
 - Marvel
+
 
 ## Handoff Tools
 - Adobe XD
@@ -18,6 +20,7 @@
 - Invision
 - Sympli
 - Zeplin
+
 
 ## Design System Tools
 - Lingo
@@ -37,6 +40,7 @@
 - Adobe After Effects
 - Principle
 
+
 ## Version Control
 - Abstract
 - Bitbucket
@@ -49,14 +53,18 @@
 - Plant.io
 
 
-
 ## Diagram Tools
+- Coggle
+- MindNode
+- Omnigraffle
+- Overflow
 
 
 ## User Research
-
+- Dscout
+- UserTesting.com
+- UserZoom
 
 
 ## Useful Links
 - [Shortcut.design](https://shortcuts.design/)
-- 
