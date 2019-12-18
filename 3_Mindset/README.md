@@ -12,3 +12,5 @@ The mindset is your ability to visualize the outcome you’d like to bring forth
 ## [Soft Skills](./Soft_Skills/)
 
 ## [Time Management](./Time_Management/)
+
+## [Mindset Books](./Mindset-Books/)

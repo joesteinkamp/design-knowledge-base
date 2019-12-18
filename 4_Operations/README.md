@@ -2,4 +2,14 @@
 
 ## Team Rituals
 
-## Tools
+## Tools / Software
+
+## Design Systems
+
+## Design Principles
+
+## Roles
+
+## Onboarding Designers
+
+## Internal Educational Programs
