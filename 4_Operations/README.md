@@ -1,6 +1,9 @@
 # Operations
 
 ## Team Rituals
+- Critique
+- Leadership Review
+- Company Demo
 
 ## Tools / Software
 
@@ -12,4 +15,8 @@
 
 ## Onboarding Designers
 
-## Internal Educational Programs
+## Education & Thought Leadership
+
+
+## Toolkits
+- Design Principles Toolkit
