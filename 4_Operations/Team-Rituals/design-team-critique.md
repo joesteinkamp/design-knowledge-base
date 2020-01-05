@@ -1,3 +1,5 @@
+
+
 # Design Team Critique
 
 A review of a proposed design or multiple designs with the design team. The goals are to provide transparency to other designers and to gather feedback to allow the lead designer to iterate and tweak the proposals.

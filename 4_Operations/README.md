@@ -1,9 +1,7 @@
 # Operations
 
 ## Team Rituals
-- Critique
-- Leadership Review
-- Company Demo
+Activities the Design Team does on a regular basis to maintain a high quality culture.
 
 ## Tools / Software
 
@@ -11,12 +9,14 @@
 
 ## Design Principles
 
-## Roles
+## Roles & Levels
+
 
 ## Onboarding Designers
+Best practices to onboard a new designer.
 
 ## Education & Thought Leadership
+Ways to advocate and encourage advocating by your team members for Design internally and externally of your organization.
 
-
-## Toolkits
-- Design Principles Toolkit
+## [Toolkits](./Toolkits/)
+A complete package of activities and methodologies to establish distinct operations for your Design Team.
