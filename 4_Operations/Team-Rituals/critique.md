@@ -2,29 +2,22 @@
 
 # Design Team Critique
 
-A review of a proposed design or multiple designs with the design team. The goals are to provide transparency to other designers and to gather feedback to allow the lead designer to iterate and tweak the proposals.
+A review of a proposed design work. The goals are to provide awareness, drive consistency, quality control, and create a collaborative environment for the design team through gathering feedback to help the lead design to improve their work.
 
-### When to Use
-
-1. Weekly to be transparent and support a collaborative design team
-2. Use when the designs propose a new pattern.
-3. Use to look for opportunities to connect related experiences.
-
-### Critique Details
-
-| Attendees | Ideal Size | Suggested Time |
+| Attendees | Frequency | Suggested Time |
 | :--- | :--- | :--- |
-| Entire Design Team | 5 to 7 people | 15 to 30 minutes |
+| Entire Design Team | Weekly | 1h - 2hrs |
 
-### Steps: Preparation
+
+### Preparation
 
 1. Schedule a recurring weekly design critique meeting
 2. Facilitator role to schedule agenda
 3. Facilitator requests presenters
-4. Schedule 15-30 minute critiques \(longer at first to get comfortable\)
+4. Schedule 10-15 minute critiques \(longer at first to get comfortable\)
 5. Update meeting with appropriate time and agenda
 
-### Steps: Critique
+### Steps
 
 1. The designer will present the problem and the user's story, including the project scope.
    1. Problem format:
