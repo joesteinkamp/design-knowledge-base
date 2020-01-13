@@ -29,17 +29,18 @@ A review of a proposed design or multiple designs with the design team. The goal
 1. The designer will present the problem and the user's story, including the project scope.
    1. Problem format:
       1. I am showing \[early/mid/late\] work
-      2. Around \[the problem, include who the user is\]
-      3. Because \[why it’s a problem\].
-      4. We’ll have success if we see \[what do we want the user to do or understand\] 
-      5. and am looking for feedback on \[what it looks like \(visuals & content\) / how it works \(interactions & IA\) / Direction\].
+      2. Around \[the problem state - who, what \(goal\), when, why\]
+      3. We’ll have success if we see \[what do we want the user to do or understand\] 
+      4. and am looking for feedback on \[\visuals & content / specific interation, architecture & flow / conceptual direction\].
 2. Make sure everyone understands the problem. Do not proceed to the designs until everyone agrees on the problem.
    1. _“Does this sound like a valid problem, is the problem statement confusing, is there anything that may have been overlooked? \[If early\] Do we agree that this is the problem that we should be solving? Is this one of the most important problems we should be solving right now?”_
-3. Audience ask any clarification questions, if necessary.
+   2. Audience ask any clarification questions, if necessary.
+3. Feedback Request: I'm looking for feedback on [visuals & content, specific interactions, architecture & flow, or conceptual direction].
 4. Designer should proceed to present their work, preferably multiple approaches \(to self critique\).
 5. Audience asks questions and likes only, thinking from the user's point of view. 
    1. _"What did I enjoy about this design and why? What concerns me about this design and why? What does this design remind me of and why?"_
-6. Check against the company's design principles. 
+6. Assess against appropriate design principles. 
+   1. _"Does _
 7. Facilitator should take notes throughout to share at the end.
 8. Facilitator at the end should ask, _"What are the next key steps you’ll take to move the work forward?”_
 
@@ -53,14 +54,14 @@ A review of a proposed design or multiple designs with the design team. The goal
 > **The Difference between Critique and Criticism**  
 > Taken from _Writing Alone, Writing Together; A Guide for Writers and Writing Groups_ by Judy Reeves
 >
-> * Criticism finds fault/Critique looks at structure
-> * Criticism looks for what's lacking/Critique finds what's working
-> * Criticism condemns what it doesn't understand/Critique asks for clarification
-> * Criticism is spoken with a cruel wit and sarcastic tongue/Critique's voice is kind, honest, and objective
-> * Criticism is negative/Critique is positive \(even about what isn't working\)
-> * Criticism is vague and general/Critique is concrete and specific
-> * Criticism has no sense of humor/Critique insists on laughter, too
-> * Criticism looks for flaws in the writer as well as the writing/Critique addresses only what is on the page
+> * Criticism finds fault / Critique looks at structure
+> * Criticism looks for what's lacking / Critique finds what's working
+> * Criticism condemns what it doesn't understand / Critique asks for clarification
+> * Criticism is spoken with a cruel wit and sarcastic tongue / Critique's voice is kind, honest, and objective
+> * Criticism is negative / Critique is positive \(even about what isn't working\)
+> * Criticism is vague and general / Critique is concrete and specific
+> * Criticism has no sense of humor / Critique insists on laughter, too
+> * Criticism looks for flaws in the writer as well as the writing / Critique addresses only what is on the page
 
 ### Standard Questions to Ask:
 
@@ -78,7 +79,7 @@ A review of a proposed design or multiple designs with the design team. The goal
 
 **Visual Design Questions**
 
-1. Does it adhere to the 5 styles rule? _Count all colors and type styles on the screen, if more than 5 try to reduce. _
+1. Does it adhere to the 5 styles rule? _Count all colors and type styles on the screen, if more than 5 try to reduce._
 2. Is it following our grid system?
 
 
