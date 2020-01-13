@@ -1,6 +1,6 @@
 # Operations
 
-## Team Rituals
+## [Team Rituals](../Team-Rituals/)
 Activities the Design Team does on a regular basis to maintain a high quality culture.
 
 ## Tools / Software
