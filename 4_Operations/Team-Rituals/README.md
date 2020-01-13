@@ -1,6 +1,6 @@
 # Team Rituals
 
-- Critique
+- [Critique](critique.md)
 - Leadership Review
 - Design Team Working Time
 - Company Demo
