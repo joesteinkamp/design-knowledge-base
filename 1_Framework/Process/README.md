@@ -27,7 +27,7 @@ In the understand phase, the main goal is to gather as much information as possi
 
 #### [Define](./2_Define/)
 
-In the define phase, the primary task is to synthesize all the knowledge gained from the previous phase to shape the strategic approaches necessary to solve the problem by sharing that knowledge. **Describe the problem and what is needed to solve it.**
+In the define phase, the primary task is to synthesize all the knowledge gained from the previous phase to shape the strategic approaches necessary to solve the problem by sharing that knowledge. **Describe to others the problem and what is needed to solve it.**
 
 #### [Explore](./3_Explore)
 
@@ -43,7 +43,7 @@ In the deliver phase, details are added to the solution to establish clear speci
 
 #### [Listen](./6_Listen)
 
-In the listen phase, the final product is monitored to verify if the solution solves the problem, to find opportunity for quick iterations, and to find opportunity for the future. **Verify that the solution actually solves the problem.**
+In the listen phase, the final product is monitored to verify if the solution solves the problem, to find opportunity for quick iterations, and to find opportunity for the future. **Verify how well the solution solves the problem for everyone.**
 
 ![Design Process Diagram](./assets/Design-Process-Diagram.png)
 
