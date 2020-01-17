@@ -2,7 +2,7 @@
 
 # Design Team Critique
 
-A review of a proposed design work. The goals are to provide awareness, drive consistency, quality control, and create a collaborative environment for the design team through gathering feedback to help the lead design to improve their work.
+A review of a proposed design work. The goals are to provide awareness, drive consistency, quality control, and create a collaborative environment for the design team through gathering feedback to help the lead design to improve their work. **Critiques are about input not decisions - keep decisions out.**
 
 | Attendees | Frequency | Suggested Time |
 | :--- | :--- | :--- |

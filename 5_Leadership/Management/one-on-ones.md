@@ -10,53 +10,43 @@ last-updated-by: "Joe Steinkamp"
 
 For daily check-ins see [Micro One-on-Ones](micro-one-on-ones.md)
 
-## Core Structure
-1. Discuss Top Priorities & Progress
-   1. What are the one, two, or three most critical outcomes for your report and how can you help her tackle these challenges?
-2. Calibrate What “Great” Looks Like
-   1. Do you have a shared vision of what you’re working toward? 
-   2. Are you in sync about goals or expectations?
-3. Give Feedback (Praise, Critique)
-   1. What feedback can you give that will help your report?
-4. Get Feedback (Praise, Critique)
-   1. What can your report tell you that will make you more effective as a manager?
-5. Standard Personal Questions / Reflection
-   1. How are they feeling on the whole? 
-   2. What’s making them satisfied or dissatisfied? 
-   3. Have any of their goals changed? 
-   4. What have they learned recently and what do they want to learn going forward?
-6. Create Action Plan
-   1. What do they need to do based on what was discussed today?
+## Agenda Outline
+1. Discuss Topics
+2. 2-Way Feedback
+3. Action Items
 
+#### Discuss Topics
+Primarily focused on questions raised in prep work (see below) by your report. Topics can be any number of things. For example, if their emotional state is currently low but they didn't bring up a specific topic or reason, you must ask questions.
 
+#### 2-Way Feedback
+Give and receive feedback, including praise and critique. Focus your feedback around calibrating what "great" looks like. Provide context of feedback around shared vision, goals, and expectations.
+- What feedback can you give that will help your report?
+- What can your report tell you that will make you more effective as a manager?
 
-## Before Meeting
-1. Questionnaire sent to employee the day before, including a request of agenda items (Put in separate calendar reminder). It's important to get topics from the report and understand how they're feeling.
-   1. How are they feeling?
-   2. What can I do this upcoming week to help you?
-   3. What is on your mind?
-2. Prepare your thoughts one what to discuss, including where we last left off. (Only takes about 10 minutes). It's important to bring feedback.
+#### Action Items
+Clearly define what each of you will do based off the discussion. No 1:1 is complete without having action taken even if the action is to plan next steps - focus on forward progress rather than specific tasks. Try [SMART](https://www.smartsheet.com/blog/essential-guide-writing-smart-goals) asks.
+
+## Meeting Prep
+1. Questionnaire sent to employee the day before (Put in separate calendar reminder). *See templates below for examples.*
+   1. How are they feeling? Why do you feel this way? 
+   2. What is on your mind?
+   3. What else is on your mind?
+   4. What can I do this upcoming week to help you?
+   5. Rotating Questions - see below for examples
+2. Prepare your thoughts one what to discuss, including where you last left off. (Only takes about 10 minutes). It's important to bring feedback.
 3. Update meeting invite with agenda items from them plus yours.
 
-
-## After Meeting
-1. Reiterate action plan, including your actions. Actions be as simple as investigation (don't need to have immediate solutions).
 
 ## Questions to Ask
 <iframe class="airtable-embed" src="https://airtable.com/embed/shrks0VwiBwUVbMcP?backgroundColor=cyan&viewControls=on" frameborder="0" onmousewheel="" width="100%" height="533" style="background: transparent; border: 1px solid #ccc;"></iframe>
 
 ## Recommendations
-* Ask them to for their list of talking points the day before either through email or automated survey tool
-* Start with every week then change cadence, if necessary
-* Add agenda to 1-on-1 invite
-* Don't be afraid to schedule the meetings longer or short based on agenda
-* Always include an agenda
-* Build in ways to gather feedback about myself
 * Be proactive and help coach them rather then relying solely on them to raise issues
 * Once a month focus on behavioral feedback and career goals (long-term)
 
 ## Templates
 - [Manager Survey Template](https://airtable.com/shr5SZqYLirVahDHi)
+- [Pre-Work Google Form Template](https://drive.google.com/open?id=13vfVyOOjrcnsyhgWsxwyYztEUwv3pbpXb04Bas3ts8Q)
 
 ## References
 1. [101 Questions to Ask in 1-on1s](https://jasonevanish.com/2014/05/29/101-questions-to-ask-in-1-on-1s/)

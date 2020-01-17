@@ -1,7 +1,7 @@
 # Team Rituals
 
 - [Critique](critique.md)
-- Leadership Review
+- [Leadership Design Review](leadership-design-review.md)
 - Design Team Working Time
 - Company Demo
 - Education & Inspiration Sharing
