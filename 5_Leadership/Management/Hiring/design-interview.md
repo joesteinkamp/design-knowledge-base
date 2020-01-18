@@ -37,13 +37,13 @@ The goal is to understand how they have worked, their hard skills, and their abi
 **Minimum:** Hiring manager and engineer
 **Ideal:** Hiring manager, engineer, designer, and PM
 
-**Product Designer: What to Look for**
-1. User First: Do they describe who the user is first and ground you in the problem? Do they speak about how the user has guided specific decision throughout the process (design principles, etc…)? 
-2. Craftsmanship: Did the designer sweat over all the details, both big and small, of the end-to-end product? Is there a sense that the final product is well-made? We’re not looking for something that’s just functional. We want products that leave people feeling like the folks who built this cared about them and their individual experiences. 
-3. Interaction design: Can you design intuitive end-to-end user flows? Do you consider edge cases appropriately? How easy is it to get from point A to point B in an app you designed? Is the design thoughtful and clear for how this product works? Does the designer have a good grasp of common patterns and interactions?
-4. Product thinking: What problems are you trying to solve? Who are you designing for? What features should be included in your product, and why? Did they speak to and understand the business outcomes?
-5. Collaborative Process: Did they demonstrate involving others in their design process? Workshops? Reviews? Stakeholder Interviews?
-6. Storytelling: Did they break down the problem so that it was easy to understand?
+**Product Designer: Hard Skills**
+1. User First: Do they describe who the user is first and ground you in the problem? Do they speak about how the user has guided specific decision throughout the process (design principles, etc…)? Research conducted?
+2. Craftsmanship: Did the designer sweat over all the details, both big and small, of the end-to-end product? Is there a sense that the final product is well-made? 
+3. Interaction design: Is the design thoughtful and clear for how this product works? Does the designer have a good grasp of common patterns and interactions?
+4. Product thinking: Do they outline success metrics upfront? Did they frame the results around the success metrics? Did they speak to and understand the business outcomes?
+5. Collaborative Process: Did they demonstrate involving others in their design process? Workshops? Reviews? Stakeholder Interviews? Pairing with dev?
+6. Storytelling: Did they break down the problem so that it was easy to understand? Do the story flow well from definition to outcomes?
 
 **Product Designer: Questions to Ask**
 [Portfolio Review Questions](https://airtable.com/shrQPAdL8UnFzf7CC)
