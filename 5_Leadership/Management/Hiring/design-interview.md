@@ -1,4 +1,4 @@
-# In-Person Interview
+# In-Person Design Interview
 The goal of an in-person interview is get a detailed understanding of how the candidate works (their process, decision making ability), the quality of that work, and how they work with other team members of the product development lifecycle. It's also a great opportunity for them to learn our team and process.
 
 Length: 3-4 hours
