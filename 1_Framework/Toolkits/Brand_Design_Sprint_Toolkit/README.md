@@ -1,9 +1,4 @@
----
-author: "Joe Steinkamp"
-last-updated-by: "Joe Steinkamp"
----
-
-# Brand Deswign Sprint
+# Brand Design Sprint
 
 *Highly adapted from GV's Brand Design Sprint*
 
