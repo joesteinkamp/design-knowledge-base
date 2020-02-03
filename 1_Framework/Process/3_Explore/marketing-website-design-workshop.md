@@ -1,8 +1,3 @@
----
-author: "Joe Steinkamp"
-last-updated-by: "Joe Steinkamp"
----
-
 # Marketing Website Design Workshop
 
 ## When to Use
