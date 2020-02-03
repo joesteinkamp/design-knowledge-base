@@ -100,7 +100,7 @@
 
 
 ## Next Steps
-- Perform a [Marketing Website Design Workshop](../Process/3_Explore/marketing-website-design-workshop.md)
+- Perform a [Marketing Website Design Workshop](../../Process/3_Explore/marketing-website-design-workshop.html)
 
 ## References
 - [GV's 3 Hour Brand Design Sprint](https://library.gv.com/the-three-hour-brand-sprint-3ccabf4b768a)
