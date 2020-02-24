@@ -33,7 +33,7 @@ A review of a proposed design work. The goals are to provide awareness, drive co
 5. Audience asks questions and likes only, thinking from the user's point of view. 
    1. _"What did I enjoy about this design and why? What concerns me about this design and why? What does this design remind me of and why?"_
 6. Assess against appropriate design principles. 
-   1. _"Does _
+   1. _"Does the design align with our design principles?"_
 7. Facilitator should take notes throughout to share at the end.
 8. Facilitator at the end should ask, _"What are the next key steps you’ll take to move the work forward?”_
 
