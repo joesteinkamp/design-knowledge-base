@@ -79,7 +79,9 @@ A review of a proposed design work. The goals are to provide awareness, drive co
 
 ### Templates
 
-1. [Design Critique Template](https://docs.google.com/document/d/1eQe3fJQU0N5-QVcQfd7pH3xG9ygtoVyI93vl_YeliZg/edit?usp=sharing)
+1. [Design Critique Log Template](https://docs.google.com/document/d/1DkGh2URnil0kguPHfoEDG6bBYt803trObbVfG7MhZMU/)
+2. [Design Critique Template](https://docs.google.com/document/d/1eQe3fJQU0N5-QVcQfd7pH3xG9ygtoVyI93vl_YeliZg/)
+
 
 ### References
 

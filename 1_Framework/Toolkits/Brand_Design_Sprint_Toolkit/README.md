@@ -124,3 +124,16 @@
 - Orange: Courage, Originality, Success
 - White: Cleanliness, Purity, Freshness
 - Black: Elegance, Drama, Strength
+
+
+
+
+
+
+
+
+What does your voice sound like?
+- Are they academic or conversational?
+- Do they reference studies and statistics frequently?
+- Are they prone to incorporating anecdotes or stories?
+- Are they long-winded or straight to the point?
