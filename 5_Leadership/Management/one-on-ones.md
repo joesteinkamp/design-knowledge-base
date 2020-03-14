@@ -5,7 +5,7 @@ last-updated-by: "Joe Steinkamp"
 
 # One-on-Ones
 
-| Length: | 1 - 5 minutes |
+| Length: | 30 minutes to 1 hour |
 | Cadence: | Typically Weekly |
 
 For daily check-ins see [Micro One-on-Ones](micro-one-on-ones.md)
@@ -43,6 +43,7 @@ Clearly define what each of you will do based off the discussion. No 1:1 is comp
 ## Recommendations
 * Be proactive and help coach them rather then relying solely on them to raise issues
 * Once a month focus on behavioral feedback and career goals (long-term)
+* Have the report lead the conversation
 
 ## Templates
 - [Manager Survey Template](https://airtable.com/shr5SZqYLirVahDHi)
