@@ -6,7 +6,7 @@ last-updated-by: "Joe Steinkamp"
 # One-on-Ones
 
 | Length: | 30 minutes to 1 hour |
-| Cadence: | Typically Weekly |
+| Cadence: | Weekly |
 
 For daily check-ins see [Micro One-on-Ones](micro-one-on-ones.md)
 
