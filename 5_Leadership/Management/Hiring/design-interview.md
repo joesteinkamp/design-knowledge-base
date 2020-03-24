@@ -77,7 +77,7 @@ Goal: Get them to want to work with us.
 - How we facilitation and collaboration with others
 - How the team is organized (centralized, decentralized, or hybrid)
 
-#### Design Exercise & Critique
+#### Critical Thinking Design Exercise
 Goal: Capture deep thinking and decision making, knowledge of patterns, velocity of ability.
 
 ##### Exercise
@@ -100,7 +100,7 @@ Goal: Capture deep thinking and decision making, knowledge of patterns, velocity
 5. Storyboard [10 minutes]
 6. Discuss 
 
-**Alternative Take Home Design Assignment**
+#### Take Home Design Assignment (Design Execution)
 Only 30% of scheduled Internet installation appointments start on time with afternoon times getting as much as 2 hours delayed leading to frustrated personnel (longer work days) and customers (time expectations not met). Variance in installation times is impacted by many factors but the number one is house type - small family home versus low rise versus high rise.
 
 How would you better schedule appointments for installers so they’re more likely to stay on schedule?
@@ -113,8 +113,22 @@ Lastly, please time-box your work to no longer than 3 hours and make any assumpt
   **Alternative**
   Reimagine and redesign an existing digital product of your choice that showcases your skills and abilities to solve a complex problem as a designer.
 
+#### Design Process Exercise
+A conversational and informal session, with open/out loud brainstorming  The goal is to create an environment in which a design candidate can demonstrate his or her approach to user-driven discovery and design, research standards and the scientific method.
 
-##### Critique
+1. Provide a scenario that contains a problem and a high-level hypothesis to solving this problem.
+2. Give them a few minutes to read the scenario.
+3. Time for questions.
+4. "With the solution hypothesis at the forefront of your mind, using the rest of the information as background, can you explain:"
+   1. Without actually creating prototypes, explain what steps would you take to begin discovery:
+   2. With whom would you conduct this discovery?
+   3. For what would you be measuring?
+   4. What are the outcomes of this round of discovery? How would you define success?
+   6. What is the next round of discovery? How do you build on round one?  Describe round two.
+
+
+
+#### Product Critique
 Goal: Understand their attention to detail
 Give your candidate the chance to assess what your team has done so far — and to articulate what they’d keep, what they’d change, and why.
 
