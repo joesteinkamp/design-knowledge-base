@@ -91,14 +91,23 @@ Thank everyone for their time and explain the next steps, which are to gather al
 ### Remote Considerations
 
 * Physical materials need to be available in all locations.
-* Have a facilitator in all locations.
-* Use Google Slides or Figma for Present Sketches and Silent Critique.
+* Use Google Slides or Figma to Present Sketches and Silent Critique.
 * Upon sketch completion take photo and post on Slack or other communication platform.
 * Plan for a some extra time to handle posting online and getting organized in all locations.
+* Have a dedicated discussion channel, like a dedicated Slack channel.
+* Suggest participants to leverage two screens, if they can. One for video conference and the other a collaborative tool.
+* Consider two facilitators. One focused on the agenda. The other focused on people's engagement.
+* Mute everyone except one person at a time for sharing activities.
+* Don't be afraid to call on people.
+* Interruption signal - decide on a simple way to have participant display that they'd like to say something.
+* Use a virtual whiteboard tool, like Miro or Mural
+  
 
 ### References
 
 1. [https://www.forbes.com/sites/nataliepeace/2012/04/09/why-most-brainstorming-sessions-are-useless/\#f301b0d668e5](https://www.forbes.com/sites/nataliepeace/2012/04/09/why-most-brainstorming-sessions-are-useless/#f301b0d668e5)
+2. [https://www.thesprintbook.com/remote](https://www.thesprintbook.com/remote)
+3. [https://docs.google.com/spreadsheets/d/1k4Wbbmds0bPOaf6SQutNfiOmb8lYlUWPnj3ggbbO6ac/edit?ts=5e8cd39d#gid=2062450288](https://docs.google.com/spreadsheets/d/1k4Wbbmds0bPOaf6SQutNfiOmb8lYlUWPnj3ggbbO6ac/edit?ts=5e8cd39d#gid=2062450288)
 
 ### Templates \(if applicable\)
 
