@@ -136,7 +136,10 @@ Give your candidate the chance to assess what your team has done so far — and 
 - How do they think it could be improved? 
 - How would they work with you to figure out the best design and solution? 
 
+**Tips**
 
+- Provide context to the user while you present
+- Critique it yourself as you present to make it more comfortable
 
 ## Pull In Others
 
