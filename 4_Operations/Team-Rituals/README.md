@@ -6,3 +6,8 @@
 - Company Demo
 - Education & Inspiration Sharing
 - Sharing of Insights
+- Daily Video
+- Daily Update
+- Values Assessment
+- Concept Compilation
+- Newsletter

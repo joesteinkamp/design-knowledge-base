@@ -7,10 +7,10 @@ The mindset is your ability to visualize the outcome you’d like to bring forth
 - Perception, Detail Oriented Balanced with Vision
 
 
-## [Inspiration](./Inspiration/)
+## Inspiration
 
-## [Soft Skills](./Soft_Skills/)
+## Soft Skills
 
-## [Time Management](./Time_Management/)
+## Time Management
 
 ## [Mindset Books](./Mindset-Books/)

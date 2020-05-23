@@ -7,11 +7,13 @@
 - **Learn the Customer.** Learn more about the customer and domain to understand context and empathize with customer needs.
 - **Learn the Service & Product.** Learn how customers get value from your company.
 - **Advocate Design.** Expand presence and design education throughout the company.
-- **First Project.** Contribute to the team to help them deliver great user experiences.
+- **Individual Contributions.** Contribute to the team to help them deliver great user experiences.
 
 
 ## 30:60:90 Days Activities
 A list of activities to do with grouped by first month, second month, and third month.
+
+[Template](https://docs.google.com/spreadsheets/d/1CG4yBX-dfUBsax2-kV6mc-LzEKEmiSOf9rl1Q_IjvL0/edit?usp=sharing)
 
 ## Onboarding Partner
 First two weeks a peer that can help guide you through onboarding.
