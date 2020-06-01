@@ -1,9 +1,10 @@
 # Onboarding
 
 ## Goals
-- **Baseline Onboarding.** Get acclimated and learn about your company and Design Team.
-- **Know Your Role.** Understand why you've been hired and what the overall expectations of your role are. *Some of this should have already been made clear throughout the hiring process.*
+- **Baseline Onboarding.** Get acclimated, set up your computer, and the Design Team.
+- **Know Your Role.** Understand why you've been hired and what are the overall expectations and goals of your role. *Some of this should have already been made clear throughout the hiring process.*
 - **Build Relationships.** Build relationships with my team and people I'll partner with to do great work.
+- **Learn the Company.** Learn all about your company and the industry its in. 
 - **Learn the Customer.** Learn more about the customer and domain to understand context and empathize with customer needs.
 - **Learn the Service & Product.** Learn how customers get value from your company.
 - **Advocate Design.** Expand presence and design education throughout the company.
@@ -15,6 +16,13 @@ A list of activities to do with grouped by first month, second month, and third 
 
 [Template](https://docs.google.com/spreadsheets/d/1CG4yBX-dfUBsax2-kV6mc-LzEKEmiSOf9rl1Q_IjvL0/edit?usp=sharing)
 
+*Key Activities*
+
+- [30-Day Check-in](./Onboarding/30-day-check-in.md)
+- [60-Day Check-in](./Onboarding/60-day-check-in.md)
+- [90-Day Check-in](./Onboarding/90-day-check-in.md)
+
+
 ## Onboarding Partner
 First two weeks a peer that can help guide you through onboarding.
 
@@ -23,3 +31,11 @@ Details conversations that align to one of the goals that are presented by someo
 
 ## Career Growth Plan
 Establish clear expectations of growth and how the new employee and their manager will work together to progress on the employee's goals.
+
+
+
+
+# References
+- https://slite.com/checklists/new-hire-onboarding
+- https://medium.com/plangrid-design/the-new-hire-blueprint-how-to-succeed-at-your-new-design-job-46f42156eec8
+- The First 90 Days by Michael D. Watkins

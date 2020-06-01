@@ -3,7 +3,7 @@
 ## [Team Rituals](./Team-Rituals/)
 Activities the Design Team does on a regular basis to maintain a high quality culture.
 
-## [Onboarding Designers](onboarding.md)
+## [Onboarding Designers](./Onboarding/)
 Best practices to onboard a new designer.
 
 ## Tools / Software
