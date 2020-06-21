@@ -18,6 +18,15 @@
 - Tool
 
 
+## Reasons for In-Person Research
+
+- Build Rapport & Relationship
+- Understand Context of User (Broad Discovery)
+- Co-Design Exercises
+- Market Validation
+- Rough Concept Evaluation (more specific than market validation)
+
+
 
 ## Templates
 - [Research Study Top Findings](https://docs.google.com/spreadsheets/d/1Jty0NBUrwEBJvIVf9AUqvaV6Pyr9W8Q0Zz6cLA-84N4/)
