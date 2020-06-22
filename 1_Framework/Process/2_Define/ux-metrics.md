@@ -23,13 +23,12 @@ Metrics that capture the value, meaning, and impact of a user's experience, ofte
 6. User's Emotional State
 
 ## Tips
-1. Behavior based. Focus on behavior to tell what's happening in the user's experience. Avoid non-behavioral metrics, like customer satisfaction or Net Promoter referral attitudes.
-2. Key to the business. There are five basic areas that are easy to tie KPIs to: (1) increasing revenues, (2) decreasing costs, (3) increasing marketshare, (4) increasing revenue from existing customers, and (5) increasing shareholder value. An effective metric is tied to one or more of these.
-3. Performance indicators. A good metric predicts important change in the business.
-4. Unique. Generic metrics produce generic results. Focus on metrics that match the context and the user of your design solution.
-5. Easy to measure. Consider how the metric will be measured. It can require effort but the easier to measure the more effective the metric.
-6. Be skeptical by considering counter-metrics. A counter-metric attempts to look at the whole picture.
-   1. Document metrics that tell the entire story rather focus on a specific moment. Ex. Increased conversion on a single page, only to have the user leave immediately on the next page.
+1. **Behavior based.** Focus on behavior to tell what's happening in the user's experience. Avoid non-behavioral metrics, like customer satisfaction or Net Promoter referral attitudes.
+2. **Key to the business.** There are five basic areas that are easy to tie KPIs to: (1) increasing revenues, (2) decreasing costs, (3) increasing marketshare, (4) increasing revenue from existing customers, and (5) increasing shareholder value. An effective metric is tied to one or more of these.
+3. **Performance indicators.** A good metric predicts important change in the business.
+4. **Unique.** Generic metrics produce generic results. Focus on metrics that match the context and the user of your design solution.
+5. **Easy to measure.** Consider how the metric will be measured. It can require effort but the easier to measure the more effective the metric.
+6. **Be skeptical by considering counter-metrics.** A counter-metric attempts to look at the whole picture. Document metrics that tell the entire story rather focus on a specific moment. Ex. Increased conversion on a single page, only to have the user leave immediately on the next page.
 
 ## References
 1. [https://www.dtelepathy.com/ux-metrics/](https://www.dtelepathy.com/ux-metrics/)
