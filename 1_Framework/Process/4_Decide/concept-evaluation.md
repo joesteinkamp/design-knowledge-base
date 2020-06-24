@@ -19,12 +19,30 @@ Not to be confused with traditional Concept Testing methods.
 | :--- | :--- | :--- |
 | Qualitative, Behavioral & Attitudinal, Formative | Small \(3 - 5 participants\) | 1 hour |
 
+#### Preparation Time
+* Minimum 2 Days
+* Recommended 1 to 4 Weeks
+
 ### When to Use
 
 1. To evaluate if designs address primary user needs.
 2. To help choose between alternative designs.
 3. To validate if a concept is a viable alternative to an existing product.
 4. Should be used early and often in the design process to evaluate widely divergent ideas.
+
+### Assets Needed
+1. Script
+    1. Recording logistics and introduction
+    2. Intro Questions
+    3. Defined task(s) and scenario(s)
+    4. Questions per task and scenario
+2. Multiple prototypes
+3. Note Taking Log
+4. Findings Report
+
+**Optional**
+1. Recruitment Screener
+2. Synthesis Artifact(s)
 
 ### Steps
 
@@ -39,16 +57,15 @@ Not to be confused with traditional Concept Testing methods.
 9. Its important to not take the participant's preference as is. Ask why the participants prefers the selected concept.
 10. Analyze and synthesize the findings.
 
+
 ### References
 
 1. [Effective Formative Test Reports](https://drive.google.com/file/d/0B4QJdUor72QzZkc5VlJLTHlvQ00/view)
 2. [Two Kinds of Usability Tests](http://www.userfocus.co.uk/articles/2-kinds-of-usability-test.html)
 3. [https://designsprintkit.withgoogle.com/methods/validate/usability-study/](https://designsprintkit.withgoogle.com/methods/validate/usability-study/)
+4. 
 
 ### Templates
 
 1. [Research Plan](https://docs.google.com/document/d/1TywGTy_TSPHyq1-8bX5Ackz1cEGPdM1HbO2CM72CxO0/edit?usp=sharing)
 2. [Script Template](https://docs.google.com/document/d/1v0GFjDR4YB7VzqDmdrSd5x6u8_pdB5LStoCYvo1cLyU/edit?usp=sharing)
-
-
-

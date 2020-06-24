@@ -26,6 +26,10 @@ Usability is defined by **5 quality components**:
 | :--- | :--- | :--- |
 | Hybrid, Behavioral, Formative | Small \(5 participants\) | 30 - 60 minutes |
 
+#### Preparation Time
+* Minimum 2 Days
+* Recommended 1 to 4 Weeks
+
 ### When to Use
 
 1. Towards the end of the development stage
@@ -33,6 +37,20 @@ Usability is defined by **5 quality components**:
 3. To identify how long it takes to complete specified tasks
 4. To find out how satisfied participants are with the product
 5. To identify changes required to improve user performance and satisfaction
+
+### Assets Needed
+1. Script
+    1. Recording logistics and introduction
+    2. Intro Questions
+    3. Defined task(s) and scenario(s)
+    4. Questions per task and scenario
+2. Multiple prototypes
+3. Note Taking Log
+4. Findings Report
+
+**Optional**
+1. Recruitment Screener
+2. Synthesis Artifact(s)
 
 ### Steps
 
@@ -85,6 +103,9 @@ Usability is defined by **5 quality components**:
 3. [Recruiting Usability Testing Participants ](https://www.usability.gov/how-to-and-tools/methods/recruiting-usability-test-participants.html)
 4. [Running Usability Tests](https://www.usability.gov/how-to-and-tools/methods/running-usability-tests.html)
 5. [Quantitative vs. Qualitative Usability Testing](https://www.nngroup.com/articles/quant-vs-qual/)
+6. https://www.uxbooth.com/articles/the-art-of-guerrilla-usability-testing/
+7. https://uxmyths.com/post/831431504/myth-22-usability-testing-is-expensive
+8. https://methods.18f.gov/validate/usability-testing/
 
 ### Templates
 
