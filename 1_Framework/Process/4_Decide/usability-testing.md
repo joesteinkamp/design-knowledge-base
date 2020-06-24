@@ -44,13 +44,14 @@ Usability is defined by **5 quality components**:
     2. Intro Questions
     3. Defined task(s) and scenario(s)
     4. Questions per task and scenario
-2. Multiple prototypes
+2. Higher Fidelity Prototype
 3. Note Taking Log
 4. Findings Report
 
 **Optional**
-1. Recruitment Screener
-2. Synthesis Artifact(s)
+1. Recruitment Outreach Template
+2. Recruitment Screener
+3. Synthesis Artifact(s)
 
 ### Steps
 

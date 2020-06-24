@@ -41,8 +41,9 @@ Not to be confused with traditional Concept Testing methods.
 4. Findings Report
 
 **Optional**
-1. Recruitment Screener
-2. Synthesis Artifact(s)
+1. Recruitment Outreach Template
+2. Recruitment Screener
+3. Synthesis Artifact(s)
 
 ### Steps
 
