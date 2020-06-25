@@ -17,7 +17,7 @@ Not to be confused with traditional Concept Testing methods.
 
 | Research Type | Sample Size | Session Time |
 | :--- | :--- | :--- |
-| Qualitative, Behavioral & Attitudinal, Formative | Small \(3 - 5 participants\) | 45 - 60 min |
+| Qualitative, Behavioral & Attitudinal, Formative | Small \(3 - 5 participants\) | 30 - 60 min |
 
 #### Preparation Time
 * Minimum 2 Days
