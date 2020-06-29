@@ -9,7 +9,7 @@ Method | Type
 [Stakeholder Review](stakeholder-review.md) | Team Review
 [Technical Feasibility Analysis](technical-feasibility-analysis.md) | Evaluation Technique
 [Usability Test](usability-testing.md) | User Research
-[Wayfinding Test](wayfinding-test.md) | User Research
+[Wayfinding (Click) Test](wayfinding-test.md) | User Research
 
 *Also see [Operations: Design Critique](../../../4_Operations/design-team-critique.md)*
 

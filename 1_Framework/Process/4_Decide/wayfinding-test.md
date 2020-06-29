@@ -1,4 +1,4 @@
-# Wayfinding Test
+# Wayfinding (Click) Test
 
 
 ### Research Details
