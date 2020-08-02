@@ -40,7 +40,7 @@ Method | Type
 - **Who are we doing this for?**
 - **What people problem are we trying to solve?**
 - **How do we know this is a real problem?**
-- What is the product vision?
+- **What is the product/company vision?**
 - How does the product fit into the organization’s overall business strategy?
 - What are the business goals for the product?
 - How big is the market for the product, and what share of the market can it win?

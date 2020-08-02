@@ -32,8 +32,8 @@ Method | Type
 
 
 ## Questions to Answer
-- **What is the customer / user trying to achieve?**
-- **How will we know if we've solved the problem?**
+- **What is the customer / user trying to achieve (goals)?**
+- **How will we know if we've solved the problem? What does success look like? How can we measure?**
 - **What is our hypothesis?**
 - How does fixing this problem contribute to our strategic goals?
 - Who are the users? Are they a subset of our normal user base? If so, can we target them?
