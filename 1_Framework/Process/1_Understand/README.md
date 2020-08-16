@@ -65,7 +65,7 @@ Method | Type
 - Do your customers require the product be customizable and/or personalizable?
 - What workflows and tasks must the product support?
 - What information needs must the product address?
-- If there is already an existing product, what is the historical background for the product and its design? What are its known usability problems? What are customers complaining about or requesting?
+- **If there is already an existing product, what is the historical background for the product and its design? What are its known usability problems? What are customers complaining about or requesting?**
 - Are there existing user experience design guidelines you must follow?
 - Are there corporate and/or product branding guidelines that will dictate some aspects of the product’s look?
 - What technical constraints must you consider when designing the product?
