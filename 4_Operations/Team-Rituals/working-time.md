@@ -17,3 +17,13 @@ Quick 1 minute update per person, similar to an Agile Scrum.
 
 ## Freeform Working Time
 Determine whatever is appropriate to help the designer from additional data, artifact definition, ideation, critique, methodology suggestions, etc...
+
+
+
+
+What do you want to use the time for?
+- Critique
+- Discussion
+- FYI
+- Pairing
+- Workshop
