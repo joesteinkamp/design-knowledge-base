@@ -18,9 +18,9 @@ A list of activities to do with grouped by first month, second month, and third 
 
 *Key Activities*
 
-- [30-Day Check-in](./Onboarding/30-day-check-in.md)
-- [60-Day Check-in](./Onboarding/60-day-check-in.md)
-- [90-Day Check-in](./Onboarding/90-day-check-in.md)
+- [30-Day Check-in](./30-day-check-in.md)
+- [60-Day Check-in](./60-day-check-in.md)
+- [90-Day Check-in](./90-day-check-in.md)
 
 
 ## Onboarding Partner
@@ -31,6 +31,8 @@ Details conversations that align to one of the goals that are presented by someo
 
 ## Career Growth Plan
 Establish clear expectations of growth and how the new employee and their manager will work together to progress on the employee's goals.
+
+
 
 
 

@@ -45,6 +45,8 @@ The goal is to understand how they have worked, their hard skills, and their abi
 5. **Collaborative Process:** Did they demonstrate involving others in their design process? Workshops? Reviews? Stakeholder Interviews? Pairing with dev?
 6. **Storytelling:** Did they break down the problem so that it was easy to understand? Do the story flow well from definition to outcomes?
 
+Is there a clear understanding how the solution fits into a wider experience? *Examples: awareness of how other users impact that core user, how the service influences the experience, 
+
 **Product Designer: Questions to Ask**
 [Portfolio Review Questions](https://airtable.com/shrQPAdL8UnFzf7CC)
 
