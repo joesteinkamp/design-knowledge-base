@@ -1,43 +1,44 @@
 # Hiring
 
 ## Table of Contents
-1. [Table of Contents](#table-of-contents)
-2. [Hiring Principles](#hiring-principles)
-3. [Write Job Description](#write-job-description)
-4. [Source Candidates](#source-candidates)
-5. [Resume Review](#resume-review)
-6. [Portfolio Review](#portfolio-review)
-7. [Phone Screen](#phone-screen)
-8. [Background Interview](#background-interview)
-9. [Design Interview](#design-interview)
-10. [Remote Design Interview](#remote-design-interview)
-11. [Debrief](#debrief)
-12. [Offer](#offer)
-13. [Onboarding](#onboarding)
-14. [References](#references)
+1. [Getting Started](#getting-started)
+2. [Candidate Pre-Review](#candidate-pre-review)
+3. [Phone Screen](#phone-screen)
+4. [Background Interview](#background-interview)
+5. [Portfolio Presentation](#portfolio-presentation)
+6. [Reference Check](#reference-check)
+7.  [Offer](#offer)
+8.  [Other Activities]()
 
+## Getting Started
 
-## Hiring Principles
+### Hiring Principles
 1. Hire people closer to your users
 2. Move quickly - no more than a few days between contact. We're in an aggressive market where the top talent is highly sought after.
 3. Focus on long term impact of role and not the generalized day-to-day responsibilities that are similar with every job posting out there.
 4. Look for passionate advocates rather than collective okays.
 
-### Small Teams
+**Small Teams**
 1. Small team need generalist - can do at least 2 things well
 2. Need to build ritual for team (process)
 3. How does the organization engage with the new team
 4. High-level of ambiguity - self-govern and pro-active problem solvers
 
-## Write Job Description
+### Assessing Candidates at Each Step
+- Take notes
+- Rate applicable compentencies based on [Design Skill Assessment](http://designskillassessment.joesteinkamp.com)
+- Determine culture fit
+- Run debriefs with other participants of the process
 
-1. Leverage a template
-2. Write a thank you letter to the new employee as if a year has gone by and you list off what they've accomplished.
-3. Write those accomplishments within the job description as role expectations
-4. 
+### Write Job Description & Scorecard
+Leverage a job description template
 
+**Scorecard**
+1. Write a thank you letter to the new employee as if a year has gone by and you list off what they've accomplished.
+2. Write those accomplishments/outcomes as role expectations
+3. Determine compentencies that are most important to the role
 
-## Source Candidates
+### Source Candidates
 1. Reach out to your existing network
 2. Recruit on LinkedIn, especially look for designers at company's with quality design practices. Reference: [Design Mature Companies](https://airtable.com/shr5V0MYvD2piGcI3/tbl5NSdslsyFRfE8v?blocks=hide)
 3. Find candidates within design communities (Dribbble, Behance, )
@@ -47,17 +48,17 @@
 7. Use a recruiter
 
 
-## [Resume Review](./Hiring/resume-review.md)
+## Candidate Pre-Review
+
+### [Resume Evaluation](./Hiring/resume-evaluation.md)
 A quick review of the candidate's resume to look for good signals of expected experience level.
 
 [View Resume Review Details](./Hiring/resume-review.md)
 
-
-## [Portfolio Review](./Hiring/portfolio-review.md)
+### [Portfolio Evaluation](./Hiring/portfolio-evaluation.md)
 A quick review of the candidate's entire portfolio. If possible, find their portfolio on your own. A recent trend is more portfolios are behind passwords. When the candidate says they're interested in the role, request access to their portfolio for the team to better understand their work experience. 
 
-[View Portfolio Review Details](./Hiring/portfolio-review.md)
-
+[View Portfolio Evaluation Details](./Hiring/portfolio-evaluation.md)
 
 
 ## [Phone Screen](./Hiring/phone-screen.md)
@@ -71,6 +72,8 @@ The goal of the Background Interview is to deeply understand their career past a
 [View Background Interview](./Hiring/background-interview.md)
 
 
+## [Portfolio Presentation]()
+
 ## [Design Interview](./Hiring/design-interview.md)
 The goal of an in-person Design Interview is get a detailed understanding of how the candidate works (their process, decision making ability), the quality of that work, and how they work with other team members of the product development lifecycle. It's also a great opportunity for them to learn our team and process.
 
@@ -82,18 +85,7 @@ An alternative to the in-person Design Interview.
 
 [View Remote Design Interview Details](./Hiring/remote-design-interview.md)
 
-## Debrief
-A short session where all who have been involved in the hiring process meet up and provide their feedback.
 
-1. Scorecard & Competencies Assessment (On a 4-point scale rate each that are applicable to the interviewer.)
-2. Culture Fit & Final Open Comments
-3. Hiring Manage Next Steps: Offer or No Offer
 
 
 ## Offer
-
-## Onboarding
-
-
-
-## References
