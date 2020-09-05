@@ -3,7 +3,7 @@ A quick review of the candidate's entire portfolio. If possible, find their port
 
 ## Product Designer
 
-### Compentencies Covered
+### Compentencies Evaluated
 - Information Architecture
 - Visual Design
 - Interaction Design

@@ -1,28 +1,44 @@
-## Phone Screen
+# Phone Screen
 *30 minutes*
 The goal of the phone screen to find out if the candidate is the right fit for the company and the team based on salary expectations, role and responsibilities, skills required, potential interest, and communication skills. It's also important to understand what they're passionate about and if it aligns with our goals.
 
-### Schedule Time for Screener
-> Hello {NAME},
-> We are very interested in speaking with you more about your skills and experience to continue in the interview process for a {POSITION TITLE} role. There are many exciting opportunities and challenges to take on at {COMPANY} and we’d like to talk with you about the possibilities.
+## Product Designer
 
-### Foundational Questions
-- Expected compensation
+### Compentencies Evaluated
+- Research & Analytics
+- Technical Fluency
+- Business Fluency
+- Communication
+- Grit
+- Empathy
 
+### Questions to Ask
+1. Give me a little bit about your background.
+2. What are your career goals? What don't you want to do? / What are your goals? What are you looking for?
+3. Walk me through your design process at your current role/day-to-day?
+4. How do you know when your designs are done?
+5. How do you continue to advance your design knowledge? / How do you learn?
+6. What are the roles of PED, how does a successful team work?
 
-### Questions
+#### Questions Repository
 [Phone Screen Questions](https://airtable.com/shrvBFqHchiECVWve)
 
+### Record Answers & Notes
+[Google Form Template](https://docs.google.com/forms/d/1phyTKaGiuMlIBWlwB5ItPiSCxJcCisfAcHBRQ0TDJy8/edit)
 
-### Basic Scoring
 
-| Skills: 			  | Yes | No | Uncertain |
-| Good Questions:	| Yes | No | |
-| Design Passion:	| Yes | No | Uncertain |
-| Salary:    			| Yes | No | |
-| Role Fit: 		  | Yes | No | Uncertain |
-| Culture Fit: 		| Yes | No | |
-| Decision:	    	| Yes | No | |
+### Compentencies Assessment
+Since this is such a high-level call, keep your scoring system simple (Yes, No, Uncertain). Do you believe the candidate as the outline compentencies?
 
-### Scorecards
+#### Scorecard Example
 [Product Designer - Phone Screen Scorecard](../assets/Product-Designer-Phone-Screener-Scorecard.pdf)
+
+
+### Next Steps
+If the candidate has an excellent resume, portfolio evaluation, and phone screen, move them straight to the background interview to keep committment level a bit lower and have more time to sell.
+**[Go to Background Interview](background-interview.md)**
+
+If the candidate is interesting but there is still uncertainty in some areas, proceed with the portfolio presentation to get additional depth of their capabilities.
+**[Go to Portfolio Presentation](portfolio-presentation.md)**
+
+Otherwise, pass on the candidate and email them thanking them for their time.

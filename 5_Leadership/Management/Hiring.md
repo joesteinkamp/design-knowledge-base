@@ -7,8 +7,8 @@
 4. [Background Interview](#background-interview)
 5. [Portfolio Presentation](#portfolio-presentation)
 6. [Reference Check](#reference-check)
-7.  [Offer](#offer)
-8.  [Other Activities]()
+7.  [Offer Call](#offer-call)
+8.  [Other Activities](#other-activities)
 
 ## Getting Started
 
@@ -72,20 +72,24 @@ The goal of the Background Interview is to deeply understand their career past a
 [View Background Interview](./Hiring/background-interview.md)
 
 
-## [Portfolio Presentation]()
+## [Portfolio Presentation](./Hiring/portfolio-presentation.md)
 
-## [Design Interview](./Hiring/design-interview.md)
+[View Portfolio Presentation Details](./Hiring/portfolio-presentation.md)
+
+
+
+## Offer Call
+A call to present the offer you'd like to give the candidate.
+
+
+## Other Activities
+
+### [Design Interview](./Hiring/design-interview.md)
 The goal of an in-person Design Interview is get a detailed understanding of how the candidate works (their process, decision making ability), the quality of that work, and how they work with other team members of the product development lifecycle. It's also a great opportunity for them to learn our team and process.
 
 [View Design Interview Details](./Hiring/design-interview.md)
 
-
-## [Remote Design Interview](./Hiring/remote-design-interview.md)
+### [Remote Design Interview](./Hiring/remote-design-interview.md)
 An alternative to the in-person Design Interview.
 
 [View Remote Design Interview Details](./Hiring/remote-design-interview.md)
-
-
-
-
-## Offer

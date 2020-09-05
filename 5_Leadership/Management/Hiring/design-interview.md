@@ -34,7 +34,7 @@ While scheduling the in-person interview, provide the candidate with a detailed 
 The goal is to understand how they have worked, their hard skills, and their ability to present.
 
 #### Participants
-**Minimum:** Hiring manager and engineer  
+**Minimum:** Hiring manager and designer
 **Ideal:** Hiring manager, engineer, designer, and PM
 
 ###### Product Designer: Hard Skills
