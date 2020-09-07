@@ -6,9 +6,10 @@
 3. [Phone Screen](#phone-screen)
 4. [Background Interview](#background-interview)
 5. [Portfolio Presentation](#portfolio-presentation)
-6. [Reference Check](#reference-check)
-7.  [Offer Call](#offer-call)
-8.  [Other Activities](#other-activities)
+6. [Product Critique](#product-critique)
+7. [Reference Check](#reference-check)
+8.  [Offer Call](#offer-call)
+9.  [Other Activities](#other-activities)
 
 ## Getting Started
 
@@ -76,6 +77,13 @@ The goal of the Background Interview is to deeply understand their career past a
 
 [View Portfolio Presentation Details](./Hiring/portfolio-presentation.md)
 
+
+
+## Product Critique
+[View Portfolio Presentation Details](./Hiring/product-critique.md)
+
+
+## Reference Check
 
 
 ## Offer Call
