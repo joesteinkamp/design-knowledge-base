@@ -16,3 +16,13 @@ Give your candidate the chance to assess what your team has done so far — and 
 
 Goal 1: Determine Fit
 Goal 2: Sell Company
+
+
+
+### Compentencies Evaluated
+- Interaction Design
+- Research & Analytics
+- Business Fluency
+- Communication
+- Grit
+- Empathy
