@@ -14,9 +14,7 @@ The goal is to understand how they have worked, their hard skills, and their abi
 - Interaction Design
 - Service Design
 - Research & Analytics
-- Toolset Expertise
 - Communication
-- Facilitation
 
 ### Questions to Ask
 [Portfolio Review Questions](https://airtable.com/shrQPAdL8UnFzf7CC)
