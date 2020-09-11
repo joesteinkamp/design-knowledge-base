@@ -1,5 +1,5 @@
 # Portfolio Evaluation
-A quick individual evaluation of the candidate's portfolio website and any other websites that showcase their work, like Dribbble and Behance. The goal is to get early signals to determine the experience level of the candidate. Most effective as a gage rather than a weed out tactic.
+A quick individual evaluation of the candidate's portfolio website and any other websites that showcase their work, like Dribbble and Behance. The goal is to get early signals to determine the experience level of the candidate. Most effective as a gauge rather than a weed out tactic.
 
 *If possible, find their portfolio on your own. A recent trend is more portfolios are behind passwords. When the candidate says they're interested in the role, request access to their portfolio for the team to better understand their work experience.*
 
