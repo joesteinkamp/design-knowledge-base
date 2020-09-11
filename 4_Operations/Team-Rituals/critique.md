@@ -67,16 +67,6 @@ Taken from Writing Alone, Writing Together by Judy Reeves
 * Seek to understand their intent
 * Focus on outcomes that the design can cause 
 
-
-
-
-
-
-What do you think?
-What are your thoughts?
-
-
-
 ### Standard Questions to Ask:
 
 **Quality Questions**
