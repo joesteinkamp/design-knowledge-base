@@ -51,18 +51,18 @@ Leverage a job description template
 
 ## Candidate Pre-Review
 
-### [Resume Evaluation](./Hiring/resume-evaluation.md)
+### Resume Evaluation
 A quick review of the candidate's resume to look for good signals of expected experience level.
 
 [View Resume Review Details](./Hiring/resume-review.md)
 
-### [Portfolio Evaluation](./Hiring/portfolio-evaluation.md)
+### Portfolio Evaluation
 A quick review of the candidate's entire portfolio. If possible, find their portfolio on your own. A recent trend is more portfolios are behind passwords. When the candidate says they're interested in the role, request access to their portfolio for the team to better understand their work experience. 
 
 [View Portfolio Evaluation Details](./Hiring/portfolio-evaluation.md)
 
 
-## [Phone Screen](./Hiring/phone-screen.md)
+## Phone Screen
 The goal of the phone screen to find out if the candidate is the right fit for the company and the team based on salary expectations, role and responsibilities, skills required, potential interest, and communication skills. It's also important to understand what they're passionate about and if it aligns with our goals.
 
 [View Phone Screen Details](./Hiring/phone-screen.md)
@@ -73,7 +73,7 @@ The goal of the Background Interview is to deeply understand their career past a
 [View Background Interview](./Hiring/background-interview.md)
 
 
-## [Portfolio Presentation](./Hiring/portfolio-presentation.md)
+## Portfolio Presentation
 
 [View Portfolio Presentation Details](./Hiring/portfolio-presentation.md)
 
