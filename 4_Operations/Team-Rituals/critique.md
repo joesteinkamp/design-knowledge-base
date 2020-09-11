@@ -44,17 +44,22 @@ A review of a proposed design work. The goals are to provide awareness, drive co
 3. Not everyone needs to say something. **We need to figure out how to agree with someone without reiterating.**
 4. **Do not provide suggestions on how to fix issues**. Put the power into the designers hands. If the designer feels like they have no idea where to begin ask "What do you suggest?". If the designer leaves the critique and becomes stuck, the should pull together the team to get collaboratively try to solve the problem. Alternatively, start by proposing process suggestions rather than solution suggestions.
 
-> **The Difference between Critique and Criticism**  
-> Taken from _Writing Alone, Writing Together; A Guide for Writers and Writing Groups_ by Judy Reeves
->
-> * Criticism finds fault / Critique looks at structure
-> * Criticism looks for what's lacking / Critique finds what's working
-> * Criticism condemns what it doesn't understand / Critique asks for clarification
-> * Criticism is spoken with a cruel wit and sarcastic tongue / Critique's voice is kind, honest, and objective
-> * Criticism is negative / Critique is positive \(even about what isn't working\)
-> * Criticism is vague and general / Critique is concrete and specific
-> * Criticism has no sense of humor / Critique insists on laughter, too
-> * Criticism looks for flaws in the writer as well as the writing / Critique addresses only what is on the page
+
+## Feedback Expression Tips
+
+“Posing thoughts as questions allows the designer to express their reasoning instead of being defensive. If they hadn’t considered a particular angle, they can make a note and address it in the next iteration” -Greg Lindley
+
+**The Difference between Critique and Criticism**  
+Taken from Writing Alone, Writing Together by Judy Reeves
+
+> * Criticism finds fault / **Critique looks at structure**
+> * Criticism looks for what's lacking / **Critique finds what's working**
+> * Criticism condemns what it doesn't understand / **Critique asks for clarification**
+> * Criticism is spoken with a cruel wit and sarcastic tongue / C**ritique's voice is kind, honest, and objective**
+> * Criticism is negative / **Critique is positive \(even about what isn't working\)**
+> * Criticism is vague and general / **Critique is concrete and specific**
+> * Criticism has no sense of humor / **Critique insists on laughter, too**
+> * Criticism looks for flaws in the writer as well as the writing / **Critique addresses only what is on the page**
 
 ### Standard Questions to Ask:
 
@@ -93,6 +98,7 @@ A review of a proposed design work. The goals are to provide awareness, drive co
 6. [https://www.smashingmagazine.com/2016/08/running-a-ui-design-critique/](https://www.smashingmagazine.com/2016/08/running-a-ui-design-critique/)
 7. [https://www.nngroup.com/articles/design-critiques/](https://www.nngroup.com/articles/design-critiques/)
 8. [https://uxdesign.cc/debugging-your-design-critique-2f002acb50cf](https://uxdesign.cc/debugging-your-design-critique-2f002acb50cf)
+9. https://medium.com/facebook-design/critique-is-an-important-part-of-any-design-process-whether-you-work-as-part-of-a-team-or-solo-ef3dcb299ce3
 
 
 
