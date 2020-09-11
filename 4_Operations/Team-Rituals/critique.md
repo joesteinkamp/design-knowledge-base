@@ -47,8 +47,6 @@ A review of a proposed design work. The goals are to provide awareness, drive co
 
 ### Feedback Expression Tips
 
-“Posing thoughts as questions allows the designer to express their reasoning instead of being defensive. If they hadn’t considered a particular angle, they can make a note and address it in the next iteration” -Greg Lindley
-
 **The Difference between Critique and Criticism**  
 Taken from Writing Alone, Writing Together by Judy Reeves
 
@@ -60,6 +58,24 @@ Taken from Writing Alone, Writing Together by Judy Reeves
 > * Criticism is vague and general / **Critique is concrete and specific**
 > * Criticism has no sense of humor / **Critique insists on laughter, too**
 > * Criticism looks for flaws in the writer as well as the writing / **Critique addresses only what is on the page**
+
+“Posing thoughts as questions allows the designer to express their reasoning instead of being defensive. If they hadn’t considered a particular angle, they can make a note and address it in the next iteration” -Greg Lindley
+
+**Question Tips**
+* Encourages dialogue by being open ended
+* Be specific in goals of the feedback but not specific about what to do, unless asked
+* Seek to understand their intent
+* Focus on outcomes that the design can cause 
+
+
+
+
+
+
+What do you think?
+What are your thoughts?
+
+
 
 ### Standard Questions to Ask:
 
