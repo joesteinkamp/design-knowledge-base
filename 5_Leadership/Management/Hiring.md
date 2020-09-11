@@ -80,11 +80,12 @@ The goal of the Background Interview is to deeply understand their career past a
 
 
 ## Product Critique
-[View Portfolio Presentation Details](./Hiring/product-critique.md)
+[View Product Critique Details](./Hiring/product-critique.md)
 
 
 ## Reference Check
 
+[View Reference Check](./Hiring/reference-check.md)
 
 ## Offer Call
 A call to present the offer you'd like to give the candidate.
