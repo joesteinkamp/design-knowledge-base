@@ -45,7 +45,7 @@ A review of a proposed design work. The goals are to provide awareness, drive co
 4. **Do not provide suggestions on how to fix issues**. Put the power into the designers hands. If the designer feels like they have no idea where to begin ask "What do you suggest?". If the designer leaves the critique and becomes stuck, the should pull together the team to get collaboratively try to solve the problem. Alternatively, start by proposing process suggestions rather than solution suggestions.
 
 
-## Feedback Expression Tips
+### Feedback Expression Tips
 
 “Posing thoughts as questions allows the designer to express their reasoning instead of being defensive. If they hadn’t considered a particular angle, they can make a note and address it in the next iteration” -Greg Lindley
 
