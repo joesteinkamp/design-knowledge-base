@@ -32,7 +32,7 @@ The key is to dig deeper on their answers. Approach it similar to the 5 Whys fra
 ### Compentencies Evaluated
 - Communication
 - Grit
-- Empathy
+- Humility
 - Mentorship
 - Evangelism
 - Business Fluency

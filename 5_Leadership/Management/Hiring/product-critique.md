@@ -23,4 +23,3 @@ Hiring manager and designer
 - Business Fluency
 - Communication
 - Grit
-- Empathy

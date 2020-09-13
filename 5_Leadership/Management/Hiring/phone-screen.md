@@ -10,7 +10,7 @@ The goal of the phone screen to find out if the candidate is the right fit for t
 - Business Fluency
 - Communication
 - Grit
-- Empathy
+- Humility
 
 ### Questions to Ask
 1. Give me a little bit about your background.
