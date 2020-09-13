@@ -16,6 +16,7 @@ A review of a designer's work to determine if the candidate has the execution ca
 - Service Design
 - Research & Analytics
 - Communication
+- Humility
 
 ### Questions to Ask
 [Portfolio Review Questions](https://airtable.com/shrQPAdL8UnFzf7CC)
