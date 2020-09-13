@@ -22,4 +22,4 @@ Hiring manager and designer
 - Research & Analytics
 - Business Fluency
 - Communication
-- Grit
+- Grit & Passion

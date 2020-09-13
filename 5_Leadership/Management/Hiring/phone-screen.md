@@ -9,7 +9,7 @@ The goal of the phone screen to find out if the candidate is the right fit for t
 - Technical Fluency
 - Business Fluency
 - Communication
-- Grit
+- Grit & Passion
 - Humility
 
 ### Questions to Ask

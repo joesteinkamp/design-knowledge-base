@@ -31,7 +31,7 @@ The key is to dig deeper on their answers. Approach it similar to the 5 Whys fra
 
 ### Compentencies Evaluated
 - Communication
-- Grit
+- Grit & Passion
 - Humility
 - Mentorship
 - Evangelism
