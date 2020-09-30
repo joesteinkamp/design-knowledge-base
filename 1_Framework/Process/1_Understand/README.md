@@ -15,6 +15,7 @@ Method | Type
 [User Interview](user-interview.md) | Uncover Problems By What They Say
 [User Data Report](user-data-report.md) | Summary
 [User Feedback Analysis](user-feedback-analysis.md) | Uncover Problems By What They Say
+[Concept Value Test](concept-value-test.md) | Validate a Hypothesis
 
 
 
