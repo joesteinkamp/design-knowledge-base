@@ -14,7 +14,17 @@ A design research method that's a spin on a discovery interview that actually in
 1. To learn if there is value and usefulness in a new utility
 
 
-# Tips
-- **Designs ends imagination.** It's important to prime the user specifically about your opportunity hypothesis and get them to imagine what it is before showing them. Ask questions like "Do you use our product to do ________?", "Would you?", "How would you imagine you'd do that?"
+## Tips
+- **Designs ends imagination.** It's important to prime the user specifically about your opportunity hypothesis and get them to imagine what it is before showing them. Ask questions like:
+  -  "Do you use our product to do ________?"
+  -  "Would you?"
+  -  "How would you imagine you'd do that?"
+  -  "Is there a recent example of when something that lets you do X would have been useful?"
 - You're designing a question not a final UI. Treat the utility change as the most important aspect of the UI even when in final execution it is not. It does two things. 1) Reduces awareness as a distraction. 2) Causes tension in the participants mind around is this new utlity more valuable than other rest of the UI that it's disrupting.
 - Stay away from multiple approaches to execute the opportunity. That's for directional or formative research. The goal is about usefulness not usability.
+
+
+
+
+## Caution
+Users always want more features, so they'll almost always concoct a scenario or say something would be useful however if they cannot point to a time recently when it'd have helped them then it's probably not something of high value.
