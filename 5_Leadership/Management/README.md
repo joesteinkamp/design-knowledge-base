@@ -2,8 +2,6 @@
 
 ## [Hiring](./Hiring)
 
-## Onboarding
-
 ## [One-on-Ones](./one-on-ones.md)
 
 ## Time Management

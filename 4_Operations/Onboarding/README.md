@@ -11,6 +11,11 @@
 - **Individual Contributions.** Contribute to the team to help them deliver great user experiences.
 
 
+## First Two Week Recaps
+- [Week 1 Recap](./week-1-recap.md)
+- [Week 2 Recap](./week-2-recap.md)
+
+
 ## 30:60:90 Days Activities
 A list of activities to do with grouped by first month, second month, and third month.
 
