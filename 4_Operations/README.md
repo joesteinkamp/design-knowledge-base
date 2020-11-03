@@ -32,3 +32,8 @@ A complete package of activities and methodologies to establish distinct operati
 
 ## Education & Thought Leadership
 Ways to advocate and encourage advocating by your team members for Design internally and externally of your organization.
+
+
+
+## Quarterly Goal Settings
+[View Process](./quarterly-goal-setting.md)
