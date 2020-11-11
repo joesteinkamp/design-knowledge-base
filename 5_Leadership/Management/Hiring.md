@@ -98,7 +98,7 @@ The goal of an in-person Design Interview is get a detailed understanding of how
 
 [View Design Interview Details](./Hiring/design-interview.md)
 
-### [Remote Design Interview](./Hiring/remote-design-interview.md)
+### [Remote Portfolio Case Study](./Hiring/remote-portfolio-case-study.md)
 An alternative to the in-person Design Interview.
 
-[View Remote Design Interview Details](./Hiring/remote-design-interview.md)
+[View Remote Design Interview Details](./Hiring/remote-portfolio-case-study.md)

@@ -1,11 +1,11 @@
-# Remote Portfolio Walkthrough
+# Remote Portfolio Case Study
 The goal of this type of interview is to get greater depth of the candidates thought process (how they make decisions) and how the present it.
 
 ### Send Portfolio Preparation Info to Candidate
 >The remote portfolio presentation is a chance for us to get to know your process and your design accomplishments.  You will have 30 minutes on a video conference to talk about one specific project you have worked on.  An ideal project is one that best illustrates your design capabilities.  Ideally we'd like to see how your experience is relevant to the challenges you would face at our company. 
 >
 >The presentation can be as informal or as formal as you would like. Some logistical details for the presentation:
->- There will be 1 or 2 people present.  They will be the Director of Design and possibly a product manager.
+>- There will be 2 or 3 people present.  They will be the Director of Design, a designer, and possibly a product manager.
 >- You will have 20 minutes for your presentation followed by 10 minutes of Q&A.
 >- You will present using Google Meet or a similar video conference tool. Please make sure your on a good Internet connection.
 >
