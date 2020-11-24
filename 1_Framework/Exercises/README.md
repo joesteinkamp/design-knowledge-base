@@ -17,6 +17,7 @@ UX Canvas
 
 ## Ideation
 Inspiration Gathering
+Likes & Dislikes
 Moodboarding
 How Might We
 Crazy 8s
