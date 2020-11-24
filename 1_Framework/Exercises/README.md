@@ -10,7 +10,9 @@
 - Journey Mapping / Experience Mapping
 - Job Stories
 - Five Whys
+
 ---
+
 - Design Principle Sliders
 - Personality Sliders
 - Business Model Canvas
