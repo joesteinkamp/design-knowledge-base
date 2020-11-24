@@ -16,9 +16,9 @@
 
 
 ## Favorite Sources
-- https://designsprintkit.withgoogle.com/
-- https://www.thesprintbook.com/
-- https://github.com/thoughtbot/design-sprint
-- https://katherinemichel.gitbooks.io/agile-sprint-playbook/content/
-- https://www.thisisservicedesigndoing.com/methods
-- https://gamestorming.com/
+- [Google Ventures' Design Sprint Kit](https://designsprintkit.withgoogle.com/)
+- [The Sprint Book](https://www.thesprintbook.com/)
+- [Thoughtbot Design Sprint](https://github.com/thoughtbot/design-sprint)
+- [Katherine Michel Agile Sprint Playbook](https://katherinemichel.gitbooks.io/agile-sprint-playbook/content/)
+- [This is Servive Design Doing Methods](https://www.thisisservicedesigndoing.com/methods)
+- [Gamestorming Blog](https://gamestorming.com/)
