@@ -4,32 +4,34 @@
 
 
 ## Definition
-Northstar
-Golden Pathways
-Rose, Thorn, Bud
-Journey Mapping / Experience Mapping
-Job Stories
+- Northstar
+- Golden Pathways
+- Rose, Thorn, Bud
+- Journey Mapping / Experience Mapping
+- Job Stories
+- Five Whys
 -
-Design Principle Sliders
-Personality Sliders
-Business Model Canvas
-UX Canvas
+- Design Principle Sliders
+- Personality Sliders
+- Business Model Canvas
+- UX Canvas
+- Needs, Wants, Desires
 
 ## Ideation
-Inspiration Gathering
-Likes & Dislikes
-Moodboarding
-How Might We
-Crazy 8s
-Storyboarding
+- Inspiration Gathering
+- Likes & Dislikes
+- Moodboarding
+- How Might We
+- Crazy 8s
+- Storyboarding
 
 
 ## Convergence
-Dot Voting
-Heatmap Voting
-Ranking
-Decision Matrix
-Silent Review
+- Dot Voting
+- Heatmap Voting
+- Ranking
+- Decision Matrix
+- Silent Review
 
 
 ## Favorite Sources
