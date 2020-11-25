@@ -15,6 +15,7 @@ Combine with regular 1-on-1 with predefined agenda item for a progress report on
 
 - Do you feel confident in your knowledge of the company? Product? Service?
 - Where you able to fill in artifact gaps that document one of the knowledge areas worth defining?
-
+- Do you feel equipped to be successful in your role and grow a career at {company}?
+- Is there any support you need at this time that you are not currently receiving?
 
 
