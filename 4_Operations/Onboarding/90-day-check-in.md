@@ -21,5 +21,9 @@ Before the meeting, have the following documented:
 
 - Onboarding Goals Progress Report.
 - Retrospective on what they've accomplished so far.
-- Copy & [Career Growth Plan Template](https://docs.google.com/document/d/1SnYykRa7Vas7eIo5uSLJGE_uMQ3b_x9lyT275Xo0ur4/) first pass completed.
+- Copy Career Growth Plan Template & create a first pass.
 ```
+
+## Assets
+
+- [Career Growth Plan Template](https://docs.google.com/document/d/1SnYykRa7Vas7eIo5uSLJGE_uMQ3b_x9lyT275Xo0ur4/)
