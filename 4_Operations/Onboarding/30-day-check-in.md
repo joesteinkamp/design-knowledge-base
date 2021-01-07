@@ -18,4 +18,9 @@ Combine with regular 1-on-1 with predefined agenda item for a progress report on
 - Do you feel equipped to be successful in your role and grow a career at {company}?
 - Is there any support you need at this time that you are not currently receiving?
 
-
+## Calendar Templates
+```Before the meeting, have the following documented: 
+ - How complete you believe your learning goals are from the onboarding spreadsheet. 
+ - Thoughts on how you might increase the efficiency of learning. 
+ - Prepare summaries and/or key insights on each learning goal. 
+ - Goals for next 30 days (Month 2)```
