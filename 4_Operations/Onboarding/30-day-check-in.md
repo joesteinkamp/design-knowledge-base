@@ -1,4 +1,4 @@
-# 30-Day Check-in - Onboarding Progress Report
+# 30-Day Check-in
 
 ## Goal
 Understand how progress is being made on the [onboarding goals](../Onboarding/), primarily focused on learning goals.
