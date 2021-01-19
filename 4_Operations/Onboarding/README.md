@@ -12,6 +12,7 @@
 
 
 ## First Two Week Recaps
+- [Welcome Breakfast](./welcome-breakfast.md)
 - [Week 1 Recap](./week-1-recap.md)
 - [Week 2 Recap](./week-2-recap.md)
 
