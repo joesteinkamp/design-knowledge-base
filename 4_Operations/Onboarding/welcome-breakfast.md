@@ -15,12 +15,6 @@ An informal chance to meet more team members of the broader organization.
 
 - Favorite movie genre
 - Favorite restaurant
-- 
-
-
-
-- How keeping sane in pandemic
-- 
 
 **Remote Ideas**
 - Set virtual background to favorite candy

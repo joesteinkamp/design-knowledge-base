@@ -11,3 +11,4 @@ Combine with regular 1-on-1 with predefined agenda item to have a more thorough 
 - What was the highlight of the week?
 - What is the biggest thing you feel like you're missing?
 - What would be one piece of advice you wish you would have had before the start of the week?
+- Have you had a chance to get to know personally every member of your product team?
