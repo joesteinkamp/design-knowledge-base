@@ -6,7 +6,15 @@ A review of a proposed design work. The goals are to provide awareness, drive co
 
 | Attendees | Frequency | Suggested Time |
 | :--- | :--- | :--- |
-| Entire Design Team | Weekly | 1h - 2hrs |
+| Entire Design Team | Weekly | 5m - 2hrs |
+
+### Key Parts of a Successful Critique
+1. A strong facilitator to effectively run the critique
+2. Clear guidance and expectations on how to present your work
+3. Audiences ability to raise concern that something isn't able to be critiqued
+4. Clear guidance on how to communicate feedback
+5. Processes to take more feedback and collaboration offline for actionable next steps
+6. A culture of psychological safety, respect, candidness, and assumed positive intention
 
 
 ### Preparation
@@ -96,15 +104,14 @@ Taken from Writing Alone, Writing Together by Judy Reeves
 
 ### References
 
-1. [https://articles.uie.com/critique/](https://articles.uie.com/critique/)
-2. [https://medium.com/facebook-design/critique-is-an-important-part-of-any-design-process-whether-you-work-as-part-of-a-team-or-solo-ef3dcb299ce3](https://medium.com/facebook-design/critique-is-an-important-part-of-any-design-process-whether-you-work-as-part-of-a-team-or-solo-ef3dcb299ce3)
-3. [https://www.uie.com/brainsparks/2011/10/27/moving-from-critical-review-to-critique/](https://www.uie.com/brainsparks/2011/10/27/moving-from-critical-review-to-critique/)
-4. [https://blog.intercom.com/running-productive-design-critiques/](https://blog.intercom.com/running-productive-design-critiques/)
-5. [http://www.tablexi.com/design/guide-to-gv-design-critique-google-ventures/](http://www.tablexi.com/design/guide-to-gv-design-critique-google-ventures/)
-6. [https://www.smashingmagazine.com/2016/08/running-a-ui-design-critique/](https://www.smashingmagazine.com/2016/08/running-a-ui-design-critique/)
-7. [https://www.nngroup.com/articles/design-critiques/](https://www.nngroup.com/articles/design-critiques/)
-8. [https://uxdesign.cc/debugging-your-design-critique-2f002acb50cf](https://uxdesign.cc/debugging-your-design-critique-2f002acb50cf)
-9. https://medium.com/facebook-design/critique-is-an-important-part-of-any-design-process-whether-you-work-as-part-of-a-team-or-solo-ef3dcb299ce3
-
-
-
+1. [What Goes into a Well-Done Critique](https://articles.uie.com/critique/)
+2. [Moving from Critical Review to Critique](https://www.uie.com/brainsparks/2011/10/27/moving-from-critical-review-to-critique/)
+3. [Running productive design critiques](https://blog.intercom.com/running-productive-design-critiques/)
+4. [How we use the GV design critique to find problems before they cost you money](http://www.tablexi.com/design/guide-to-gv-design-critique-google-ventures/)
+5. [How To Run A UI Design Critique](https://www.smashingmagazine.com/2016/08/running-a-ui-design-critique/)
+6. [Design Critiques: Encourage a Positive Culture to Improve Products](https://www.nngroup.com/articles/design-critiques/)
+7. [Design critique lessons from studying Facebook designers](https://uxdesign.cc/debugging-your-design-critique-2f002acb50cf)
+8. [Four Things Working at Facebook Has Taught Me About Design Critique](https://medium.com/facebook-design/critique-is-an-important-part-of-any-design-process-whether-you-work-as-part-of-a-team-or-solo-ef3dcb299ce3)
+9.  [The W.H.Y. Method for Better Design Critiques](https://modus.medium.com/the-w-h-y-method-782693281c83)
+10. [Creating a Culture of Effective Design Feedback](https://medium.com/building-creative-market/design-critiques-part-i-a-culture-of-effective-feedback-2713005a58a)
+11. [Understanding Critique](https://www.oreilly.com/library/view/discussing-design/9781491902394/ch01.html)
