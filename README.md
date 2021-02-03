@@ -45,6 +45,11 @@ The framework is the how to do the work.
 
 ###### [View Leadership Docs](./5_Leadership/)
 
+## Product Screenshots Gallery
+A great collection of product screenshots for inspiration.
+
+###### [Screenshots](https://screenshots.designknowledgebase.com/)
+
 
 ## Articles on our Medium Publication
 The knowledge base repo is often focused on very practical and deep instructional content. We use Medium to expand our content into a broader range of styles, such as case studies, commentary and opinion pieces, summarization of knowledge captured here.

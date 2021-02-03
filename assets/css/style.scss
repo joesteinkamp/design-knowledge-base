@@ -79,6 +79,13 @@ header {
             padding: 0;
             margin: 0;
         }
+
+        .search a {
+            background: $whiteColor;
+            color: $primaryColor;
+            padding: 0 12px;
+            border-radius: 8px;
+        }
     }
     li, ul li+li+li {
         width: auto;
@@ -86,7 +93,6 @@ header {
         border-right: 0;
         height: auto;
     }
-    li:first-child a, li:last-child a { border-radius: 8px; }
 }
 
 section {
