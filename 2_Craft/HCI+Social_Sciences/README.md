@@ -6,6 +6,6 @@
 - [Cognitive Psychology](cognitive-psychology.md)
 - [Color Theory](color-theory.md)
 - [Gestalt Psychology](gestalt-psychology.md)
-- [HCI Principles](hci-principles.md)
+- [HCI Laws](hci-laws.md)
 - [Heuristics](heuristics.md)
 - [Other HCI References](other-hci-references.md)
