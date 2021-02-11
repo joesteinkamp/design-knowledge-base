@@ -33,9 +33,9 @@ As we continue to elevate our design, we intend to use animations more throughou
 **Reference [Response Times](response-times.md) for first principles**
 
 
-Reference
-https://www.smashingmagazine.com/2015/05/functional-ux-design-animations/
-http://jake.ly/journal/animations.html
-https://yalantis.com/blog/-seven-types-of-animations-for-mobile-apps/ 
-WWDC 2015: Designing with Animation
-http://valhead.com/2016/05/05/how-fast-should-your-ui-animations-be/ 
+## Reference
+- [Functional UX Design Animations](https://www.smashingmagazine.com/2015/05/functional-ux-design-animations/)
+- [The “Why” of Using Animation in Interaction Design](http://jake.ly/journal/animations.html)
+- [How to Successfully Use Animations in Your Mobile App](https://yalantis.com/blog/-seven-types-of-animations-for-mobile-apps/)
+- WWDC 2015: Designing with Animation
+- [How Fast Should Your UI Animations Be](http://valhead.com/2016/05/05/how-fast-should-your-ui-animations-be/)
