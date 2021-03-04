@@ -107,6 +107,10 @@ Usability is defined by **5 quality components**:
 6. https://www.uxbooth.com/articles/the-art-of-guerrilla-usability-testing/
 7. https://uxmyths.com/post/831431504/myth-22-usability-testing-is-expensive
 8. https://methods.18f.gov/validate/usability-testing/
+9. https://methods.18f.gov/interview-checklist/
+10. https://methods.18f.gov/usability-test-script/
+11. https://www.interaction-design.org/literature/topics/usability-testing
+12. https://www.smashingmagazine.com/2018/03/guide-user-testing/
 
 ### Templates
 
