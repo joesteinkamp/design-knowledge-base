@@ -1,4 +1,4 @@
-# Career Growth Plans
+# Career Growth Planning
 
 ### Individual's Thoughts
 
