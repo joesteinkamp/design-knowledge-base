@@ -1,4 +1,5 @@
 # Data & Research References
 
-- [Design Metrics](design-metrics.md)
+- [Design Metrics Framework](design-metrics-framework.md)
 - [Key Experience Indicators](keis.md)
+- [Emotions Toolkit](emotions-toolkit.md)
