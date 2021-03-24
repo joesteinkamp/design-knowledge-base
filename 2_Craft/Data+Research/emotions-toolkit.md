@@ -16,7 +16,7 @@ Use the adjectives below to define your brand personality and attitude. See insp
 
 
 ## References
-- https://www.xdstrategy.com/desirability-studies/
-- https://www.nngroup.com/articles/desirability-reaction-words/
-- https://www.nngroup.com/articles/microsoft-desirability-toolkit/
-- https://www.nngroup.com/articles/young-adults-flat-design/
+- [Desirability Studies](https://www.xdstrategy.com/desirability-studies/)
+- [NNGroup's Desirability Reaction Words](https://www.nngroup.com/articles/desirability-reaction-words/)
+- [Microsoft Desirability Toolkit](https://www.nngroup.com/articles/microsoft-desirability-toolkit/)
+- [Young Adults Prefer Flat Design](https://www.nngroup.com/articles/young-adults-flat-design/)
