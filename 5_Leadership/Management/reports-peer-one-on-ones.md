@@ -8,7 +8,7 @@ A short 30-minute check-in with a peer of one of your reports to get a better ga
 ## Potential Agenda
 
 **Relationship Building**
-It's very important to have a repertiore with the person.
+It's very important to have a repore with the person.
 - How are you?
 - How can I help?
 - etc...
