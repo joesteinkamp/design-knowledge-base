@@ -49,7 +49,9 @@ Technical Fluency
 - How well do they anticipate engineering's concerns and cares?
 
 
-### Post-Call Survey
+### Pre-Call Survey
+Questions to get a basic understanding on how a person can improve. You do it before to cover the basics then go deeper on things in the one-on-one conversation.
+
 - What should they start doing?
 - What should they continue doing?
 - What should they stop doing?
