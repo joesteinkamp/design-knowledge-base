@@ -4,6 +4,8 @@ A short 30-minute check-in with a peer of one of your reports to get a better ga
 
 **Frequency:** *Consider having these check-ins at least once a quarter.*
 
+*Make them feel comfortable and know that their feedback is confidential and will be filtered through you as their manager. *
+
 ## Pre-Call Survey
 Questions to get a basic understanding on how a person can improve. You do it before to cover the basics then go deeper on things in the one-on-one conversation.
 
