@@ -13,6 +13,8 @@ Questions to get a basic understanding on how a person can improve. You do it be
 
 ## Potential Agenda
 
+You can comment on the pre-call survey responses but ideally you use the call to go deeper on more specific topics.
+
 **Relationship Building**
 It's very important to have a repore with the person.
 - How are you?
