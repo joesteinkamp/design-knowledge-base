@@ -45,7 +45,7 @@ Humility
 - **Eng Specific:** Do you feel like you're able to shape the designs before engineering?
 
 Evangelism
-- How well do they explain their design decisions?
+- How well do they explain the behind design decisions?
 - How well do they explain what's important to the user experience?
 - Do they advocate for design system improvements? 
 - **Design Specific:** Do they take the time to mentor and coach you?
