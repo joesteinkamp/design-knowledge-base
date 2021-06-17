@@ -1,5 +1,8 @@
 # 90-Day Check-in
 
+Focus on Team, Org, and Company too
+
+
 ## Goal
 Understand their early successes and start to plan for the long term.
 
