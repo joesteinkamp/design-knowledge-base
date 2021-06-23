@@ -62,10 +62,16 @@ A quick review of the candidate's entire portfolio. If possible, find their port
 [View Portfolio Evaluation Details](./Hiring/portfolio-evaluation.md)
 
 
-## Phone Screen
-The goal of the phone screen to find out if the candidate is the right fit for the company and the team based on salary expectations, role and responsibilities, skills required, potential interest, and communication skills. It's also important to understand what they're passionate about and if it aligns with our goals.
+## Phone Screen: Team Fit
+The goal of this phone screen to find out if the candidate is the right fit for the company and the team based on soft skills, potential interest, and communication skills. It's also important to understand what they're passionate about and if it aligns with our goals.
 
-[View Phone Screen Details](./Hiring/phone-screen.md)
+[View Details](./Hiring/phone-screen-team-fit.md)
+
+## Phone Screen: Design Execution
+The goal of this phone screen to find out if the candidate is the right level of design skills for our needs and expectations based on a quick evaluation of their recent work's design decisions as well as how they came to those conclusions.
+
+[View Details](./Hiring/phone-screen-execution.md)
+
 
 ## Background Interview
 The goal of the Background Interview is to deeply understand their career past and how it can provide indication on what the future holds.
@@ -73,10 +79,14 @@ The goal of the Background Interview is to deeply understand their career past a
 [View Background Interview](./Hiring/background-interview.md)
 
 
-## Portfolio Presentation
+## Portfolio Presentation & Critique
 
 [View Portfolio Presentation Details](./Hiring/portfolio-presentation.md)
 
+
+## Design Exercise
+
+[View Design Exercises](Hiring/design-exercises.md)
 
 
 ## Product Critique
@@ -106,3 +116,23 @@ The goal of an in-person Design Interview is get a detailed understanding of how
 An alternative to the in-person Design Interview.
 
 [View Remote Design Interview Details](./Hiring/remote-portfolio-case-study.md)
+
+
+
+# References
+- https://medium.com/creating-a-ux-strategy-playbook/ux-hiring-the-performance-profile-is-a-game-changer-1dd1b13698ad
+- https://medium.com/creating-a-ux-strategy-playbook/ux-hiring-lets-talk-about-comparable-experience-7d5947dfd04
+- https://articles.uie.com/the-best-interview-question-for-hiring-ux-designers/
+- https://medium.com/swlh/hiring-your-first-product-designer-a-no-nonsense-guide-to-product-design-skills-a55a1a210c02
+- Who by Geoff Smart
+- Org Design for Design Orgs by Peter Merholz, Kristin Skinner
+- https://uxdesign.cc/what-hiring-managers-look-for-in-a-product-design-portfolio-7b1837360bf9
+- https://tech.buzzfeed.com/crafting-the-product-design-hiring-experience-part-one-65c924bc7a41?source=search_post---------1
+- https://uxdesign.cc/insiders-guide-how-to-find-evaluate-and-hire-ux-designers-879f766397bb
+- https://uxdesign.cc/designing-the-interview-process-up-down-all-around-a1461f7cfa19
+- https://uxdesign.cc/how-to-prepare-for-a-ux-interview-tips-from-a-hiring-manager-6ca6c38b4358
+- https://podcasts.apple.com/us/podcast/hiring-guild-podcast/id1443678486
+- https://medium.com/spotify-design/growing-a-distributed-product-design-team-3563659ee2e6
+- https://uxdesign.cc/why-design-homework-doesnt-work-and-what-does-ae3554192035
+- https://uxdesign.cc/designing-the-interview-process-up-down-all-around-a1461f7cfa19
+- https://uxdesign.cc/https-medium-com-jonnyczar-we-need-to-talk-about-design-hiring-process-1d76774b35e4
