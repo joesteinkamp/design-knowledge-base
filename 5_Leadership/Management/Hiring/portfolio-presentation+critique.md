@@ -1,5 +1,5 @@
-# Portfolio Presentation
-*45 minute presentation, 15 minute Q&A*
+# Portfolio Presentation & Critique
+*1 hr portfolio review +  30 minutes Q&A*
 
 A review of a designer's work to determine if the candidate has the execution capabilities necessary to be successful and how they work with others. The presentation should cover their end-to-end design process to understand how they like to work, the output quality, and hopefully the impact and outcomes their work achieved.
 
