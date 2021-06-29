@@ -79,9 +79,10 @@ The goal of the Background Interview is to deeply understand their career past a
 [View Background Interview](./Hiring/background-interview.md)
 
 
-## Portfolio Presentation & Critique
+## Portfolio Presentation
 
 [View Portfolio Presentation Details](./Hiring/portfolio-presentation.md)
+[Critique Variant](./Hiring/portfolio-presentation+critique.md)
 
 
 ## Design Exercise

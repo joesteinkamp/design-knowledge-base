@@ -47,3 +47,8 @@ Tips
 
 Don't hesitate to ask any questions you may have. We're excited to speak with you.
 ```
+
+
+## Creative Designer Variant
+- Focus on breadth, cover 3 projects
+- Focus more on inspiration
