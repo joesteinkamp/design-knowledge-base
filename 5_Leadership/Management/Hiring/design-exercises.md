@@ -68,10 +68,53 @@ A conversational and informal session, with open/out loud brainstorming  The goa
 
 ---
 
-## Creativity Exercise
+## Brand Exercise
 
-"I can’t take credit for this one. I got the idea from Stephen Gates in his podcast The Crazy One and have found it to be extremely successful. I made one set of cards that has common everyday products (ladders, pencils, road cones, etc) and another set that has famous brands everyone would know (Google, Apple, Uber, IBM, Netflix, GE, etc). During an in-person interview, the candidate chooses one card from each pile and then has to pitch me why Google would make a sewing machine. I play the part of the brand’s executive team and the candidate is pitching a new product. They have 1 minute to think and then 5 minutes to pitch their idea.
+This is a great judge of not only their creativity, but also their selling skills and their ability to think on their feet.
 
-The interesting thing is to see how their creativity starts to take over towards the end of the time (or not). This is a great judge of not only their creativity, but also their selling skills and their ability to think on their feet. Sometimes if someone gets a particular hard combination or if I’m on the fence following the first attempt, I’ll ask them to do it again. It might be a little nerve-racking for them, but it’s helped me hire incredibly creative designers with the ability to sell their designs."
+### Instructions
+1. Have the candidate chooses one item from each list below
+2. Then have them pitch you that product as if you're an executive
+3. Give them 1 minute to think about their pitch
+4. Give them 5 minutes to pitch their ideas to me to sell me on the idea
 
-https://uxdesign.cc/why-design-homework-doesnt-work-and-what-does-ae3554192035
+**Famous Brands**
+- Google
+- Apple
+- Adobe
+- Facebook
+- LinkedIn
+- Snap
+- Amazon
+
+**Everyday Product**
+- Ladder
+- Pencil
+- Sewing Machine
+- Couch
+- Water Bottle
+- Spoon
+
+### Evaluation
+- How do they describe the feeling a person should have?
+- Does it match the brand's values?
+- Does it match the brand's personality?
+- Was it convincing?
+- How many ideas did it incorporate?
+- Did they have endless ideas and run out of time? 
+- Did they communicate concisely? 
+
+---
+
+## Marketing Design Process Exercise
+
+
+
+
+
+
+## References
+- https://dribbble.com/stories/2019/11/12/guide-to-hiring-with-design-exercises
+- https://blog.prototypr.io/my-7-favorite-creative-exercises-ca8220999452
+- https://blog.prototypr.io/product-design-exercises-we-use-at-wework-interviews-2ee1f5a57319
+- https://library.gv.com/how-to-interview-a-designer-with-the-perfect-design-exercise-2c99e6646612
