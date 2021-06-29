@@ -137,3 +137,4 @@ An alternative to the in-person Design Interview.
 - https://uxdesign.cc/why-design-homework-doesnt-work-and-what-does-ae3554192035
 - https://uxdesign.cc/designing-the-interview-process-up-down-all-around-a1461f7cfa19
 - https://uxdesign.cc/https-medium-com-jonnyczar-we-need-to-talk-about-design-hiring-process-1d76774b35e4
+- https://www.onwardsearch.com/blog/2019/10/hiring-a-creative-director/
