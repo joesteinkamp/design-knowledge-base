@@ -17,7 +17,7 @@ Hiring manager and designer
 - Provide context to the user while you present
 - Critique it yourself as you present to make it more comfortable
 
-### Compentencies Evaluated
+### Competencies Evaluated
 - Interaction Design
 - Research & Analytics
 - Business Fluency
