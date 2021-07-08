@@ -108,7 +108,12 @@ This is a great judge of not only their creativity, but also their selling skill
 
 ## Marketing Design Process Exercise
 
+Landing Page
+Data Usage
 
+How to get audience to engage?
+
+Fake brief
 
 
 

@@ -17,8 +17,17 @@ The goal of this phone screen to find out if the candidate is the right level of
 
 
 ### Email Template
->We'd like to see work from one project to get a quick snapshot of your work and your design decision. We do not expect a presentation, and would rather see a single screen or short flow that was the final output for the project.
->We expect the project review to be around 10-15 minutes. Afterwards, there will be a couple more questions. Then we'll give the remaining time for questions.
+```
+Hi {Name},
+
+We're excited to learn more about your design experience. We'd like to see your most recent work to get a quick snapshot of your work and your design decisions. We do not expect a presentation. In fact, we would rather see only a single screen or short flow that was the final output for the project, even within your design tool is fine.
+
+We expect the project review to be around 10-15 minutes. Afterward, there will be a couple more questions. Then we'll give the remaining time for questions.
+
+At {Company Name}, we're responsible for the entire end-to-end design process and this call is focused on final output. We understand that there is a lot of depth to your process beyond the final out and we fully intend to go through that in our following step.
+
+Let us know if you have any questions.
+```
 
 ### Questions
 1. Please give a me a quick intro to the project. *Hope to hear about the user problem, business opportunity, and what success looks like.*
