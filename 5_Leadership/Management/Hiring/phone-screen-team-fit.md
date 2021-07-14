@@ -17,14 +17,17 @@ The goal of this phone screen to find out if the candidate is the right fit for 
 1. What are your career goals? What are you looking for? 
 2. What **don't** you want to do?
 3. How do you continue to advance your design knowledge? / How do you learn?
+   1. When is the last time you tried a new product? What was it? / What are your favorite products? Why?
 4. How have you improved the design practice from process to tool usage on your Design team? 
    1. What do you want to learn next?
-5. [Product Design Only] In your words, define the roles of product manager, engineering, and designer and describe how they work together successfully.
-6. When is the last time you tried a new product? What was it? / What are your favorite products? Why?
-7. Can you tell me about someone you’ve helped in your career? How?
-8. Tell us about the newest thing you’ve learned that has improved your design work. What was it? 
-   1. Why did you decide to invest time in it? How did you learn it? *Look for someone that is a self-learner.* 
-   2. How did you apply it afterwards? 
+5. What are you most proud of in your design career? *Look for if they talk about product, process, people, or other things to find passion areas*
+
+**Nice to Haves**
+* [Product Design Only] In your words, define the roles of product manager, engineering, and designer and describe how they work together successfully.
+* Can you tell me about someone you’ve helped in your career? How?
+* Tell us about the newest thing you’ve learned that has improved your design work. What was it? 
+  * Why did you decide to invest time in it? How did you learn it? *Look for someone that is a self-learner.* 
+  * How did you apply it afterwards? 
 
 *Lastly, request their portfolio details, if you don't already have it.*
 
