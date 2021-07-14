@@ -23,7 +23,6 @@ The goal of this phone screen to find out if the candidate is the right fit for 
 5. What are you most proud of in your design career? *Look for if they talk about product, process, people, or other things to find passion areas*
 
 **Nice to Haves**
-* [Product Design Only] In your words, define the roles of product manager, engineering, and designer and describe how they work together successfully.
 * Can you tell me about someone you’ve helped in your career? How?
 * Tell us about the newest thing you’ve learned that has improved your design work. What was it? 
   * Why did you decide to invest time in it? How did you learn it? *Look for someone that is a self-learner.* 
