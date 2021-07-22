@@ -1,6 +1,6 @@
 # Phone Screen: Design Execution
 
-*30 minutes*
+*30 - 40 minutes*
 
 The goal of this phone screen to find out if the candidate is the right level of design skills for our needs and expectations based on a quick evaluation of their recent work's design decisions as well as how they came to those conclusions.
 
@@ -20,7 +20,7 @@ The goal of this phone screen to find out if the candidate is the right level of
 ```
 Hi {Name},
 
-We're excited to learn more about your design experience. We'd like to see your most recent work to get a quick snapshot of your work and your design decisions. We do not expect a presentation. In fact, we would rather see only a single screen or short flow that was the final output for the project, even within your design tool is fine.
+We're excited to learn more about your design experience. We'd like to see your most recent work to get a quick snapshot of your work and your design decisions. We do not expect a presentation. In fact, we would rather see only a single screen or short flow that was the final output for the project, within your design tool is preferred.
 
 We expect the project review to be around 10-15 minutes. Afterward, there will be a couple more questions. Then we'll give the remaining time for questions.
 
@@ -29,17 +29,30 @@ At {Company Name}, we're responsible for the entire end-to-end design process an
 Let us know if you have any questions.
 ```
 
-### Questions
-1. Please give a me a quick intro to the project. *Hope to hear about the user problem, business opportunity, and what success looks like.*
-2. At a high-level, walk me through the design process?
-   1. Did you conduct research?
-   2. Was there an existing design system or patterns used? Intentional divergence?
-   3. Which design tool was this used? Why not the latest (Figma)?
-3. What did you reference or gather inspiration from?
-4. How did you receive and incorporate feedback on this project? 
-   1. In your mind, what makes an effective design critique?
-5. How do you know when your designs were done?
+### Intro to Interview
 
+```
+Good morning {Candidate's Name}, it's great to chat with you. Today we'll focus on your latest UI work. We completely understand that design is less about the output and more about the journey but as a product designer we're responsible for the end-to-end design and we'd like to give you an opportunity to show your latest output since we know how difficult it is to keep a portfolio site up-to-date. We'll spend the next step going into much more detail about your process.
+
+Before we dive in and have you screen share, Please give a me a quick intro to the project. *Hope to hear about the user problem, business opportunity, and what success looks like.*
+
+Excellent. Let's dive in. Please screen share a final mockup or prototype of your work.
+
+**Process Considerations**
+* Did they conduct research?
+* Did they explore many approaches?
+* Were they outcome-oriented?
+
+
+### Questions
+1. Was there an existing design system or patterns used? If so, was there any intentional divergence?
+2. What did you reference or gather inspiration from?
+3. What were you trying to prioritize?
+4. What is the expected eye flow? 
+5. How did you receive and incorporate feedback on this project? 
+   1. In your mind, what makes an effective design critique?
+6. How do you know when your designs were done?
+7. Which design tool was this used? Why not the latest (Figma)?
 
 ### Additional Questions
 1. How would you solve [insert design problem] if all of a sudden consumers couldn’t use computers, tablets, or phones?
