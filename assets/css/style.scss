@@ -34,6 +34,17 @@ body {
 
 h1, h2, h3, h4, h5, h6 { color: $blackColor; }
 
+pre {
+    overflow-x: auto;
+    padding: 8px 15px;
+    background: $lightGrayColor;
+    border-radius: 5px;
+    border-width: 1px;
+    border-style: solid;
+    border-color: $grayColor;
+    border-image: initial
+}
+
 a:hover, a:focus {
     color: $primaryColor;
     font-weight: inherit;
