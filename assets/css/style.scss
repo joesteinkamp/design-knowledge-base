@@ -44,13 +44,6 @@ a:hover, a:focus {
     margin: 0;
 }
 
-
-header{
-    
-
-    
-} 
-
 header { 
     float: none;
     width: 100%;
@@ -125,22 +118,8 @@ header {
         li {
             display: inline-block;
             padding-right: 24px;
-
-            a:hover { 
-                text-decoration: underline; 
-            }
         }
         li:last-child { padding-right: 0; }
-    }
-
-        
-        
-    }
-    li, ul li+li+li {
-        width: auto;
-        float: none;
-        border-right: 0;
-        height: auto;
     }
 }
 

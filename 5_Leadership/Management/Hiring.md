@@ -3,7 +3,7 @@
 ## Table of Contents
 1. [Getting Started](#getting-started)
 2. [Candidate Pre-Review](#candidate-pre-review)
-3. [Phone Screens](#phone-screen)
+3. [Phone Screens](#phone-screens)
 4. [Background Interview](#background-interview)
 5. [Portfolio Presentation](#portfolio-presentation)
 6. [Product Critique](#product-critique)
