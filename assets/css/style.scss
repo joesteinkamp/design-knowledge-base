@@ -42,7 +42,8 @@ pre {
     border-width: 1px;
     border-style: solid;
     border-color: $grayColor;
-    border-image: initial
+    border-image: initial;
+    white-space: pre-wrap;
 }
 
 a:hover, a:focus {
