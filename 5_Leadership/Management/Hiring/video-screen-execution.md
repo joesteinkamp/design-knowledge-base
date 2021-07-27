@@ -1,8 +1,8 @@
-# Phone Screen: Design Execution
+# Video Screen: Design Execution
 
 *30 - 40 minutes*
 
-The goal of this phone screen to find out if the candidate is the right level of design skills for our needs and expectations based on a quick evaluation of their recent work's design decisions as well as how they came to those conclusions.
+The goal of this video screen to find out if the candidate is the right level of design skills for our needs and expectations based on a quick evaluation of their recent work's design decisions as well as how they came to those conclusions.
 
 ## Product Designer
 
@@ -20,11 +20,15 @@ The goal of this phone screen to find out if the candidate is the right level of
 ```
 Hi {Name},
 
-We're excited to learn more about your design experience. We'd like to see your most recent work to get a quick snapshot of your work and your design decisions. We do not expect a presentation. In fact, we would rather see only a single screen or short flow that was the final output for the project, within your design tool is preferred.
+We're excited to learn more about your design experience. We'd like to see your most recent UI work that represents your visual and interaction design skills. We do not want a presentation. In fact, we would rather see only a single screen or short flow that was the final output for the project, within your design tool is preferred.
 
-We expect the project review to be around 10-15 minutes. Afterward, there will be a couple more questions. Then we'll give the remaining time for questions.
+At {Company Name}, we're responsible for the entire end-to-end design process and this call is focused on final output. We understand that there is a lot of depth to your process beyond the final out and we fully intend to go through that in our following hour and a half step.
 
-At {Company Name}, we're responsible for the entire end-to-end design process and this call is focused on final output. We understand that there is a lot of depth to your process beyond the final out and we fully intend to go through that in our following step.
+We expect the project review to be around 10-15 minutes and will be with the {Hiring Manager} and possibly another designer. Then we'll give the remaining time to you for questions.
+
+Tips
+- Show work that best represents UI skills through a more complex screen or flow (ex. desktop or mobile flow with variety of screen)
+- Focus 1 minute overview on the problems and jobs to be done you're trying to solve and less on process
 
 Let us know if you have any questions.
 ```

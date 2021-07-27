@@ -3,7 +3,7 @@
 ## Table of Contents
 1. [Getting Started](#getting-started)
 2. [Candidate Pre-Review](#candidate-pre-review)
-3. [Phone Screens](#phone-screens)
+3. [Screens](#screens)
 4. [Background Interview](#background-interview)
 5. [Portfolio Presentation](#portfolio-presentation)
 6. [Product Critique](#product-critique)
@@ -61,17 +61,17 @@ A quick review of the candidate's entire portfolio. If possible, find their port
 
 [View Portfolio Evaluation Details](./Hiring/portfolio-evaluation.md)
 
-## Phone Screens
+## Screens
 
 ### Phone Screen: Team Fit
 The goal of this phone screen to find out if the candidate is the right fit for the company and the team based on soft skills, potential interest, and communication skills. It's also important to understand what they're passionate about and if it aligns with our goals.
 
 [View Details](./Hiring/phone-screen-team-fit.md)
 
-### Phone Screen: Design Execution
-The goal of this phone screen to find out if the candidate is the right level of design skills for our needs and expectations based on a quick evaluation of their recent work's design decisions as well as how they came to those conclusions.
+### Video Screen: Design Execution
+The goal of this video screen to find out if the candidate is the right level of design skills for our needs and expectations based on a quick evaluation of their recent work's design decisions as well as how they came to those conclusions.
 
-[View Details](./Hiring/phone-screen-execution.md)
+[View Details](./Hiring/video-screen-execution.md)
 
 
 ## Background Interview
