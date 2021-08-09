@@ -11,10 +11,11 @@ Hiring manager and designer
 - What would they be excited about changing? 
 - How do they think it could be improved? 
 - How would they work with you to figure out the best design and solution? 
-- How much do they focus on understanding the customer versus focus on design best practices?
+- How much do they focus on understanding the user versus focus on design best practices?
+  - Do they ask questions about the context of use, jobs to be done, user goals and other user details?
 
 ### Tips
-- Provide context to the user while you present
+- Provide context to the candidate while you present but leave out some details hoping for questions
 - Critique it yourself as you present to make it more comfortable
 
 ### Competencies Evaluated
