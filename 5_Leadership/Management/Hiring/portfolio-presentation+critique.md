@@ -29,6 +29,13 @@ What’s the project you worked on that you’re most proud of?
 Either select three competencies or all and rate them from 0 - 4. Leverage the [Design Skills Assessment App](http://designskillsassessment.joesteinkamp.com) for guidance.
 
 
+### Intro
+```
+Excited to have you and meet other designers.
+
+Pause after each slide 
+
+
 ### Email Template
 
 ```

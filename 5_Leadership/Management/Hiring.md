@@ -82,17 +82,17 @@ The goal of the Background Interview is to deeply understand their career past a
 
 ## Portfolio Presentation
 
-[View Portfolio Presentation Details](./Hiring/portfolio-presentation.md)
- | [Critique Variant](./Hiring/portfolio-presentation+critique.md)
+- [Critique Style](./Hiring/portfolio-presentation+critique.md)
+- [Presentation Style](./Hiring/portfolio-presentation.md) 
 
 
-## Design Exercise
+## Design Interview
 
-[View Design Exercises](Hiring/design-exercises.md)
+[View Exercise with Product Critique](Hiring/exercise+product-critique.md)
 
-
-## Product Critique
-[View Product Critique Details](./Hiring/product-critique.md)
+**Alternatives**
+- [View Design Exercises](Hiring/design-exercises.md)
+- [View Product Critique Details](./Hiring/product-critique.md)
 
 
 ## One-on-One Conversations
