@@ -16,9 +16,8 @@ Pick key areas of your product that even a first time. Suggestions: Home, Search
 4. Individually define the problem and opportunity space to provide context for exploring how to solve it (ex. mind maps, mental models, journeys, etc..) [10m]
 5. Review definition as a group
 6. Sketch ideas
-7. Storyboard
-8. Candidate Presents Theres & One Evaluator Presents (whoever is most excited)
-9.  Discussion: Likes, Dislikes, Questions
+7. Candidate Presents There's & One Evaluator Presents (whoever is most excited)
+8.  Discussion: Likes, Dislikes, Questions
 
 
 ### Expectation Setting
