@@ -12,8 +12,9 @@ Hiring manager, designer, product manager
 ### Prep
 
 1. Create a Figma board (or an alternative digital whiteboard)
-2. Review agenda
-3. Pick key areas of your product that even a first time. Suggestions: Home, Search, Onboarding, Reading, Navigation, Notifications, Common Consumer Features (ex.shopping cart).
+2. Prepare product demo flow, if needed.
+3. Review agenda
+4. Pick key areas of your product that even a first time. Suggestions: Home, Search, Onboarding, Reading, Navigation, Notifications, Common Consumer Features (ex.shopping cart).
 
 #### Expectation Setting
 
