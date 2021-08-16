@@ -3,37 +3,71 @@ Interview method to get candidates away from scripted process and be able to see
 
 ### Time
 90 minutes
+- 1h 15m of exercise
+- 15m for candidate's questions
 
 ### Participants
 Hiring manager, designer, product manager
 
-### Agenda
-Pick key areas of your product that even a first time. Suggestions: Home, Search, Reading, Navigation, Notifications, Common Consumer Features (ex.shopping cart).
+### Prep
 
-1. Review Product Main Experiences [15m]
-2. Critique Focus Area [15m]
-3. Intro opportunity to focus on and
-4. Individually define the problem and opportunity space to provide context for exploring how to solve it (ex. mind maps, mental models, journeys, etc..) [10m]
-5. Review definition as a group
-6. Sketch ideas
-7. Candidate Presents There's & One Evaluator Presents (whoever is most excited)
-8.  Discussion: Likes, Dislikes, Questions
+1. Create a Figma board (or an alternative digital whiteboard)
 
 
-### Expectation Setting
+#### Expectation Setting
 
 - Have means to do rapid sketches (pen & paper, iPad & pencil, whiteboard, etc...)
 - Have a camera to be able to upload sketches
 - Figma account for uploading sketches not designing
 
 
-#### Email Template
+### Agenda
+Pick key areas of your product that even a first time. Suggestions: Home, Search, Onboarding, Reading, Navigation, Notifications, Common Consumer Features (ex.shopping cart).
+
+1. Review Product Main Experiences [10m]
+2. Intro Focus Area, Call Out Problems and Opportunities, Encourage Questions [10m]
+   1. Tips: Have data prepared to share as they ask
+3. Individually define the problem and opportunity space to provide context for exploring how to solve it (ex. mind maps, mental models, journeys, etc..) [5m]
+4. Review definition as a group [10m]
+   1. Candidate and designer shares
+   2. Product and hiring manager contribute elaborations or gaps
+   3. Pause for clarifying questions from candidate
+5. Hand it over to the candidate - Ask them, "What would you next?". [30m]
+   1. Instructions to give: 
+      1. Goal is to have directional sketches that represent a vision of where it could go.
+      2. Feel free to make assumptions or ask us if you need more data. We will provide it or make assumptions as well. 
+   2. Tips
+      1. If needed, hiring manager takes lead on coaching.
+      2. Interview group are expected to ask questions and participate as if they were collaborating with any other teammate
+6. Closing discussion [10m]
+   1. Candidate presents recommendation
+   2. Hiring team asks questions, state likes and dislikes
+   3. Thank them
+7. Questions from candidate [15m]
+
+
+
+#### Questions to Ask / Statements
+
+- Where would you go from here?
+- How would you break down the priorities?
+- How would get alignment? 
+- Why did you approach it that way? What about alternatives?
+- What are you using for inspiration?
+- State what you like and dislike
+
+
+
+
+### Email Template
 ```
 Hi {Name},
 
 Thank you so much for all of your time so far, and for sharing such a comprehensive presentation to the team. The team really enjoyed learning more about your design process and contributions, and all agreed that they would love to invite you to the final step in our interview process before references.
 
-In this final round, you will get a chance to see our product in detail and work through a collaborative exercise to improve it. The meeting will be with {hiring manager} along with 1-2 designers, and a {product manager / leader}. The goal is to really understand how you think through new problems and how we can collaborate together. The only preparation would be to bring some from a sketching material (pen & paper, iPad, etc...) so you can upload some ideas into a Figma file that we'll share with you.
+In this final round, you will get a chance to see our product in detail and work through a collaborative exercise to improve it. The meeting will be with {hiring manager} along with 1-2 designers, and a {product manager / leader}. The exercise portion will take about an hour. 
+
+You'll be expected to lead us through how you'd approach thinking strategically on where to take the feature and define a directional sketch of where it could go. The group is there to collaborate with but we'll be following your lead. We're specifically looking to understand how you think through new problems and how we collaborate together. We will not be grading the solution. The only preparation would be to bring some from a sketching material (pen & paper, iPad, etc...) so you can upload some ideas into a Figma file that we'll share with you.
 
 We'd like to schedule about 90 minutes for this meeting. Please provide your upcoming availability.
 ```
@@ -55,7 +89,7 @@ Research & Analytics
 Business Fluency
 Leadership Scope - how broad or narrow is their thinking?
 
-#### Questions to Answer
+#### Evaluative Questions to Answer
 - What knowledge are they able to pull from? How deep is their product and design knowledge that they can pull from on the spot? 
 - How do they think? What is their process (without scripting / idealistic)? Was were gaps in their thinking? What were there?
 - How fast are they? Are you confident they'd be able to move at the speed necessary for our organization?
