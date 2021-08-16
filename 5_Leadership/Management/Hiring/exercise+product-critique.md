@@ -12,7 +12,8 @@ Hiring manager, designer, product manager
 ### Prep
 
 1. Create a Figma board (or an alternative digital whiteboard)
-
+2. Review agenda
+3. Pick key areas of your product that even a first time. Suggestions: Home, Search, Onboarding, Reading, Navigation, Notifications, Common Consumer Features (ex.shopping cart).
 
 #### Expectation Setting
 
@@ -22,7 +23,6 @@ Hiring manager, designer, product manager
 
 
 ### Agenda
-Pick key areas of your product that even a first time. Suggestions: Home, Search, Onboarding, Reading, Navigation, Notifications, Common Consumer Features (ex.shopping cart).
 
 1. Review Product Main Experiences [10m]
 2. Intro Focus Area, Call Out Problems and Opportunities, Encourage Questions [10m]
@@ -34,14 +34,16 @@ Pick key areas of your product that even a first time. Suggestions: Home, Search
    3. Pause for clarifying questions from candidate
 5. Hand it over to the candidate - Ask them, "What would you next?". [30m]
    1. Instructions to give: 
-      1. Goal is to have directional sketches that represent a vision of where it could go.
-      2. Feel free to make assumptions or ask us if you need more data. We will provide it or make assumptions as well. 
+      1. Goal is to have directional sketches that represent a vision of where it could go within 30 minutes. 
+      2. Reiterate the problem(s) to solve
+      3. Feel free to make assumptions or ask us if you need more data - we're here to help. We will provide it or make assumptions as well. 
    2. Tips
-      1. If needed, hiring manager takes lead on coaching.
-      2. Interview group are expected to ask questions and participate as if they were collaborating with any other teammate
+      1. If needed, hiring manager takes lead on coaching and answering questions but anyone can chime in as we go.
+      2. Interview group are expected to ask questions, provide feedback, and participate as if they were collaborating with any other teammate.
+      3. Show interest in the candidate's solution and be engaged.
 6. Closing discussion [10m]
    1. Candidate presents recommendation
-   2. Hiring team asks questions, state likes and dislikes
+   2. Hiring team asks questions, state likes and dislikes, provides feedback
    3. Thank them
 7. Questions from candidate [15m]
 
@@ -80,16 +82,16 @@ For this round, we'll all go through the exercise together of improving part of 
 We'll decide the focus area for the exercise ahead of time and that should be communicated to all evaluators. 
 
 #### Competencies
-Humility *- How well did they take feedback and handle different opinions? How well did they work with us?*
-Communication *- How well did they eloquently describe their thinking and questions? *
-Grit & Passion *- How well did they demonstrate their excitement for design details and user problems?*
-Interaction Design *- How attuned were they to key interaction details of the product? Did their solutions have thoughtful interactions?* 
-Information Architecture *- Where they able to clearly organize the information and describe a understandable flow?*
-Research & Analytics
-Business Fluency
-Leadership Scope - how broad or narrow is their thinking?
+- Humility *- How well did they take feedback and handle different opinions? Do they ask for feedback? How well did they work with us?*
+- Communication *- How well did they eloquently describe their thinking and questions?*
+- Grit & Passion *- How well did they demonstrate their excitement for design details and user problems?*
+- Interaction Design *- How attuned were they to key interaction details of the product? Did their solutions have thoughtful interactions?* 
+- Information Architecture *- Where they able to clearly organize the information and describe an understandable flow?*
+- Research & Analytics *- Did they define the problems well and centered around the user?*
+- Business Fluency *- Do they effectively balance the user problems with the business opportunities? How well do they capture a compelling product vision?*
+- Leadership Scope *- How broad is their thinking? Do they effectively drive the conversation?*
 
-#### Evaluative Questions to Answer
+#### Other Evaluative Questions to Answer
 - What knowledge are they able to pull from? How deep is their product and design knowledge that they can pull from on the spot? 
 - How do they think? What is their process (without scripting / idealistic)? Was were gaps in their thinking? What were there?
 - How fast are they? Are you confident they'd be able to move at the speed necessary for our organization?
