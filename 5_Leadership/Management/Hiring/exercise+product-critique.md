@@ -33,7 +33,7 @@ Hiring manager, designer, product manager
    1. Candidate and designer shares
    2. Product and hiring manager contribute elaborations or gaps
    3. Pause for clarifying questions from candidate
-5. Hand it over to the candidate - Ask them, "What would you next?". [30m]
+5. Hand it over to the candidate - Ask them, "What would you do next?". [30m]
    1. Instructions to give: 
       1. Goal is to have directional sketches that represent a vision of where it could go within 30 minutes. 
       2. Reiterate the problem(s) to solve
