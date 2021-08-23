@@ -11,46 +11,62 @@ Hiring manager, designer, product manager
 
 ### Prep
 
-1. Create a Figma board (or an alternative digital whiteboard)
-2. Prepare product demo flow, if needed.
-3. Review agenda
-4. Pick key areas of your product that even a first time. Suggestions: Home, Search, Onboarding, Reading, Navigation, Notifications, Common Consumer Features (ex.shopping cart).
+1. Pick key areas of your product that even a first time. Suggestions: Home, Search, Onboarding, Reading, Navigation, Notifications, Common Consumer Features (ex.shopping cart).
+2. Define the design brief of the exercise. Include:
+   1. Outline the ask (Tip: focus more on broad directions), what success looks like, and scope
+   2. Provide key data points and anecdotes
+3. Create a Figma board (or an alternative digital whiteboard). Include:
+   1. Primary flow of product
+   2. Reiteration of instructions provided in email
+   3. Design brief
+   4. Space for problem definition and solution ideation
+
+
+
+Instructions
+1. 
+- Expectations to communicate visually - sketch and use Figma
+
+
+
+**Day Before Interview**
+Send email that includes product credentials, link to product, and Figma link
+
+**Day of Interview**
+Answer any questions the candidate noted in Figma, if applicable.
+
 
 #### Expectation Setting
 
-- Have means to do rapid sketches (pen & paper, iPad & pencil, whiteboard, etc...)
-- Have a camera to be able to upload sketches
-- Figma account for uploading sketches not designing
+INSTRUCTIONS:
+We’ll be conducting a digital whiteboard exercise where your goal is to design a single directional solution for the given opportunity within an hour.
+
+EXPECTATIONS:
+- Communicate visually - have for rapid sketches (pen & paper, etc...) or use Figma but prioritize speed
+  - Focus on the quickest way to communicate a point rather than getting too caught up in the details
+  - As much as possible, speak your thoughts aloud as you visualize
+  - Take time to pause, as needed
+- You’re expected to showcase your work but you’re not alone in this exercise, remember to leverage us (imagine we’re all at a whiteboard together)
+- Feel free to make assumptions or ask us if you need more data - we're here to help. We will provide it or make assumptions as well. 
 
 
 ### Agenda
 
-1. Review Product Main Experiences [10m]
-2. Intro Focus Area, Call Out Problems and Opportunities, Encourage Questions [10m]
-   1. Tips: Have data prepared to share as they ask
-3. Individually define the problem and opportunity space to provide context for exploring how to solve it (ex. mind maps, mental models, journeys, etc..) [5m]
-4. Review definition as a group [10m]
-   1. Candidate and designer shares
-   2. Product and hiring manager contribute elaborations or gaps
-   3. Pause for clarifying questions from candidate
-5. Hand it over to the candidate - Ask them, "What would you do next?". [30m]
-   1. Instructions to give: 
-      1. Goal is to have directional sketches that represent a vision of where it could go within 30 minutes. 
-      2. Reiterate the problem(s) to solve
-      3. Feel free to make assumptions or ask us if you need more data - we're here to help. We will provide it or make assumptions as well. 
-   2. Tips
-      1. If needed, hiring manager takes lead on coaching and answering questions but anyone can chime in as we go.
-      2. Interview group are expected to ask questions, provide feedback, and participate as if they were collaborating with any other teammate.
-      3. Show interest in the candidate's solution and be engaged.
-6. Closing discussion [10m]
-   1. Candidate presents recommendation
-   2. Hiring team asks questions, state likes and dislikes, provides feedback
-   3. Thank them
-7. Questions from candidate [15m]
+1. Introduction of the brief and clarifying questions with hiring manager [10m]
+2. Individual Time [20m]
+3. Check-in with panel [10m]
+4. Riff together [20m]
+5. Final Check-in [10m]
+6. Questions from candidate [20m]
 
 
+#### Panel Tips
+- If needed, hiring manager takes lead on coaching and answering questions but anyone can chime in as we go.
+- Interview group are expected to ask questions, provide feedback, and participate as if they were collaborating with any other teammate.
+- Show interest in the candidate's solution and be engaged.
 
-#### Questions to Ask / Statements
+
+#### Panel Questions to Ask / Statements
 
 - Where would you go from here?
 - How would you break down the priorities?
@@ -62,18 +78,47 @@ Hiring manager, designer, product manager
 
 
 
-### Email Template
+### Email Templates
+
+#### Design Exercise Invite
 ```
-Hi {Name},
+Hi {{Candidate Name}},
 
-Thank you so much for all of your time so far, and for sharing such a comprehensive presentation to the team. The team really enjoyed learning more about your design process and contributions, and all agreed that they would love to invite you to the final step in our interview process before references.
+We really enjoyed learning more about your design process and the team was very impressed. We’re excited to invite you to our final round interview, which is an exercise to improve part of our product. 
 
-In this final round, you will get a chance to see our product in detail and work through a collaborative exercise to improve it. The meeting will be with {hiring manager} along with 1-2 designers, and a {product manager / leader}. The exercise portion will take about an hour. 
+The exercise will be done completely in real-time and attempt to recreate a whiteboard experience as much as possible. It will be a mixture of individual effort and group collaboration to avoid homework - you’ll lead the collaboration but we encourage you to leverage us as much as possible. It will include the hiring manager along with 1-2 designers, and {{PM / Product Leader}}. Lastly, we’ll be specifically looking to understand how you think through new problems and how we collaborate together - we will not be grading the solution. 
 
-You'll be expected to lead us through how you'd approach thinking strategically on where to take the feature and define a directional sketch of where it could go. The group is there to collaborate with but we'll be following your lead. We're specifically looking to understand how you think through new problems and how we collaborate together. We will not be grading the solution. The only preparation would be to bring some from a sketching material (pen & paper, iPad, etc...) so you can upload some ideas into a Figma file that we'll share with you.
+We'll provide the focus area for the exercise details one day in advance to limit the desire to do homework. We’ll also provide access to the product ahead of time so you can get to know our product a little better.
 
-We'd like to schedule about 90 minutes for this meeting. Please provide your upcoming availability.
+When is a good time for you for the hour and a half for the design exercise {{next week}}?
+
+Looking forward to hearing from you,
+
+{{Signature}}
 ```
+
+
+#### Day Before Reminder & Additional Info
+```
+Hi {{Candidate Name}},
+
+We’re excited to have you join us tomorrow to run through our design exercise together. The interview will be a digital whiteboard exercise where you’ll lead us through your approach to solving our design brief within the hour. The last 30 minutes will be for questions.
+
+To prepare for the exercise, we’ve created a Figma file for us to work through. The file includes screenshots of the primary flow of our client users and the design brief. The focus of the brief is to reimagine our Homepage to be a more engaging destination. Please take 5-10 minutes to review the screenshots as a reference to acclimate yourself to our product and review the full details in the brief. **The brief includes important details you don’t want to miss, including an outline of the schedule.**
+
+In addition to the screenshots, we’ve created a staging login for you to check out our product on our on time. There are no expectations that you considerable time in here and it’s more of a reference for you to understand where our maturity is at and inspire questions.
+
+Let me know if you have any questions.
+
+Figma File: {{Figma File Link}}
+
+{{Product Link}}
+Username: {{Username}
+Password: {{Password}}
+```
+
+
+
 
 ### Evaluation
 
