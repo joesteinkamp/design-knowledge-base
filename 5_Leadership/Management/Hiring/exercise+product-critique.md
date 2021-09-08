@@ -82,25 +82,25 @@ EXPECTATIONS:
 
 #### Design Exercise Invite
 ```
-Hi {{Candidate Name}},
+Hi {Candidate Name},
 
 We really enjoyed learning more about your design process and the team was very impressed. We’re excited to invite you to our final round interview, which is an exercise to improve part of our product. 
 
-The exercise will be done completely in real-time and attempt to recreate a whiteboard experience as much as possible. It will be a mixture of individual effort and group collaboration to avoid homework - you’ll lead the collaboration but we encourage you to leverage us as much as possible. It will include the hiring manager along with 1-2 designers, and {{PM / Product Leader}}. Lastly, we’ll be specifically looking to understand how you think through new problems and how we collaborate together - we will not be grading the solution. 
+The exercise will be done completely in real-time and attempt to recreate a whiteboard experience as much as possible. It will be a mixture of individual effort and group collaboration to avoid homework - you’ll lead the collaboration but we encourage you to leverage us as much as possible. It will include the hiring manager along with 1-2 designers, and {PM / Product Leader}. Lastly, we’ll be specifically looking to understand how you think through new problems and how we collaborate together - we will not be grading the solution. 
 
 We'll provide the focus area for the exercise details one day in advance to limit the desire to do homework. We’ll also provide access to the product ahead of time so you can get to know our product a little better.
 
-When is a good time for you for the hour and a half for the design exercise {{next week}}?
+When is a good time for you for the hour and a half for the design exercise {next week}?
 
 Looking forward to hearing from you,
 
-{{Signature}}
+{Signature}
 ```
 
 
 #### Day Before Reminder & Additional Info
 ```
-Hi {{Candidate Name}},
+Hi {Candidate Name},
 
 We’re excited to have you join us tomorrow to run through our design exercise together. The interview will be a digital whiteboard exercise where you’ll lead us through your approach to solving our design brief within the hour. The last 30 minutes will be for questions.
 
@@ -110,11 +110,11 @@ In addition to the screenshots, we’ve created a staging login for you to check
 
 Let me know if you have any questions.
 
-Figma File: {{Figma File Link}}
+Figma File: {Figma File Link}
 
-{{Product Link}}
-Username: {{Username}
-Password: {{Password}}
+{Product Link}
+Username: {Username}
+Password: {Password}
 ```
 
 
