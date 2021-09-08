@@ -99,6 +99,9 @@ The goal of the Background Interview is to deeply understand their career past a
 [View One-on-One Conversations Details](./Hiring/one-on-one-convos.md)
 
 
+## Cross Functional Teammamte Interview
+[View Cross Functional Teammate Interview Details](Hiring/cross-functional-teammate-interview.md)
+
 ## Reference Check
 
 [View Reference Check](./Hiring/reference-check.md)
