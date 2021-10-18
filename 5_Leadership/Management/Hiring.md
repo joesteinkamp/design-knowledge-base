@@ -27,7 +27,7 @@
 
 ### Assessing Candidates at Each Step
 - Take notes
-- Rate applicable compentencies based on [Design Skill Assessment](http://designskillassessment.joesteinkamp.com)
+- Rate applicable competencies based on [Design Skill Assessment](http://designskillassessment.joesteinkamp.com)
 - Determine culture fit
 - Run debriefs with other participants of the process
 
@@ -37,7 +37,7 @@ Leverage a job description template
 **Scorecard**
 1. Write a thank you letter to the new employee as if a year has gone by and you list off what they've accomplished.
 2. Write those accomplishments/outcomes as role expectations
-3. Determine compentencies that are most important to the role
+3. Determine competencies that are most important to the role
 
 ### Source Candidates
 1. Reach out to your existing network
@@ -55,6 +55,8 @@ Leverage a job description template
 A quick review of the candidate's resume to look for good signals of expected experience level.
 
 [View Resume Review Details](./Hiring/resume-review.md)
+
+[Recruiting Profile Requirements](./Hiring/recruiting-profile-requirements.md)
 
 ### Portfolio Evaluation
 A quick review of the candidate's entire portfolio. If possible, find their portfolio on your own. A recent trend is more portfolios are behind passwords. When the candidate says they're interested in the role, request access to their portfolio for the team to better understand their work experience. 

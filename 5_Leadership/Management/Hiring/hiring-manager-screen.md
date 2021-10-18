@@ -21,7 +21,8 @@
 2. How do you know when your designs are done? *How do you measure the success of your designs?*
    1. *DESIRED ANSWER:* "never done", Focus on function / solving problem not visuals, accomplishing user goals, success metrics, user testing (to gather qualitative data)
 3. [Conduct Design Execution Screen](execution-screen.md)
-4. [Product Demo](product-demo.md)
+4. Time for candidate's questions
+5. [Product Demo](product-demo.md)
 
 
 
