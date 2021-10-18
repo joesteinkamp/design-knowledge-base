@@ -15,24 +15,6 @@ The goal of this video screen to find out if the candidate is the right level of
 - Teamwork & Collaboration
 - Communication
 
-
-### Email Template
-```
-Hi {Name},
-
-We're excited to learn more about your design experience. We'd like to see your most recent UI work that represents your visual and interaction design skills. We do not want a presentation. In fact, we would rather see only a single screen or short flow that was the final output for the project, within your design tool is preferred.
-
-At {Company Name}, we're responsible for the entire end-to-end design process and this call is focused on final output. We understand that there is a lot of depth to your process beyond the final out and we fully intend to go through that in our following hour and a half step.
-
-We expect the project review to be around 10-15 minutes and will be with the {Hiring Manager} and possibly another designer. Then we'll give the remaining time to you for questions.
-
-Tips
-- Show work that best represents UI skills through a more complex screen or flow (ex. desktop or mobile flow with variety of screen)
-- Focus 1 minute overview on the problems and jobs to be done you're trying to solve and less on process
-
-Let us know if you have any questions.
-```
-
 ### Intro to Interview
 
 ```
@@ -63,6 +45,23 @@ Excellent. Let's dive in. Please screen share a final mockup or prototype of you
 1. How would you solve [insert design problem] if all of a sudden consumers couldn’t use computers, tablets, or phones?
 
 
+### Email Template
+```
+Hi {Name},
+
+We're excited to learn more about your design experience. We'd like to see your most recent UI work that represents your visual and interaction design skills. We do not want a presentation. In fact, we would rather see only a single screen or short flow that was the final output for the project, within your design tool is preferred.
+
+At {Company Name}, we're responsible for the entire end-to-end design process and this call is focused on final output. We understand that there is a lot of depth to your process beyond the final out and we fully intend to go through that in our following hour and a half step.
+
+We expect the project review to be around 10-15 minutes and will be with the {Hiring Manager} and possibly another designer. Then we'll give the remaining time to you for questions.
+
+Tips
+- Show work that best represents UI skills through a more complex screen or flow (ex. desktop or mobile flow with variety of screen)
+- Focus 1 minute overview on the problems and jobs to be done you're trying to solve and less on process
+
+Let us know if you have any questions.
+```
+
 ### Evaluation
 #### Craft
 - How polished are your designs? Do they feel well-crafted and refined? Are they aesthetically pleasing?
@@ -78,3 +77,4 @@ Excellent. Let's dive in. Please screen share a final mockup or prototype of you
 ## References
 1. https://tech.buzzfeed.com/crafting-the-product-design-hiring-experience-part-one-65c924bc7a41
 2. https://tech.buzzfeed.com/crafting-the-product-design-hiring-experience-part-two-add787570f8f
+3. https://www.khoslaventures.com/ux-recruiting-toolkit-interviewing-ux-candidates-57

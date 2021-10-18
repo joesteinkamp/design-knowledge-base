@@ -11,7 +11,7 @@
 #### Mid-Level
 - Minimum of 1 year of experience
 - Ideally, attempts of having an online presence (Ex. Medium articles, prototypes, code experiments, community participation, etc…)
-- Some sort of continued education OR demonstrated desire to stay up to date with trends/news OR strong design community (could be added to your second bullet)
+- Some sort of continued education or participation in the design community (Ex. Certificates, LinkedIn courses, etc..)
 
 #### Senior+
 - Career progression in single company - see that company invested and rewarded them
