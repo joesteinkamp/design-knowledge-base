@@ -70,8 +70,9 @@ The goal of this phone screen to find out if the candidate is the right fit for 
 
 [View Details](./Hiring/screen-phone.md)
 
-### Video Screen: Process & Design Execution
-The goal of this video screen to find out if the candidate is the right level of design skills for our needs and expectations based on a quick evaluation of their recent work's design decisions as well as how they came to those conclusions.
+### Hiring Manager Screen: Process & Design Execution
+
+The goal of this screen is to find out if the candidate has the right level of design skills for your needs and expectations based on some process questions and quick evaluation of their recent UI work. 
 
 [View Details](./Hiring/screen-hiring-manager.md)
 
