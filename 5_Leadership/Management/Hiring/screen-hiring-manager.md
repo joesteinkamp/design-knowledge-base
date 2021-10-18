@@ -20,9 +20,13 @@
    1. *DESIRED ANSWER:* Research, Facilitation (Design Thinking) of Workshops, High collaboration with engineers/devs, Multiple Prototypes, Testing Designs, UX artifacts mentioned - journey maps, adaptable based on context*
 2. How do you know when your designs are done? *How do you measure the success of your designs?*
    1. *DESIRED ANSWER:* "never done", Focus on function / solving problem not visuals, accomplishing user goals, success metrics, user testing (to gather qualitative data)
-3. [Conduct Design Execution Screen](execution-screen.md)
-4. Time for candidate's questions
-5. [Product Demo](product-demo.md)
+3. How would you prioritize your Design skills? [Design Execution, UX, Leadership, Product Thinking] 
+4. Why are you interested in our company?
+   1. *DESIRED ANSWER:* Look for understanding/alignment of your environment (startup v. corporate)
+5. What would your current boss say are your strengths and areas for improvement? *Look for understanding of areas for growth, identify environments not meant for them*
+6. [Conduct Design Execution Screen](execution-screen.md)
+7. Time for candidate's questions
+8. [Product Demo](product-demo.md)
 
 
 
