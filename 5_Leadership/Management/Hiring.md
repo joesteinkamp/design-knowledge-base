@@ -68,12 +68,12 @@ A quick review of the candidate's entire portfolio. If possible, find their port
 ### Phone Screen: Team Fit
 The goal of this phone screen to find out if the candidate is the right fit for the company and the team based on soft skills, potential interest, and communication skills. It's also important to understand what they're passionate about and if it aligns with our goals.
 
-[View Details](./Hiring/phone-screen-team-fit.md)
+[View Details](./Hiring/screen-phone.md)
 
-### Video Screen: Design Execution
+### Video Screen: Process & Design Execution
 The goal of this video screen to find out if the candidate is the right level of design skills for our needs and expectations based on a quick evaluation of their recent work's design decisions as well as how they came to those conclusions.
 
-[View Details](./Hiring/video-screen-execution.md)
+[View Details](./Hiring/screen-hiring-manager.md)
 
 
 ## Background Interview
