@@ -1,6 +1,6 @@
-# Video Screen: Design Execution
+# Design Execution Screen
 
-*30 - 40 minutes*
+*10 - 20 minutes*
 
 The goal of this video screen to find out if the candidate is the right level of design skills for our needs and expectations based on a quick evaluation of their recent work's design decisions as well as how they came to those conclusions.
 

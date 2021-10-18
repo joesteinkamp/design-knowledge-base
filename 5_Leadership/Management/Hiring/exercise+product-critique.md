@@ -52,12 +52,10 @@ EXPECTATIONS:
 
 ### Agenda
 
-1. Introduction of the brief and clarifying questions with hiring manager [10m]
-2. Individual Time [20m]
-3. Check-in with panel [10m]
-4. Riff together [20m]
-5. Final Check-in [10m]
-6. Questions from candidate [20m]
+1. Ask clarifying questions with hiring manager. [10m]
+2. Individual Time [25m]
+3. Receive feedback & Riff together [35m]
+4. Questions from candidate [20m]
 
 
 #### Panel Tips
