@@ -32,3 +32,8 @@ PM & Engineer (ideally from team they'll join)
 - How do you know your designs have been successfully received by users?
 - How do you prioritize your designs when under constraints, such as time and feasibility?
 - When do you stand up for your design vs changing it to realistic pressures?
+
+
+## Reference
+- https://uxdesign.cc/bringing-your-best-self-to-product-design-behavioral-interviews-597a68111f12
+- https://medium.com/snapdocs-design/how-to-prepare-for-an-awesome-product-designer-interview-at-snapdocs-4da5f98d2eb8

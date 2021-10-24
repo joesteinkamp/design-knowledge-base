@@ -39,10 +39,10 @@ Answer any questions the candidate noted in Figma, if applicable.
 
 ### Agenda
 
-1. Ask clarifying questions with hiring manager. [10m]
-2. Individual Time [25m]
+1. Ask clarifying questions with hiring manager. [20m]
+2. Individual Time [20m]
 3. Receive feedback & Riff together [35m]
-4. Questions from candidate [20m]
+4. Questions from candidate [15m]
 
 
 #### Panel Tips
@@ -80,3 +80,12 @@ See Rubric Template below.
 - [Email Templates](https://docs.google.com/document/d/1VDtUEGqycqG3vWMtPfMc_g6bgeCOZ0IiohTZ19iubPk/edit?usp=sharing)
 - [Evaluation Rubric](https://docs.google.com/document/d/1ILYhrbUhJh5GpSi03UeLiFRzmU4FwFeSrlR8xvNkXW8/edit?usp=sharing)
 - [Exercise Figma Template](https://www.figma.com/file/D1xWj7rSY0qVbDI8E1CMAo/Design-Exercise-Template?node-id=32%3A2557)
+
+
+
+## References
+- https://library.gv.com/how-to-interview-a-designer-with-the-perfect-design-exercise-2c99e6646612
+- https://blog.prototypr.io/the-design-interview-exercise-6d5ff8add0e6
+- https://blog.prototypr.io/product-design-exercises-we-use-at-wework-interviews-2ee1f5a57319
+- https://dribbble.com/stories/2019/11/12/guide-to-hiring-with-design-exercises
+- https://uxdesign.cc/5-steps-to-master-a-whiteboard-design-challenge-6ecbe9ec38b7
