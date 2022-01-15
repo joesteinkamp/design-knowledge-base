@@ -14,7 +14,7 @@ The goal of this phone screen to find out if the candidate is the right fit for 
 
 
 ### Questions to Ask
-1. What are your career goals? What are you looking for? 
+1. What are your career goals? What are you looking for?
 2. What **don't** you want to do?
 3. How do you continue to advance your design knowledge? / How do you learn?
    1. When is the last time you tried a new product? What was it? / What are your favorite products? Why?
@@ -29,6 +29,14 @@ The goal of this phone screen to find out if the candidate is the right fit for 
   * How did you apply it afterwards? 
 
 *Lastly, request their portfolio details, if you don't already have it.*
+
+
+### Brand Designer Questions
+1. What are your career goals? What are you looking for?
+2. What **don't** you want to do?
+3. How do you keep your skills sharp and up-to-date? *Look for consistant practice, doing work on the side, experimenting, Dribbble profile, etc...*
+4. Where do you find inspiration?
+5. What software do you use?
 
 
 #### Questions Repository
