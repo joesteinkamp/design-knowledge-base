@@ -37,6 +37,7 @@ The goal of this phone screen to find out if the candidate is the right fit for 
 3. How do you keep your skills sharp and up-to-date? *Look for consistant practice, doing work on the side, experimenting, Dribbble profile, etc...*
 4. Where do you find inspiration?
 5. What software do you use?
+6. What are you most proud of in your design career? *Look for if they talk about product, process, people, or other things to find passion areas*
 
 
 #### Questions Repository

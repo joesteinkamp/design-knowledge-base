@@ -44,6 +44,10 @@ Excellent. Let's dive in. Please screen share a final mockup or prototype of you
 ### Additional Questions
 1. How would you solve [insert design problem] if all of a sudden consumers couldn’t use computers, tablets, or phones?
 
+#### Brand Designer Questions
+
+1. What were the goals?
+2. 
 
 ### Email Template
 ```
