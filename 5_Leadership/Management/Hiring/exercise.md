@@ -1,6 +1,8 @@
 # Design Exercise Interview
 Interview method to get candidates away from scripted process and be able to see how they think and collaborate with the team first hand. It'll review the designer's critical thinking ability and ability to move quickly through ideas by leveraging patterns. The exercise will have the designer work through a problem on the spot.  
 
+## Product Designer
+
 ### Time
 90 minutes
 - 1h 15m of exercise
@@ -21,17 +23,6 @@ Hiring manager, designer, product manager
    3. Design brief
    4. Space for problem definition and solution ideation
 
-
-
-Instructions
-1. 
-- Expectations to communicate visually - sketch and use Figma
-
-
-Send email that includes product credentials, link to product, and Figma link
-
-**Day of Interview**
-Answer any questions the candidate noted in Figma, if applicable.
 
 
 #### Expectation Setting
@@ -61,31 +52,29 @@ Answer any questions the candidate noted in Figma, if applicable.
 - State what you like and dislike
 
 
-
-
-
-
-
-
-
 ### Evaluation
 
-See Rubric Template below.
+*See Rubric Template below.*
 
 
-
-
-
-## Templates
+### Templates
 - [Email Templates](https://docs.google.com/document/d/1VDtUEGqycqG3vWMtPfMc_g6bgeCOZ0IiohTZ19iubPk/edit?usp=sharing)
 - [Evaluation Rubric](https://docs.google.com/document/d/1ILYhrbUhJh5GpSi03UeLiFRzmU4FwFeSrlR8xvNkXW8/edit?usp=sharing)
 - [Exercise Figma Template](https://www.figma.com/file/D1xWj7rSY0qVbDI8E1CMAo/Design-Exercise-Template?node-id=32%3A2557)
 
 
 
-## References
+### References
 - https://library.gv.com/how-to-interview-a-designer-with-the-perfect-design-exercise-2c99e6646612
 - https://blog.prototypr.io/the-design-interview-exercise-6d5ff8add0e6
 - https://blog.prototypr.io/product-design-exercises-we-use-at-wework-interviews-2ee1f5a57319
 - https://dribbble.com/stories/2019/11/12/guide-to-hiring-with-design-exercises
 - https://uxdesign.cc/5-steps-to-master-a-whiteboard-design-challenge-6ecbe9ec38b7
+
+
+
+
+## Brand Designer
+
+You’re promoting a brand for a new product. Where do you begin? *Demonstrates the candidate's knowledge of brand development and marketing models.*
+

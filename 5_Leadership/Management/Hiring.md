@@ -42,11 +42,16 @@ Leverage a job description template
 ### Source Candidates
 1. Reach out to your existing network
 2. Recruit on LinkedIn, especially look for designers at company's with quality design practices. Reference: [Design Mature Companies](https://airtable.com/shr5V0MYvD2piGcI3/tbl5NSdslsyFRfE8v?blocks=hide)
-3. Find candidates within design communities (Dribbble, Behance, )
+3. Find candidates within design communities (Dribbble, Behance, etc...)
 4. Finding products that you like and find who designed them. Focus on casual conversation and networking before asking them to work for you.
 5. Google Form on your company's Medium publication
 6. Use an online job recruitment platform, like [Vettery](https://www.vettery.com/).
 7. Use a recruiter
+
+#### Alternative Titles to Search For
+
+* Product Designer: UX/UI Designer, Interaction Designer, UX Designer, UX Strategist
+* Brand Designer: Visual Designer, Marketing Designer, Communication Designer, Visual Communication Designer, Digital Designer, Web Designer, Art Director
 
 
 ## Candidate Pre-Review
