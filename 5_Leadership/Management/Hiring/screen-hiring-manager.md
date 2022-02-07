@@ -32,9 +32,10 @@
    1. How do you handle negative feedback?
 4. How do you hand off a project? *Look for someone that takes responsibility of delivery even to the extent to code*
 5. What do you think the next big design trend will be? *Tests the candidate’s knowledge of the latest trends.*
-6. What would your current boss say are your strengths and areas for improvement? *Look for understanding of areas for growth, identify environments not meant for them*
-7. [Brand Critique](brand-critique.md)
-8. Candidate's questions
+6. Who is a brand that inspires you? Why?
+7. What would your current boss say are your strengths and areas for improvement? *Look for understanding of areas for growth, identify environments not meant for them*
+8. [Brand Critique](brand-critique.md)
+9. Candidate's questions
 
 ## References
 1. https://tech.buzzfeed.com/crafting-the-product-design-hiring-experience-part-one-65c924bc7a41
