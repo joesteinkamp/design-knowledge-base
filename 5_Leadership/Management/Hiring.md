@@ -90,16 +90,16 @@ The goal of the Background Interview is to deeply understand their career past a
 
 ## Portfolio Presentation
 
-- [Critique Style](./Hiring/portfolio-presentation+critique.md)
-- [Presentation Style](./Hiring/portfolio-presentation.md) 
+- [Product Designer: Portfolio Case Study](./Hiring/portfolio-case-study.md)
+- [Brand Designer: Portfolio Review](./Hiring/portfolio-review.md) 
 
 
-## Design Interview
+## Design Exercise
 
-[View Exercise with Product Critique](Hiring/exercise+product-critique.md)
+[View Exercise](Hiring/exercise.md)
 
 **Alternatives**
-- [View Design Exercises](Hiring/design-exercises.md)
+- [View Design Exercises](Hiring/exercises.md)
 - [View Product Critique Details](./Hiring/product-critique.md)
 
 

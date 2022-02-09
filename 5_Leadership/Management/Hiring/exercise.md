@@ -11,6 +11,23 @@ Interview method to get candidates away from scripted process and be able to see
 ### Participants
 Hiring manager, designer, product manager
 
+### Competencies
+
+Design Thinking
+- Creativity / Generativity
+- Critical Thinking / User-Centered / Handle Ambiguity
+- Visual Thinker
+- 
+Hard Skills
+- Information Architecture
+- Interaction Design
+- Business Fluency
+
+Soft Skills
+- Humility / Collaboration
+- Communication / Passion / Leadership
+- Passion
+
 ### Prep
 
 1. Pick key areas of your product that even a first time. Suggestions: Home, Search, Onboarding, Reading, Navigation, Notifications, Common Consumer Features (ex.shopping cart).
@@ -74,7 +91,5 @@ Hiring manager, designer, product manager
 
 
 
-## Brand Designer
 
-You’re promoting a brand for a new product. Where do you begin? *Demonstrates the candidate's knowledge of brand development and marketing models.*
 

@@ -68,7 +68,7 @@ A conversational and informal session, with open/out loud brainstorming  The goa
 
 ---
 
-## Brand Exercise
+## Brand/Marketing Exercise
 
 This is a great judge of not only their creativity, but also their selling skills and their ability to think on their feet.
 
@@ -106,17 +106,10 @@ This is a great judge of not only their creativity, but also their selling skill
 
 ---
 
-## Marketing Design Process Exercise
 
-Landing Page
-Data Usage
+## Brand Designer: New Product Thought Exercise
 
-How to get audience to engage?
-
-Fake brief
-
-
-
+You’re promoting a brand for a new product. Where do you begin? *Demonstrates the candidate's knowledge of brand development and marketing models.*
 
 ## References
 - https://dribbble.com/stories/2019/11/12/guide-to-hiring-with-design-exercises
