@@ -1,7 +1,7 @@
 # Brand Design Exercise
 Interview method to get candidates away from scripted process and be able to see how they think and collaborate with the team first hand. It'll review the designer's critical thinking ability and ability to move quickly through ideas by leveraging patterns. The exercise will have the designer work through a problem on the spot.
 
-*30 minutes*
+*1 hour 30 minutes*
 
 ### Competencies
 Design Thinking
@@ -47,8 +47,8 @@ We expect you to take the lead in iterating in real-time as we give feedback & s
 
 SCHEDULE:
 Ask clarifying questions with hiring manager. [10m]
-Individual Time [20m]
-Design Review, Feedback & Riff Together [15m]
+Individual Time [40m]
+Design Review, Feedback & Riff Together [25m]
 Questions [15m]
 
 ```
