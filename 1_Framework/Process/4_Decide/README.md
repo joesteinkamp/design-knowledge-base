@@ -11,7 +11,7 @@ Method | Type
 [Usability Test](usability-testing.md) | User Research
 [Wayfinding (Click) Test](wayfinding-test.md) | User Research
 
-*Also see [Operations: Design Critique](../../../4_Operations/design-team-critique.md)*
+*Also see [Operations: Design Critique](../../../4_Operations/Team-Rituals/critique.md)*
 
 
 ## Goals of Phase
