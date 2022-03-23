@@ -19,8 +19,8 @@
    1. *DESIRED ANSWER:* Research, Facilitation (Design Thinking) of Workshops, High collaboration with engineers/devs, Multiple Prototypes, Testing Designs, UX artifacts mentioned - journey maps, adaptable based on context*
 2. How do you know when your designs are done? *How do you measure the success of your designs?*
    1. *DESIRED ANSWER:* "never done", Focus on function / solving problem not visuals, accomplishing user goals, success metrics, user testing (to gather qualitative data)
-3. How would you prioritize your Design skills (Design Execution, UX, Research, Product Thinking/Strategy)
-4. What would your current boss say are your strengths and areas for improvement? *Look for understanding of areas for growth, identify environments not meant for them*
+3. What would your current boss say are your strengths and areas for improvement? *Look for understanding of areas for growth, identify environments not meant for them*
+4. Which of your Design skills you are strongest and where do you want to grow most? (UI, UX, Research, Product Strategy) *Look for self awareness of skills that are later validated, look for where they're passionate and where they want to grow)
 5. [Conduct Design Execution Screen](screen-execution.md)
 6. Time for candidate's questions
 7. [Product Demo](product-demo.md)
