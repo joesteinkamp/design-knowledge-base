@@ -7,10 +7,9 @@ The goal of this phone screen to find out if the candidate is the right fit for 
 *Can be conducted by a recruiter*
 
 ### Competencies Evaluated
-- Technical Fluency
-- Business Fluency (Product Thinking)
 - Communication
 - Grit & Passion
+- Evangelism
 
 
 ### Questions to Ask
