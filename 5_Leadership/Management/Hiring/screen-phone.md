@@ -10,6 +10,7 @@ The goal of this phone screen to find out if the candidate is the right fit for 
 - Communication
 - Grit & Passion
 - Evangelism
+- Scope
 
 
 ### Questions to Ask
