@@ -99,7 +99,7 @@ The goal of the Background Interview is to deeply understand their career past a
 [View Exercise](Hiring/exercise.md)
 
 **Alternatives**
-- [View Design Exercises](Hiring/exercises.md)
+- [View Design Exercises](Hiring/exercise-ideas.md)
 - [View Product Critique Details](./Hiring/product-critique.md)
 
 
