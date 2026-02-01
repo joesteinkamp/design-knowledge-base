@@ -1,1 +1,0 @@
-Design Team Weekly Kickoff

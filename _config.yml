@@ -3,7 +3,6 @@ description: An open-source design documentation repository to provide a central
 baseurl: ""
 
 
-google_analytics: UA-8657893-7
 plugins:
   - jekyll-feed
   - jekyll-sitemap
