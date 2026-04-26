@@ -153,6 +153,8 @@ body.home .home-main > section { width: 100%; max-width: none; margin: 0; paddin
 .track .track__desc { font-size: 16px; line-height: 1.55; color: #c9d4e2; margin: 0; max-width: 65ch; }
 .track .track__status { font-family: 'Poppins', sans-serif; font-weight: 600; font-size: 11px; letter-spacing: 0.18em; text-transform: uppercase; color: #8fa2b8; white-space: nowrap; align-self: center; }
 
+#writing > .section-head { margin-top: 40px; }
+
 .writing { padding: clamp(80px, 9vw, 120px) clamp(20px, 5vw, 64px); border-bottom: 1px solid #1f2a3a; }
 .writing .writing__link { display: inline-block; background: #162131; color: #d7e3f1; padding: 12px 18px; border: 1px solid #2b3a4f; border-radius: 10px; font-family: 'Roboto', sans-serif; font-size: 16px; font-weight: 600; transition: background 120ms cubic-bezier(0.25, 1, 0.5, 1); }
 .writing .writing__link:hover { background: #1d2b40; text-decoration: none; color: #ffffff; }

@@ -751,6 +751,10 @@ body.home .home-main > section {
 }
 
 // ----- Writing -----
+#writing > .section-head {
+    margin-top: 40px;
+}
+
 .writing {
     padding: clamp(80px, 9vw, 120px) clamp(20px, 5vw, 64px);
     border-bottom: 1px solid #1f2a3a;
