@@ -319,6 +319,7 @@ body.home {
 // Reset of inherited Jekyll wrapper behavior on home pages
 body.home .home-main {
     display: block;
+    padding: 55px;
 }
 body.home .home-main > section {
     width: 100%;
@@ -544,6 +545,10 @@ body.home .home-main > section {
 .tools {
     padding: clamp(80px, 9vw, 120px) clamp(20px, 5vw, 64px);
     border-bottom: 1px solid #1f2a3a;
+}
+
+#tools > .section-head {
+    margin-top: 40px;
 }
 
 .tools__grid {
