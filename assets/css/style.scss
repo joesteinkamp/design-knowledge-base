@@ -309,11 +309,23 @@ body.home {
         margin: 0;
     }
 
-    *:focus-visible {
+    a:focus-visible,
+    button:focus-visible,
+    [tabindex]:focus-visible,
+    input:focus-visible,
+    select:focus-visible,
+    textarea:focus-visible {
         outline: none;
         box-shadow: 0 0 0 3px rgba(75, 140, 255, 0.4);
         border-radius: 4px;
     }
+}
+
+body.home,
+body.home *,
+body.home *::before,
+body.home *::after {
+    box-sizing: border-box;
 }
 
 // Reset of inherited Jekyll wrapper behavior on home pages
@@ -330,8 +342,7 @@ body.home .home-main > section {
 
 // ----- Site header -----
 .site-header {
-    position: sticky;
-    top: 0;
+    position: inherit;
     z-index: 50;
     background: #0f1724;
     box-shadow: 0 12px 30px rgba(11, 15, 20, 0.45);
@@ -423,7 +434,7 @@ body.home .home-main > section {
     grid-template-columns: 1.4fr 0.8fr;
     gap: clamp(32px, 5vw, 72px);
     align-items: end;
-    padding: clamp(72px, 10vw, 128px) clamp(20px, 5vw, 64px) clamp(80px, 10vw, 120px);
+    padding: clamp(72px, 10vw, 128px) clamp(20px, 5vw, 64px) 40px;
     border-bottom: 1px solid #1f2a3a;
 
     .hero__title {
@@ -554,11 +565,14 @@ body.home .home-main > section {
 .tools__grid {
     list-style: none;
     margin: 0;
-    padding: 0;
+    padding: 0 0 40px;
     display: grid;
-    grid-template-columns: repeat(auto-fit, minmax(280px, 1fr));
+    grid-template-columns: repeat(auto-fit, minmax(min(280px, 100%), 1fr));
     gap: 20px;
+    min-width: 0;
 }
+
+.tools__grid > .entry { min-width: 0; }
 
 @media screen and (min-width: 1024px) {
     .tools__grid {
@@ -756,7 +770,7 @@ body.home .home-main > section {
 }
 
 .writing {
-    padding: clamp(80px, 9vw, 120px) clamp(20px, 5vw, 64px);
+    padding: clamp(80px, 9vw, 120px) clamp(20px, 5vw, 64px) 40px;
     border-bottom: 1px solid #1f2a3a;
 
     .writing__link {
