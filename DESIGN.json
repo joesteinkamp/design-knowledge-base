@@ -1,0 +1,184 @@
+{
+  "schemaVersion": 2,
+  "generatedAt": "2026-04-24T00:00:00Z",
+  "title": "Design System: Design Knowledge Base",
+  "extensions": {
+    "colorMeta": {
+      "ink": {
+        "role": "neutral",
+        "displayName": "Ink",
+        "canonical": "#0b0f14",
+        "tonalRamp": ["#05080c", "#0a0e13", "#0f1520", "#162131", "#1d2b40", "#2b3a4f", "#3d4f6b", "#5a7090"]
+      },
+      "ink-raised": {
+        "role": "neutral",
+        "displayName": "Ink Raised",
+        "canonical": "#0f1724",
+        "tonalRamp": ["#070b11", "#0b1018", "#0f1724", "#162131", "#1f2a3a", "#2b3a4f", "#3d4f6b", "#5a7090"]
+      },
+      "slate-panel": {
+        "role": "neutral",
+        "displayName": "Slate Panel",
+        "canonical": "#121a26",
+        "tonalRamp": ["#0a0e15", "#0f1520", "#121a26", "#162131", "#1f2a3a", "#253247", "#2b3a4f", "#3d4f6b"]
+      },
+      "cabinet": {
+        "role": "neutral",
+        "displayName": "Cabinet",
+        "canonical": "#162131",
+        "tonalRamp": ["#0b1018", "#121a26", "#162131", "#1d2b40", "#253247", "#2b3a4f", "#3d4f6b", "#5a7090"]
+      },
+      "lab-blue": {
+        "role": "primary",
+        "displayName": "Lab Blue",
+        "canonical": "#4b8cff",
+        "tonalRamp": ["#0a1d40", "#143071", "#1f4ba2", "#2c66cc", "#4b8cff", "#6aa2ff", "#8fb8ff", "#b4d0ff"]
+      },
+      "reference-blue": {
+        "role": "secondary",
+        "displayName": "Reference Blue",
+        "canonical": "#8fc5ff",
+        "tonalRamp": ["#1a2c44", "#2a4670", "#3e639c", "#5a85c8", "#7aa6e6", "#8fc5ff", "#b4d9ff", "#d9eaff"]
+      },
+      "paper": {
+        "role": "neutral",
+        "displayName": "Paper",
+        "canonical": "#e6e9ee",
+        "tonalRamp": ["#1a1d22", "#3a3f48", "#5a606b", "#7c8290", "#a0a7b3", "#c2c7cf", "#e6e9ee", "#f4f6f9"]
+      },
+      "chalk": {
+        "role": "neutral",
+        "displayName": "Chalk",
+        "canonical": "#c9d4e2",
+        "tonalRamp": ["#161a20", "#2a313c", "#444d5d", "#626d80", "#8590a3", "#a8b3c2", "#c9d4e2", "#e8eef6"]
+      },
+      "ash": {
+        "role": "neutral",
+        "displayName": "Ash",
+        "canonical": "#8fa2b8",
+        "tonalRamp": ["#161a20", "#262d36", "#3a4350", "#525c6c", "#6b7787", "#8fa2b8", "#b1bdcd", "#d4dde8"]
+      }
+    },
+    "typographyMeta": {
+      "display": { "displayName": "Display", "purpose": "Page titles. One per page, top of hero." },
+      "headline": { "displayName": "Headline", "purpose": "Major section openers." },
+      "title": { "displayName": "Title", "purpose": "Subsection headers and card titles inside sections." },
+      "subtitle": { "displayName": "Subtitle", "purpose": "Card titles on home; small headers in long-form pages." },
+      "body": { "displayName": "Body", "purpose": "Default running text. Roboto." },
+      "lead": { "displayName": "Lead", "purpose": "Hero subhead and section intros." },
+      "label": { "displayName": "Label", "purpose": "Pill links, project-card link buttons, navigation items." },
+      "eyebrow": { "displayName": "Eyebrow", "purpose": "Section pre-headers, category tags. Used sparingly, uppercase." }
+    },
+    "shadows": [
+      { "name": "sticky-header", "value": "0 12px 30px rgba(0, 0, 0, 0.25)", "purpose": "Anchors sticky header above page content. Always on for header." },
+      { "name": "hover-lift", "value": "0 8px 24px rgba(0, 0, 0, 0.35)", "purpose": "Project card hover state. Pairs with border brightening." },
+      { "name": "focus-ring", "value": "0 0 0 3px rgba(75, 140, 255, 0.4)", "purpose": "Focus-visible state on interactive elements. Lab Blue at low opacity." }
+    ],
+    "motion": [
+      { "name": "ease-out-quart", "value": "cubic-bezier(0.25, 1, 0.5, 1)", "purpose": "Default easing for hover and state transitions. Exponential ease-out." },
+      { "name": "duration-fast", "value": "120ms", "purpose": "Hover state changes." },
+      { "name": "duration-medium", "value": "240ms", "purpose": "Card lift, panel reveal." }
+    ],
+    "breakpoints": [
+      { "name": "lg", "value": "1024px" },
+      { "name": "md", "value": "720px" },
+      { "name": "sm", "value": "480px" }
+    ]
+  },
+  "components": [
+    {
+      "name": "Primary Button",
+      "kind": "button",
+      "refersTo": "button-primary",
+      "description": "Single primary action. Lab Blue on Ink, used at most once per visible surface.",
+      "html": "<button class=\"ds-btn-primary\">Browse the index</button>",
+      "css": ".ds-btn-primary { background: #4b8cff; color: #0b0f14; padding: 14px 28px; font-family: 'Poppins', sans-serif; font-size: 18px; font-weight: 600; border-radius: 12px; border: 1px solid transparent; cursor: pointer; transition: background 240ms cubic-bezier(0.25, 1, 0.5, 1); } .ds-btn-primary:hover { background: #6aa2ff; } .ds-btn-primary:focus-visible { outline: none; box-shadow: 0 0 0 3px rgba(75, 140, 255, 0.4); }"
+    },
+    {
+      "name": "Ghost Button",
+      "kind": "button",
+      "refersTo": "button-ghost",
+      "description": "Secondary action. Transparent with Divider High border.",
+      "html": "<button class=\"ds-btn-ghost\">View framework</button>",
+      "css": ".ds-btn-ghost { background: transparent; color: #e6e9ee; padding: 14px 28px; font-family: 'Poppins', sans-serif; font-size: 18px; font-weight: 600; border-radius: 12px; border: 1px solid #2b3a4f; cursor: pointer; transition: background 240ms cubic-bezier(0.25, 1, 0.5, 1); } .ds-btn-ghost:hover { background: #162131; }"
+    },
+    {
+      "name": "Project Card",
+      "kind": "card",
+      "refersTo": "card-project",
+      "description": "Home page project entry. Flat at rest, lifts on hover. TBD entries use the same frame.",
+      "html": "<article class=\"ds-card-project\"><h3>Screenshots</h3><p>An open source collection of product screenshots for inspiration.</p><a class=\"ds-pill-link\" href=\"#\">View project</a></article>",
+      "css": ".ds-card-project { background: #121a26; border: 1px solid #1f2a3a; border-radius: 18px; padding: 24px; color: #c9d4e2; display: flex; flex-direction: column; gap: 12px; transition: border-color 240ms cubic-bezier(0.25, 1, 0.5, 1), box-shadow 240ms cubic-bezier(0.25, 1, 0.5, 1); } .ds-card-project:hover { border-color: #2b3a4f; box-shadow: 0 8px 24px rgba(0, 0, 0, 0.35); } .ds-card-project h3 { color: #f4f7fb; margin: 0; font-family: 'Poppins', sans-serif; font-size: 24px; font-weight: 600; } .ds-card-project p { margin: 0; font-family: 'Roboto', sans-serif; font-size: 18px; line-height: 1.5; }"
+    },
+    {
+      "name": "Pill Link",
+      "kind": "chip",
+      "refersTo": "pill-link",
+      "description": "Inline action affordance. Used as 'View project' on cards and learning-track entries on home.",
+      "html": "<a class=\"ds-pill-link\" href=\"#\">View project</a>",
+      "css": ".ds-pill-link { display: inline-block; align-self: flex-start; background: #162131; color: #d7e3f1; padding: 8px 14px; border: 1px solid #2b3a4f; border-radius: 10px; font-family: 'Roboto', sans-serif; font-size: 16px; font-weight: 600; text-decoration: none; transition: background 120ms cubic-bezier(0.25, 1, 0.5, 1); } .ds-pill-link:hover { background: #1d2b40; }"
+    },
+    {
+      "name": "Sticky Header",
+      "kind": "nav",
+      "refersTo": "header",
+      "description": "Site header. Sticky by default, anchored with shadow.",
+      "html": "<header class=\"ds-header\"><div><a href=\"/\"><h1>Design Knowledge Base</h1></a></div><nav><ul><li><a href=\"/about\">About</a></li><li><a href=\"/framework\">Framework</a></li><li class=\"search\"><a href=\"/search\">Search</a></li></ul></nav></header>",
+      "css": ".ds-header { position: sticky; top: 0; background: #0f1724; padding: 24px; display: grid; grid-template-columns: auto auto; gap: 24px; box-shadow: 0 12px 30px rgba(0, 0, 0, 0.25); align-items: center; } .ds-header h1 { margin: 0; font-family: 'Poppins', sans-serif; font-size: 24px; font-weight: 700; color: #ffffff; } .ds-header a { color: #ffffff; text-decoration: none; } .ds-header ul { list-style: none; margin: 0; padding: 0; text-align: right; } .ds-header li { display: inline-block; padding-right: 24px; font-family: 'Poppins', sans-serif; font-size: 18px; font-weight: 700; } .ds-header li:last-child { padding-right: 0; } .ds-header li.search a { background: #ffffff; color: #2C5D9C; padding: 0 12px; border-radius: 8px; }"
+    },
+    {
+      "name": "Eyebrow Label",
+      "kind": "custom",
+      "refersTo": "eyebrow",
+      "description": "Pre-header label. Tracked, uppercased, ash-toned. Used sparingly.",
+      "html": "<span class=\"ds-eyebrow\">Section</span>",
+      "css": ".ds-eyebrow { font-family: 'Roboto', sans-serif; font-size: 12px; font-weight: 600; letter-spacing: 0.18em; text-transform: uppercase; color: #8fa2b8; }"
+    }
+  ],
+  "narrative": {
+    "northStar": "The Lab Notebook",
+    "overview": "The system is a working notebook, not a polished portfolio. Pages of dark paper, a single working blue for marks and references, captions written in a neutral hand. Tools and ideas get logged side-by-side; some entries are finished, others are stubs marked TBD on purpose. The site is a frame around things worth reading and using; the things themselves are the content. Curiosity over polish, structure over decoration, honesty over showmanship. The aesthetic is academic and a little plain in the right way: laboratory-issue, like a research index or museum object catalogue, where the typography does the speaking and the color does the indexing. The system rejects SaaS landing-page chrome, influencer-portfolio centerpieces, generic teal-on-white design-system look, and performative brutalism. Restraint here is genuine, not a trend.",
+    "keyCharacteristics": [
+      "Dark by default. Tonal layering builds depth before any shadow is reached for.",
+      "Single load-bearing accent (Lab Blue) used as a working mark, not decoration.",
+      "Typography pairing splits labor cleanly: Poppins names things, Roboto reads things.",
+      "Asymmetric spacing scale (8 / 12 / 16 / 24 / 32 / 48 / 80) for rhythm, not metronome regularity.",
+      "Cards are flat panels with full borders, never side-stripes or floating gradients."
+    ],
+    "rules": [
+      { "name": "The One Voice Rule", "body": "Lab Blue carries every primary action and brand emphasis on a given screen. Used on roughly 5 to 10 percent of any visible surface. Its rarity is the point. Never used decoratively, never as a gradient, never as section-divider chrome.", "section": "colors" },
+      { "name": "The Tonal Ladder Rule", "body": "Depth on dark surfaces is built by stepping the background lightness, not by shadow. Page → Header → Card → Pill is a four-step ladder (Ink, Ink Raised, Slate Panel, Cabinet). Shadows only appear in response to interaction state.", "section": "colors" },
+      { "name": "The Citation Rule", "body": "Inline body links use Reference Blue. Action buttons use Lab Blue. The same color in two roles would erase the distinction between go-read-this and press-this.", "section": "colors" },
+      { "name": "The Two-Hand Rule", "body": "Poppins names; Roboto reads. Headings, labels, eyebrows, button text, captions go to Poppins. Body, lead, paragraph copy go to Roboto. Mixing them within a role erases the split.", "section": "typography" },
+      { "name": "The Step Ratio Rule", "body": "The hierarchy steps at roughly 1.25 to 1.4 between adjacent levels (40, 36, 28, 24, 20). Never collapse two steps to within 10 percent of each other; the scale stops reading.", "section": "typography" },
+      { "name": "The Tonal-First Rule", "body": "Depth is built by background steps before shadows are reached for. If a card looks flat against its parent, raise its background one step on the ladder before adding shadow.", "section": "elevation" },
+      { "name": "The Shadow-As-Verb Rule", "body": "Shadows describe an action (hovering, focusing, sticking). Surfaces at rest do not have shadows. A decorative drop shadow on a static card is forbidden.", "section": "elevation" },
+      { "name": "The TBD Rule", "body": "Works in progress are first-class. TBD project cards stay visible, labeled, and use the same card frame as finished entries. The grid does not hide unfinished work.", "section": "components" },
+      { "name": "The Quiet Surface Rule", "body": "The site is a frame; the destinations are the content. Visual treatment never competes with the link out. No section-divider chrome, no decorative illustration, no layout that asks the reader to admire it.", "section": "overview" },
+      { "name": "The Routing Rule", "body": "Nothing on the page should compete with the link out to a tool, doc, or article. Every component answers: am I helping the reader leave for the right destination, or asking them to stay?", "section": "overview" }
+    ],
+    "dos": [
+      "Do use Lab Blue (#4b8cff) as the single primary accent, on roughly 5 to 10 percent of any visible surface. Reserve it for actions and brand identity.",
+      "Do build depth by stepping background lightness across the tonal ladder (Ink to Ink Raised to Slate Panel to Cabinet) before reaching for shadows.",
+      "Do keep TBD project cards visible and labeled. Works in progress are part of the brand.",
+      "Do use full 1px borders (Divider Low / Mid / High) to mark card and panel edges. Always full perimeter.",
+      "Do split type duty cleanly: Poppins for headings and labels, Roboto for body and lead.",
+      "Do cap body line length at 65 to 75 characters.",
+      "Do use Reference Blue (#8fc5ff) for inline links inside body copy, distinct from Lab Blue actions.",
+      "Do respect prefers-reduced-motion. Disable hover lift and gradient transitions when set."
+    ],
+    "donts": [
+      "Don't build a polished SaaS landing-page hero with gradient text, a hero-metric block, or a trusted-by logo bar.",
+      "Don't stage influencer-portfolio centerpieces. The work is the point, not the author.",
+      "Don't drift into the generic design-system look (white background, teal accent, Inter, identical rounded card grid).",
+      "Don't stage performative brutalism. The academic register is genuine, not costume.",
+      "Don't use side-stripe borders (border-left greater than 1px as a colored accent). Use full borders or background tonal shifts instead.",
+      "Don't apply gradient text via background-clip text. Gradients are reserved to the single Hero CTA panel surface.",
+      "Don't use shadows decoratively on resting cards. Shadows describe actions (hover, focus, sticky elevation).",
+      "Don't reuse the same color in two roles (Lab Blue as both action and link, or Reference Blue on a button). The split is the system.",
+      "Don't stack identical icon-title-text cards in endless rows. The home grid is curated, not a template.",
+      "Don't introduce a third type family. Poppins and Roboto are committed.",
+      "Don't use em dashes in copy. Use commas, colons, semicolons, periods, or parentheses."
+    ]
+  }
+}

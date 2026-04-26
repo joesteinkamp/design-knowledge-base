@@ -12,6 +12,14 @@
     <![endif]-->
   </head>
   <body{% if page.body_class %} class="{{ page.body_class }}"{% endif %}>
+    {% assign is_home = page.body_class | default: "" | split: " " | where_exp: "c", "c == 'home'" %}
+    {% if is_home.size > 0 %}
+      {% include site-header.html %}
+      <main class="home-main">
+        {{ content }}
+      </main>
+      {% include site-footer.html %}
+    {% else %}
     <div class="wrapper">
       <section>
 
@@ -23,11 +31,10 @@
         </p>
       {% endif %}
 
-      
-
       </section>
 
     </div>
+    {% endif %}
     <script src="{{ "/assets/js/scale.fix.js" | relative_url }}"></script>
 
   </body>

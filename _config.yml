@@ -6,3 +6,11 @@ baseurl: ""
 plugins:
   - jekyll-feed
   - jekyll-sitemap
+
+exclude:
+  - PRODUCT.md
+  - DESIGN.md
+  - DESIGN.json
+  - README.md
+  - Gemfile
+  - Gemfile.lock

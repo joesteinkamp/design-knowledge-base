@@ -5,66 +5,226 @@ description: A curated, practical library for design teams.
 body_class: home dark
 ---
 
-<section class="home-hero">
-  <div class="home-hero__content">
-    <h1>Design Knowledge Base</h1>
-    <p class="lead">
-      Make design decisions faster with open source knowledge & tools.
+<section class="hero" id="top">
+  <div class="hero__lede">
+    <p class="eyebrow">Design Knowledge Base &nbsp;·&nbsp; Vol. I</p>
+    <h1 class="hero__title">Make design decisions faster.</h1>
+    <p class="hero__lead">
+      An open notebook of tools, references, and reading for working designers, the design-curious, and students. Some entries ship as apps. Others sit in draft until they're worth your time. Browse the <a href="#tools">tools</a>, the <a href="#tracks">tracks</a>, or what's <a href="#writing">written</a>.
     </p>
+  </div>
+
+  <aside class="hero__featured" aria-labelledby="featured-title">
+    <p class="featured__meta">
+      <span class="featured__num">N°008</span>
+      <span class="featured__status featured__status--shipped">Shipped</span>
+    </p>
+    <h2 class="featured__title" id="featured-title">Chrome Page Designer</h2>
+    <p class="featured__desc">
+      A Chrome extension for designing and editing web pages directly in the browser.
+    </p>
+    <p class="featured__type">Chrome Extension</p>
+    <a class="featured__link" href="https://chromewebstore.google.com/detail/chromo-design/ailhbpmkgfegnppogcajjngmpmphbaol">
+      View the latest entry <span aria-hidden="true">↗</span>
+    </a>
+  </aside>
 </section>
 
+<section class="tools" id="tools" aria-labelledby="tools-title">
+  <header class="section-head">
+    <p class="eyebrow">Index</p>
+    <h2 class="section-title" id="tools-title">Tools</h2>
+    <p class="section-intro">Open-source apps and helpers built around the knowledge base. Numbered by date added; nothing here gets renumbered when something new arrives.</p>
+  </header>
 
-<section class="home-section home-projects">
-  <div class="home-grid">
-    <article class="home-card home-card--project">
-      <h3>Screenshots</h3>
-      <p>An open source collection of product screenshots for inspiration.</p>
-      <a class="project-card__link" href="https://screenshots.designknowledgebase.com/">View project</a>
-    </article>
-    <article class="home-card home-card--project">
-      <h3>Screenshots MCP</h3>
-      <p>Use the MCP to pull in inspiration relevant to your project work.</p>
-      <a class="project-card__link" href="https://github.com/joesteinkamp/screenshots-design-inspiration?tab=readme-ov-file#mcp-server">View project</a>
-    </article>
-    <article class="home-card home-card--project">
-      <h3>Design System Comparator</h3>
-      <p>Compare design systems side by side to find the best fit for your project.</p>
-      <a class="project-card__link" href="https://ds-comparator.designknowledgebase.com/">View project</a>
-    </article>
-    <article class="home-card home-card--project">
-      <h3>Design Documentation</h3>
-      <p>An open source collection of design documentation for education and inspiration.</p>
-      <a class="project-card__link" href="https://documentation.designknowledgebase.com/">View project</a>
-    </article>
-    <article class="home-card home-card--project">
-      <h3>Natural Language <> GUI</h3>
-      <p>Bidirectional conversion between GUI components and natural language markdown.</p>
-      <a class="project-card__link" href="https://nli-gui.designknowledgebase.com/">View project</a>
-    </article>
-    <article class="home-card home-card--project">
-      <h3>Web to Figma Chrome Extension</h3>
-      <p>Capture web page elements and import them directly into Figma as editable layers.</p>
-      <a class="project-card__link" href="https://chromewebstore.google.com/detail/web-to-figma/bdihnoinhkphoiehcblbgbjkpkdhfepb?authuser=0&hl=en">View project</a>
-    </article>
-    <article class="home-card home-card--project">
-      <h3>Web to Figma Playwright App</h3>
-      <p>Runs local Chromium to easily send any page, including logged in sites to editable designs in Figma.</p>
-      <a class="project-card__link" href="https://github.com/joesteinkamp/web-to-figma">View project</a>
-    </article>
-    <article class="home-card home-card--project">
-      <h3>Chrome Page Designer</h3>
-      <p>A Chrome extension for designing and editing web pages directly in the browser.</p>
-      <a class="project-card__link" href="https://chromewebstore.google.com/detail/chromo-design/ailhbpmkgfegnppogcajjngmpmphbaol">View project</a>
-    </article>
-    <article class="home-card home-card--project">
-      <h3>TBD - Skills Assessment</h3>
-      <p>TBD</p>
-      <a class="project-card__link" href="#">View project</a>
-    </article>
-    <article class="home-card home-card--project">
-      <h3>TBD - Problem Statement Generator</h3>
-      <p>TBD</p>
-      <a class="project-card__link" href="#">View project</a>
-    </article>
-  </div>
+  <ol class="tools__grid" role="list">
+
+    <li class="entry entry--feature">
+      <p class="entry__meta">
+        <span class="entry__num">N°001</span>
+        <span class="entry__status entry__status--shipped">Shipped</span>
+      </p>
+      <h3 class="entry__title">Screenshots</h3>
+      <p class="entry__desc">An open-source collection of product screenshots for inspiration. The original entry; everything else grew from here.</p>
+      <p class="entry__type">Subdomain</p>
+      <a class="entry__link" href="https://screenshots.designknowledgebase.com/">
+        Browse the gallery <span aria-hidden="true">↗</span>
+      </a>
+    </li>
+
+    <li class="entry">
+      <p class="entry__meta">
+        <span class="entry__num">N°002</span>
+        <span class="entry__status entry__status--shipped">Shipped</span>
+      </p>
+      <h3 class="entry__title">Screenshots MCP</h3>
+      <p class="entry__desc">An MCP server that pulls relevant screenshots into your project work without leaving the editor.</p>
+      <p class="entry__type">MCP Server · Repo</p>
+      <a class="entry__link" href="https://github.com/joesteinkamp/screenshots-design-inspiration?tab=readme-ov-file#mcp-server">
+        Install the server <span aria-hidden="true">↗</span>
+      </a>
+    </li>
+
+    <li class="entry">
+      <p class="entry__meta">
+        <span class="entry__num">N°003</span>
+        <span class="entry__status entry__status--shipped">Shipped</span>
+      </p>
+      <h3 class="entry__title">Design System Comparator</h3>
+      <p class="entry__desc">Compare design systems side by side to find the best fit for the work in front of you.</p>
+      <p class="entry__type">Subdomain</p>
+      <a class="entry__link" href="https://ds-comparator.designknowledgebase.com/">
+        Open the comparator <span aria-hidden="true">↗</span>
+      </a>
+    </li>
+
+    <li class="entry">
+      <p class="entry__meta">
+        <span class="entry__num">N°004</span>
+        <span class="entry__status entry__status--shipped">Shipped</span>
+      </p>
+      <h3 class="entry__title">Design Documentation</h3>
+      <p class="entry__desc">A curated archive of design documentation, public and otherwise, gathered for education and reference.</p>
+      <p class="entry__type">Subdomain</p>
+      <a class="entry__link" href="https://documentation.designknowledgebase.com/">
+        Read the archive <span aria-hidden="true">↗</span>
+      </a>
+    </li>
+
+    <li class="entry">
+      <p class="entry__meta">
+        <span class="entry__num">N°005</span>
+        <span class="entry__status entry__status--shipped">Shipped</span>
+      </p>
+      <h3 class="entry__title">Natural Language &harr; GUI</h3>
+      <p class="entry__desc">Bidirectional conversion between GUI components and natural-language markdown. A small experiment in describing interfaces in prose.</p>
+      <p class="entry__type">Subdomain</p>
+      <a class="entry__link" href="https://nli-gui.designknowledgebase.com/">
+        Try the converter <span aria-hidden="true">↗</span>
+      </a>
+    </li>
+
+    <li class="entry">
+      <p class="entry__meta">
+        <span class="entry__num">N°006</span>
+        <span class="entry__status entry__status--shipped">Shipped</span>
+      </p>
+      <h3 class="entry__title">Web to Figma (Chrome)</h3>
+      <p class="entry__desc">Capture any web page element and import it directly into Figma as editable layers.</p>
+      <p class="entry__type">Chrome Extension</p>
+      <a class="entry__link" href="https://chromewebstore.google.com/detail/web-to-figma/bdihnoinhkphoiehcblbgbjkpkdhfepb?authuser=0&hl=en">
+        Install from Chrome Web Store <span aria-hidden="true">↗</span>
+      </a>
+    </li>
+
+    <li class="entry">
+      <p class="entry__meta">
+        <span class="entry__num">N°007</span>
+        <span class="entry__status entry__status--shipped">Shipped</span>
+      </p>
+      <h3 class="entry__title">Web to Figma (Playwright)</h3>
+      <p class="entry__desc">Local Chromium-based companion to the extension, for pages that require a session, like logged-in dashboards.</p>
+      <p class="entry__type">Repo · Local app</p>
+      <a class="entry__link" href="https://github.com/joesteinkamp/web-to-figma">
+        Read the repo <span aria-hidden="true">↗</span>
+      </a>
+    </li>
+
+    <li class="entry">
+      <p class="entry__meta">
+        <span class="entry__num">N°008</span>
+        <span class="entry__status entry__status--shipped">Shipped</span>
+      </p>
+      <h3 class="entry__title">Chrome Page Designer</h3>
+      <p class="entry__desc">A Chrome extension for designing and editing web pages directly in the browser.</p>
+      <p class="entry__type">Chrome Extension</p>
+      <a class="entry__link" href="https://chromewebstore.google.com/detail/chromo-design/ailhbpmkgfegnppogcajjngmpmphbaol">
+        Install from Chrome Web Store <span aria-hidden="true">↗</span>
+      </a>
+    </li>
+
+    <li class="entry entry--planned">
+      <p class="entry__meta">
+        <span class="entry__num">N°009</span>
+        <span class="entry__status entry__status--planned">Planned</span>
+      </p>
+      <h3 class="entry__title">Skills Assessment</h3>
+      <p class="entry__desc">A self-scoring instrument for designers, against the framework. Notes only at this stage.</p>
+      <p class="entry__type">Draft entry</p>
+    </li>
+
+    <li class="entry entry--planned">
+      <p class="entry__meta">
+        <span class="entry__num">N°010</span>
+        <span class="entry__status entry__status--planned">Planned</span>
+      </p>
+      <h3 class="entry__title">Problem Statement Generator</h3>
+      <p class="entry__desc">A guided exercise for sharpening problem statements before solutioning. Sketch stage.</p>
+      <p class="entry__type">Draft entry</p>
+    </li>
+
+  </ol>
+</section>
+
+<section class="tracks" id="tracks" aria-labelledby="tracks-title">
+  <header class="section-head">
+    <p class="eyebrow">Reading List</p>
+    <h2 class="section-title" id="tracks-title">Tracks</h2>
+    <p class="section-intro">Five lanes for getting better at design. Most are still in draft. The honesty is part of the brand.</p>
+  </header>
+
+  <ol class="tracks__list" role="list">
+    <li class="track">
+      <span class="track__num" aria-hidden="true">I</span>
+      <div class="track__body">
+        <h3 class="track__title">Framework</h3>
+        <p class="track__desc">Process, methods, techniques, principles, toolkits. The how of the work.</p>
+      </div>
+      <span class="track__status">Planned</span>
+    </li>
+    <li class="track">
+      <span class="track__num" aria-hidden="true">II</span>
+      <div class="track__body">
+        <h3 class="track__title">Craft</h3>
+        <p class="track__desc">Domain knowledge, tooling, human sciences. Usability, color theory, behavior science.</p>
+      </div>
+      <span class="track__status">Planned</span>
+    </li>
+    <li class="track">
+      <span class="track__num" aria-hidden="true">III</span>
+      <div class="track__body">
+        <h3 class="track__title">Mindset</h3>
+        <p class="track__desc">Soft skills, prioritization, time management. The interior side of the practice.</p>
+      </div>
+      <span class="track__status">Planned</span>
+    </li>
+    <li class="track">
+      <span class="track__num" aria-hidden="true">IV</span>
+      <div class="track__body">
+        <h3 class="track__title">Operations</h3>
+        <p class="track__desc">Team rituals and the everyday tools that make a design org run.</p>
+      </div>
+      <span class="track__status">Planned</span>
+    </li>
+    <li class="track">
+      <span class="track__num" aria-hidden="true">V</span>
+      <div class="track__body">
+        <h3 class="track__title">Leadership</h3>
+        <p class="track__desc">Management, role definitions, strategies for proving design's value.</p>
+      </div>
+      <span class="track__status">Planned</span>
+    </li>
+  </ol>
+</section>
+
+<section class="writing" id="writing" aria-labelledby="writing-title">
+  <header class="section-head">
+    <p class="eyebrow">Outbound</p>
+    <h2 class="section-title" id="writing-title">Writing</h2>
+    <p class="section-intro">The repo focuses on practical, instructional content. Medium is where the case studies, commentary, and longer arguments live.</p>
+  </header>
+
+  <a class="writing__link" href="https://medium.com/design-knowledge-base">
+    Read on Medium <span aria-hidden="true">↗</span>
+  </a>
 </section>
