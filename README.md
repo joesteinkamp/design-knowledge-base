@@ -35,7 +35,7 @@ The framework is the how to do the work.
 - Tools
 
 
-###### [View Operations Docs](../4_Operations/)
+###### [View Operations Docs](./4_Operations/)
 
 ## Leadership
 
