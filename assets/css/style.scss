@@ -336,7 +336,8 @@ body.home .home-main { display: block; }
 
 // ----- Index sections -----
 .index { max-width: 1040px; margin: 0 auto; padding: clamp(44px, 6vw, 72px) clamp(20px, 5vw, 40px); }
-.index .index__head { display: flex; align-items: baseline; justify-content: space-between; gap: 16px; padding-bottom: 14px; border-bottom: 2px solid #17140f; }
+// Reset the legacy bare `header` element rule (blue bg, 24px padding, 56px margin).
+.index .index__head { background: transparent; display: flex; align-items: baseline; justify-content: space-between; gap: 16px; margin: 0; padding: 0 0 14px; border-bottom: 2px solid #17140f; }
 .index .index__label { font-family: 'Poppins', sans-serif; font-weight: 600; font-size: clamp(1.3rem, 2.6vw, 1.65rem); letter-spacing: -0.01em; color: #17140f; }
 .index .index__label span { color: #c0b8aa; font-weight: 500; padding: 0 4px; }
 .index .index__count { font-family: 'Roboto', sans-serif; font-size: 12px; font-weight: 600; letter-spacing: 0.14em; text-transform: uppercase; color: #8c8479; margin: 0; white-space: nowrap; }
