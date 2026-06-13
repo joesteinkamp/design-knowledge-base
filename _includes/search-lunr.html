@@ -53,13 +53,15 @@ function lunr_search(term) {
 }
 </script>
 <style>
-    #lunrsearch {font-size: 16px; padding: 16px; width: 40%; margin: 0; -webkit-appearance: none; border: 1px solid #000; border-right: 0;}
-    #lunrsearchsubmit {-webkit-appearance: none; padding: 16px; background: #2C5D9C; border: 1px solid #000; border-left: 0; font-size: 16px; color: #fff; font-weight: bold; cursor: pointer;}
+    #lunrsearch {font-size: 16px; padding: 16px; width: 40%; margin: 0; -webkit-appearance: none; background: var(--paper); color: var(--ink); border: 1px solid var(--rule-strong); border-right: 0; border-radius: 3px 0 0 3px;}
+    #lunrsearch::placeholder {color: var(--muted);}
+    #lunrsearchsubmit {-webkit-appearance: none; padding: 16px; background: var(--accent); border: 1px solid var(--accent); border-left: 0; border-radius: 0 3px 3px 0; font-size: 16px; color: var(--paper); font-weight: bold; cursor: pointer;}
+    #lunrsearchsubmit:hover {background: var(--accent-hover); border-color: var(--accent-hover);}
     #lunrsearchresults ul {list-style: none; padding: 0;}
     .lunrsearchresult {margin-bottom: 20px;}
-    .lunrsearchresult .title {color: #2C5D9C;}
-    .lunrsearchresult .url {color: #69788B; font-size: .95em;}
-    .lunrsearchresult a {display: block; color: #000;}
+    .lunrsearchresult .title {color: var(--accent);}
+    .lunrsearchresult .url {color: var(--muted); font-size: .95em;}
+    .lunrsearchresult a {display: block; color: var(--ink);}
     .lunrsearchresult a:hover, .lunrsearchresult a:focus {text-decoration: none;}
     .lunrsearchresult a:hover .title {text-decoration: underline;}
 </style>
